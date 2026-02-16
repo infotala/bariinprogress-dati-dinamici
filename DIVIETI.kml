@@ -6273,5 +6273,106 @@ AMBO I LATI CON RESTRINGIMENTO CARREGGIATA</name>
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>Riqualificazione: Piazzale Vittorio Locchi/Viale Antonio Meucci</name>
+      <description><![CDATA[Ordinanza: 2026/00709<br><br>https://drive.google.com/file/d/1LxFDpY4SNXX2opYLmxEYr3sFekmYAXG9/view<br><br>PN23025 ACCORDO QUADRO QUADRIENNALE PER<br>L’AFFIDAMENTOCONGIUNTO DI PROGETTAZIONE ESECUTIVA ED<br>ESECUZIONE DEI LAVORI DIRIQUALIFICAZIONE DI VIA POSTIGLIONE E VIA<br>AMENDOLA.CUP: J91B21001190001 CIG 9935118EB9<br>C.A.1 CIG DERIVATO: A06D145EC1 C.A.2 CIG DERIVATO: A06D145EC2<br>RICHIESTA ORDINANZA PER DIVIETO DI SOSTA AMBO I LATI CON<br>RIMOZIONE FORZATA E RESTRINGIMENTO DI CARREGGIATA SU PIAZZALE<br>VITTORIO LOCCHI E VIALE ANTONIO MEUCCI TRATTO COMPRESO TRA VIA<br>GIUSEPPE RE DAVID E VIALE UNITÀ D’ITALIA., DALLA DATA DI EMANAZIONE<br><br>IMPRESA ESECUTRICE: SOCIETÀ D’ORIA GIUSEPPE & C. S.R.L.<br><br>Nello specifico e’ istituito il divieto di sosta ambo i lati con rimozione forzata e<br>restringimento di<br>carreggiata su:<br>1) Piazzale Vittorio Locchi<br>2) Viale Antonio Meucci tratto compreso tra Via Giuseppe Re David e Viale Unità d’Italia.<br><br>Durata e Tempistiche: 12/02/2026 -  30/06/2026]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8737475,41.1124779,0
+          16.8744235,41.1125506,0
+          16.8748955,41.1126032,0
+          16.8761723,41.1125991,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>DIVIETO DI SOSTA AMBO I LATI E RESTRINGIMENTO CARREGGIATA</name>
+      <description><![CDATA[Comunicato 13/02/2026<br>https://www.comune.bari.it/-/novita/comunicati-stampa/al-via-i-lavori-di-riqualificazione-di-via-postiglione-e-via-amendola-nei-prossimi-giorni-allestimento-dell-area-di-cantiere-su-piazzale-locchi<br>Ordinanza: 2026/00709<br><br>https://drive.google.com/file/d/1LxFDpY4SNXX2opYLmxEYr3sFekmYAXG9/view<br><br>PN23025 ACCORDO QUADRO QUADRIENNALE PER<br>L’AFFIDAMENTOCONGIUNTO DI PROGETTAZIONE ESECUTIVA ED<br>ESECUZIONE DEI LAVORI DIRIQUALIFICAZIONE DI VIA POSTIGLIONE E VIA<br>AMENDOLA.CUP: J91B21001190001 CIG 9935118EB9<br>C.A.1 CIG DERIVATO: A06D145EC1 C.A.2 CIG DERIVATO: A06D145EC2<br>RICHIESTA ORDINANZA PER DIVIETO DI SOSTA AMBO I LATI CON<br>RIMOZIONE FORZATA E RESTRINGIMENTO DI CARREGGIATA SU PIAZZALE<br>VITTORIO LOCCHI E VIALE ANTONIO MEUCCI TRATTO COMPRESO TRA VIA<br>GIUSEPPE RE DAVID E VIALE UNITÀ D’ITALIA., DALLA DATA DI EMANAZIONE<br><br>IMPRESA ESECUTRICE: SOCIETÀ D’ORIA GIUSEPPE & C. S.R.L.<br><br>Nello specifico e’ istituito il divieto di sosta ambo i lati con rimozione forzata e<br>restringimento di<br>carreggiata su:<br>1) Piazzale Vittorio Locchi<br>2) Viale Antonio Meucci tratto compreso tra Via Giuseppe Re David e Viale Unità d’Italia.<br><br>Durata e Tempistiche: 12/02/2026 - 30/06/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8760733,41.1126618,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>divieto di transito:  prolungamento della SP 57 (tratto di pertinenza del Comune di Bari) in località Bari Torre a Mare</name>
+      <description><![CDATA[2026/00710 <br><br>https://drive.google.com/file/d/1FhSwCRsw-fANlSrd7tEN_PhgmnWZOGki/view<br><br>RETTIFICA ORDINANZA N. 2026/00708 DEL N12.2.2026 LAVORI DI MANUTENZIONE STRAORDINARIA, FINALIZZATI ALLA VELOCIZZAZIONE, DEL PONTE AL KM 660+250, RICADENTI LUNGO LA TRATTA BARI TORRE QUETTA - BARI TORRE A MARE” CHIUSURA STRADALE DEL PROLUNGAMENTO DELLA SP 57 (TRATTO DI PERTINENZA DEL COMUNE DI BARI) IN LOCALITÀ BARI TORRE A MARE DAL GIORNO 16.2.2026 E PER 20 GIORNI NATURALI E CONSECUTIVI . ISTANTE: RFI IMPRESA REM SRL<br><br> Istituzione temporanea della chiusura al transito veicolare del prolungamento della SP 57 (tratto di pertinenza del Comune di Bari) in località Bari Torre a Mare <br>L’impresa provvederà ad installare segnaletica stradale temporanea con l’utilizzo dei movieri abilitati; <br>Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>Durata e tempistiche: 16/02/2026 - 07/03/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.9981682,41.0825683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Corso Sonnino</name>
+      <description><![CDATA[2026/00712<br><br>https://drive.google.com/file/d/1U-QSNXC7-UoWI5mrn4-3KF6s8S7PLVRm/view<br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE E DELLA SOSTA SU CORSO SIDNEY SONNINO, DAL GIORNO 16/02/2026 AL GIORNO 06/03/2026, DALLE ORE 07:30 ALLE ORE 17:30 PER LAVORI DI RIPRISTINI STRADALI DEFINITIVI RICHIEDENTE: E-DISTRIBUZIONE S.P.A. IMPRESA ESECUTRICE: T&D S.R.L. <br><br>Divieto di sosta ambo i lati su: <br>a) Corso Sidney Sonnino da angolo via Matteotti a angolo via Durazzo<br>b) Corso Sidney Sonnino da angolo via Spalato a angolo via Abbrescia<br> Divieto di sosta ambo i lati e chiusura al traffico su: <br>c) Corso Sidney Sonnino da angolo via Durazzo a angolo Via Spalato (per l’intera larghezza della carreggiata) d)<br> L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori.<br> 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;iv) i veicoli diretti agli accessi carrabili privati<br><br>Durata e tempistiche: 16/02/2026 - 06/03/2026 07:30 - 17:30]]></description>
+      <styleUrl>#line-E65100-4100</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8865074,41.1175615,0
+          16.8817867,41.1193881,0
+          16.8760575,41.1216431,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Divieto di sosta /chiusura al traffico </name>
+      <description><![CDATA[2026/00712<br><br>https://drive.google.com/file/d/1U-QSNXC7-UoWI5mrn4-3KF6s8S7PLVRm/view<br><br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE E DELLA SOSTA SU CORSO SIDNEY SONNINO, DAL GIORNO 16/02/2026 AL GIORNO 06/03/2026, DALLE ORE 07:30 ALLE ORE 17:30 PER LAVORI DI RIPRISTINI STRADALI DEFINITIVI RICHIEDENTE: E-DISTRIBUZIONE S.P.A. IMPRESA ESECUTRICE: T&D S.R.L. <br><br>Divieto di sosta ambo i lati su: <br>a) Corso Sidney Sonnino da angolo via Matteotti a angolo via Durazzo<br>b) Corso Sidney Sonnino da angolo via Spalato a angolo via Abbrescia<br> Divieto di sosta ambo i lati e chiusura al traffico su: <br>c) Corso Sidney Sonnino da angolo via Durazzo a angolo Via Spalato (per l’intera larghezza della carreggiata) d)<br> L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori.<br> 2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;iv) i veicoli diretti agli accessi carrabili privati<br><br>Durata e tempistiche: 16/02/2026 - 06/03/2026 07:30 - 17:30]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8799322,41.1200131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Via Giulio Petroni</name>
+      <description><![CDATA[Ordinanza: 2026/00714<br><br>https://drive.google.com/file/d/16MeFHxsZbUvlNxrEJAWd_Oe1BmlIbvhh/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON CHIUSURA AL TRANSITO VEICOLARE<br>SU VIA GIULIO PETRONI NEL TRATTO COMPRESO TRA VIA OSPEDALE DI<br>VENERE E VIA GIUSEPPE SIGNORILE BIANCHI PER LAVORI DI SCAVO PER<br>CONTO DI E-DISTRIBUZIONE <br>SOCIETÀ:NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 16/02/2026 - 31/03/2026.]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8646199,41.0782941,0
+          16.8647676,41.0764777,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>Via Corrado </name>
+      <description><![CDATA[2026/00713 <br><br>https://drive.google.com/file/d/147EjYaUw8WZm1Ez0wCP5UE-QT4d6oHIU/view<br><br>STATO DI EMERGENZA A SEGUITO PERICOLO DI CROLLO MURO SU VIA V. CORRADO CIV. 1-3 E VIA F.LLI PETRUZZELLI – Q.RE S.GIROLAMO<br><br>-ISTITUZIONE DEL DIVIETO DI TRANSITO VEICOLARE SU VIA CORRADO IN S. GIROLAMO DAL CIV.1 AL CIV.3;<br> -ISTITUZIONE DEL DIVIETO DI TRANSITO VEICOLARE SULLA VIA F.LLI PETRUZZELLI DAL CIV. 5 A STRADA S.GIROLAMO;<br>-ISTITUZIONE DEL SENSO UNICO ALTERNATO DI CIRCOLAZIONE SULLA VIA CORRADO DAL CIV. 3 ALLA VIA RESPIGHI, CON ACCESSO CONSENTITO AI SOLI FRONTISTI; -ISTITUZIONE DEL SENSO UNICO ALTERNATO DI CIRCOLAZIONE SULLA VIA F.LLI PETRUZZELLI DA VIA CORRADO AL CIV. 5, CON ACCESSO CONSENTITO AI SOLI FRONTISTI; -DIVIETO DI SOSTA SU STRADA S.GIROLAMO DA VIA CORRADO A VIA F.LLI PETRUZZELLI.<br><br>Durata e tempistiche: 13/02/2026 fino a fine esigenze]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8233433,41.135748,0
+          16.8232574,41.1351015,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>divieto di transito/senso unico alternato/divieto di sosta</name>
+      <description><![CDATA[2026/00713 <br><br>https://drive.google.com/file/d/147EjYaUw8WZm1Ez0wCP5UE-QT4d6oHIU/view<br><br>STATO DI EMERGENZA A SEGUITO PERICOLO DI CROLLO MURO SU VIA V. CORRADO CIV. 1-3 E VIA F.LLI PETRUZZELLI – Q.RE S.GIROLAMO<br><br>-ISTITUZIONE DEL DIVIETO DI TRANSITO VEICOLARE SU VIA CORRADO IN S. GIROLAMO DAL CIV.1 AL CIV.3;<br> -ISTITUZIONE DEL DIVIETO DI TRANSITO VEICOLARE SULLA VIA F.LLI PETRUZZELLI DAL CIV. 5 A STRADA S.GIROLAMO;<br>-ISTITUZIONE DEL SENSO UNICO ALTERNATO DI CIRCOLAZIONE SULLA VIA CORRADO DAL CIV. 3 ALLA VIA RESPIGHI, CON ACCESSO CONSENTITO AI SOLI FRONTISTI; -ISTITUZIONE DEL SENSO UNICO ALTERNATO DI CIRCOLAZIONE SULLA VIA F.LLI PETRUZZELLI DA VIA CORRADO AL CIV. 5, CON ACCESSO CONSENTITO AI SOLI FRONTISTI; -DIVIETO DI SOSTA SU STRADA S.GIROLAMO DA VIA CORRADO A VIA F.LLI PETRUZZELLI.<br><br>Durata e tempistiche: 13/02/2026 fino a fine esigenze]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8232038,41.1355459,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DIVIETO DI SOSTA E DI FERMATA</name>
+      <description><![CDATA[Ordinanza: 2026/00714<br><br>https://drive.google.com/file/d/16MeFHxsZbUvlNxrEJAWd_Oe1BmlIbvhh/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON CHIUSURA AL TRANSITO VEICOLARE<br>SU VIA GIULIO PETRONI NEL TRATTO COMPRESO TRA VIA OSPEDALE DI<br>VENERE E VIA GIUSEPPE SIGNORILE BIANCHI PER LAVORI DI SCAVO PER<br>CONTO DI E-DISTRIBUZIONE <br>SOCIETÀ:NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 16/02/2026 - 31/03/2026.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8648232,41.0766656,0
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
