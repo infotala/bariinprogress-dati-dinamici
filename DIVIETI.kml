@@ -2286,7 +2286,7 @@ IMPRESA ESECUTRICE:VALLARELLA IMMOBILIARE S.R.L.
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
-          16.8258594,41.1370159,0
+          16.8257159,41.1370381,0
         </coordinates>
       </Point>
     </Placemark>
@@ -8388,6 +8388,192 @@ IMPRESA ESECUTRICE: VGM SRL
           16.8728808,41.1163897,0
           16.8729908,41.11642,0
           16.8728889,41.1171818,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01161
+RESTRINGIMENTO DI CARREGGIATA
+CORSO ALCIDE DE GASPERI TRA STRADA CALVANI E VIA ALBEROTANZA
+POSIZIONAMENTORECINZIONE METALLICA DI CANTIERE
+RICHIEDENTE:SIG. CARLO MASTRANDREA
+12/03/2026 - 12/08/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01161<br><br>https://drive.google.com/file/d/1bQEAgwYeNijANBvMfQfSIM3tggF1636B/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E<br>DEROGA AL DIVIETO DI FERMATA PER I MEZZI AL SERVIZIO DEL<br>RICHIEDENTE SU CORSO ALCIDE DE GASPERI CIVV. 308 A-B-C-D-E-F<br>TRATTO COMPRESO TRA STRADA CALVANI E VIA ALBEROTANZA PER<br>RECINZIONE METALLICA DI CANTIERE PER CARICO E SCARICO DA MEZZI<br>DI CANTIERE<br>RICHIEDENTE: SIG. CARLO MASTRANDREA<br><br>Durata e tempistiche: 12/03/2026 - 12/08/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8708572,41.0956026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01161
+RESTRINGIMENTO DI CARREGGIATA
+CORSO ALCIDE DE GASPERI TRA STRADA CALVANI E VIA ALBEROTANZA
+POSIZIONAMENTORECINZIONE METALLICA DI CANTIERE
+RICHIEDENTE:SIG. CARLO MASTRANDREA
+12/03/2026 - 12/08/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01161<br><br>https://drive.google.com/file/d/1bQEAgwYeNijANBvMfQfSIM3tggF1636B/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA E<br>DEROGA AL DIVIETO DI FERMATA PER I MEZZI AL SERVIZIO DEL<br>RICHIEDENTE SU CORSO ALCIDE DE GASPERI CIVV. 308 A-B-C-D-E-F<br>TRATTO COMPRESO TRA STRADA CALVANI E VIA ALBEROTANZA PER<br>RECINZIONE METALLICA DI CANTIERE PER CARICO E SCARICO DA MEZZI<br>DI CANTIERE<br>RICHIEDENTE: SIG. CARLO MASTRANDREA<br><br>Durata e tempistiche: 12/03/2026 - 12/08/2026]]></description>
+      <styleUrl>#line-E65100-4681</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8703744,41.0933468,0
+          16.8707445,41.0956754,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01160
+REGOLAMENTAZIONE ALLA CIRCOLAZIONE
+VIA DI VAGNO E PIAZZA POERIO
+POSIZIONAMENTO RECINZIONE DI CANTIERE E PONTEGGIO
+RICHIEDENTE:CITTÀ METROPOLITANA DI BARI
+16/03/2026 - 31/10/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01160<br><br>https://drive.google.com/file/d/1gmEdZ3DeEe2IjFS10GPDmD3Hq4XD8BZC/view<br><br>REGOLAMENTAZIONE ALLA CIRCOLAZIONE SU VIA DI VAGNO E PIAZZA<br>POERIO PER POSIZIONAMENTO RECINZIONE<br>DI CANTIERE E PONTEGGIO PER LAVORI PRESSO L’ ISTITUTO<br>“MARCONI”_CITTÀ METROPOLITANA<br>RICHIEDENTE: CITTÀ METROPOLITANA DI BAR DOTT. ARCH. NICOLÒ<br>VISAGGIO<br><br>Nello specifico:<br><br>1) interdizione provvisoria della sosta sulla via Fratelli Rosselli nel tratto compreso tra il civ. 2 e il civ. 28 per ml. 50,00<br>x ml. 2,00 (lato destro di marcia);<br><br>2) spostamento di n. 2 stalli di sosta riservati a diversamente abili contraddistinti da CUDE 9553/E e 8064<br>rispettivamente realizzati in corrispondenza dei civv. 24 e 8 della stessa via F.lli Rosselli (si suggerisce all'altezza del<br>civ. 30);<br>3) all'interdizione provvisoria della sosta in Piazza Poerio, lato ferrovia, nel tratto compreso tra via F.lli Rosselli e via Di<br>Vagno per ml. 70,00 x ml. 2,00;<br>4) allo spostamento dell'isola ecologica sopra descritta (si suggerisce in corso Sonnino, fronte via F.lli Rosselli, lato<br>ferrovia);<br>5) allo spostamento dei n. 15 stalli riservati alla sosta dei cicli e motocicli di cui sopra, nel tratto di piazza Poerio<br>sottostante il ponte Giuseppe Garibaldi, di fianco la linea ferroviaria;<br><br>Durata e tempistiche: 16/03/2026 - 31/10/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8893378,41.118148,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01159
+DIVIETO DI FERMATA, RESTRINGIMENTO CARREGGIATA
+VIA DELLA COSTITUENTE E VIALE EINAUDI DA VIA DELLA COSTITUENTE A VIA DELLA RESISTENZA
+REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+09/03/2026 - 09/04/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/01159<br><br>https://drive.google.com/file/d/1V00v0gJVOOxK3zXxTfJxGc9J5_gLTPZc/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA DELLA COSTITUENTE E VIALE EINAUDI DAL GIORNO 09.03.2026 AL GIORNO 09.04.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br> i) via della Costituente;<br> ii) viale Einaudi, nel tratto stradale compreso tra via della Costituente e via della Resistenza, nella carreggiata adiacente il Parco 2 Giugno. <br>b) L’istituzione del divieto di fermata, ambo i lati a tutti i veicoli su:<br> i) via della Costituente;<br> ii) viale Einaudi, nel tratto stradale compreso tra via della Costituente e via della Resistenza, nella carreggiata adiacente il Parco 2 Giugno. <br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; v) i veicoli diretti agli accessi carrabili privati.<br><br>Durata e tempistiche: 09/03/2026 - 09/04/2026 ]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8736348,41.10379,0
+          16.8736885,41.1006936,0
+          16.8762848,41.100831,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01160
+REGOLAMENTAZIONE ALLA CIRCOLAZIONE
+VIA DI VAGNO E PIAZZA POERIO
+POSIZIONAMENTO RECINZIONE DI CANTIERE E PONTEGGIO
+RICHIEDENTE:CITTÀ METROPOLITANA DI BARI
+16/03/2026 - 31/10/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01160<br><br>https://drive.google.com/file/d/1gmEdZ3DeEe2IjFS10GPDmD3Hq4XD8BZC/view<br><br>REGOLAMENTAZIONE ALLA CIRCOLAZIONE SU VIA DI VAGNO E PIAZZA<br>POERIO  PER POSIZIONAMENTO RECINZIONE<br>DI CANTIERE E PONTEGGIO PER LAVORI PRESSO L’ ISTITUTO<br>“MARCONI”_CITTÀ METROPOLITANA<br>RICHIEDENTE: CITTÀ METROPOLITANA DI BAR DOTT. ARCH. NICOLÒ<br>VISAGGIO<br><br>Nello specifico:<br><br>1) interdizione provvisoria della sosta sulla via Fratelli Rosselli nel tratto compreso tra il civ. 2 e il civ. 28 per ml. 50,00<br>x ml. 2,00 (lato destro di marcia);<br><br>2) spostamento di n. 2 stalli di sosta riservati a diversamente abili contraddistinti da CUDE 9553/E e 8064<br>rispettivamente realizzati in corrispondenza dei civv. 24 e 8 della stessa via F.lli Rosselli (si suggerisce all'altezza del<br>civ. 30);<br>3) all'interdizione provvisoria della sosta in Piazza Poerio, lato ferrovia, nel tratto compreso tra via F.lli Rosselli e via Di<br>Vagno per ml. 70,00 x ml. 2,00;<br>4) allo spostamento dell'isola ecologica sopra descritta (si suggerisce in corso Sonnino, fronte via F.lli Rosselli, lato<br>ferrovia);<br>5) allo spostamento dei n. 15 stalli riservati alla sosta dei cicli e motocicli di cui sopra, nel tratto di piazza Poerio<br>sottostante il ponte Giuseppe Garibaldi, di fianco la linea ferroviaria;<br><br>Durata e tempistiche: 16/03/2026 - 31/10/2026]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8886587,41.1171541,0
+          16.8891348,41.1182513,0
+          16.8892743,41.118219,0
+          16.888809,41.117114,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01158
+DIVIETO DI FERMATA, RESTRINGIMENTO CARREGGIATA
+VIA CALDAROLA DA VIA LOIACONO A VIA TOSCANINI
+REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+05/03/2026 - 04/04/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/01158<br><br>https://drive.google.com/file/d/1Mo8lZbdfNiLyateypyrXBXh0F9T4JDFU/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA CALDAROLA NEL TRATTO STRADALE COMPRESO TRA VIA LOIACONO E VIA TOSCANINI FINO AL 04.04.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Caldarola nel tratto stradale compreso tra via Loiacono e via Toscanini, incluse le intersezioni. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Caldarola nel tratto stradale compreso tra via Loiacono e via Toscanini 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br>Durata e tempistiche: 05/03/2026 - 04/04/2026 ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.9094214,41.1023894,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01158
+DIVIETO DI FERMATA, RESTRINGIMENTO CARREGGIATA
+VIA CALDAROLA DA VIA LOIACONO A VIA TOSCANINI
+REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+05/03/2026 - 04/04/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/01158<br><br>https://drive.google.com/file/d/1Mo8lZbdfNiLyateypyrXBXh0F9T4JDFU/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA CALDAROLA NEL TRATTO STRADALE COMPRESO TRA VIA LOIACONO E VIA TOSCANINI FINO AL 04.04.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Caldarola nel tratto stradale compreso tra via Loiacono e via Toscanini, incluse le intersezioni. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Caldarola nel tratto stradale compreso tra via Loiacono e via Toscanini 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br>Durata e tempistiche: 05/03/2026 - 04/04/2026 ]]></description>
+      <styleUrl>#line-E65100-5069</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.908885,41.1026602,0
+          16.9107357,41.1019407,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01159
+DIVIETO DI FERMATA, RESTRINGIMENTO CARREGGIATA
+VIA DELLA COSTITUENTE E VIALE EINAUDI DA VIA DELLA COSTITUENTE A VIA DELLA RESISTENZA
+REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
+IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L. 
+09/03/2026 - 09/04/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/01159<br><br>https://drive.google.com/file/d/1V00v0gJVOOxK3zXxTfJxGc9J5_gLTPZc/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA DELLA COSTITUENTE E VIALE EINAUDI DAL GIORNO 09.03.2026 AL GIORNO 09.04.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br> i) via della Costituente;<br> ii) viale Einaudi, nel tratto stradale compreso tra via della Costituente e via della Resistenza, nella carreggiata adiacente il Parco 2 Giugno. <br>b) L’istituzione del divieto di fermata, ambo i lati a tutti i veicoli su:<br> i) via della Costituente;<br> ii) viale Einaudi, nel tratto stradale compreso tra via della Costituente e via della Resistenza, nella carreggiata adiacente il Parco 2 Giugno. <br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; v) i veicoli diretti agli accessi carrabili privati.<br><br>Durata e tempistiche: 09/03/2026 - 09/04/2026 ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8737957,41.1008957,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2025/03413
+RIDUZIONE DELLA CARREGGIATA STRADALE
+DIVIETO DI TRANSITO DEI VEICOLI CON PESO A PIENO CARICO SUPERIORE A 3,5 T 
+PONTE GARIBALDI
+CALCINAZIONE NELLA ZONA BASELE E FENOMENI DI DEGRADO
+RICHIEDENTE:CITTÀ METROPOLITANA DI BARI
+01/11/2025- FINO A REVOCA</name>
+      <description><![CDATA[2026/00384<br>https://drive.google.com/file/d/1Ba8L7bGkl6Pp40WA1G90CDOeYxbXNnTF/view<br><br>aggiornamento 27/01/2026<br>Ponte Garibaldi: giovedì 29 e venerdì 30 gennaio le prove di carico dinamiche<br><br>La ripartizione Infrastrutture, Viabilità e Opere pubbliche rende noto che nelle giornate di giovedì 29 e venerdì 30 gennaio il ponte Garibaldi (tra via Giuseppe Di Vagno e via Apulia), sarà chiuso al transito dalle ore 9 alle 18, per consentire lo svolgimento dell’indagine dinamica sull’infrastruttura, propedeutica alla riapertura completa al traffico.<br><br>La prova dinamica, non invasiva, avrà l’obiettivo di identificare, attraverso sensori, le frequenze proprie di vibrazione del ponte, per costruire l’impronta digitale dinamica della struttura e fornire dati utili a eventuali piani di manutenzione.<br><br>Sul ponte sono stati, infatti, disposti la riduzione di carreggiata e il divieto di transito ai mezzi pesanti, in seguito alla caduta di calcinacci: in caso di esito positivo dei test da effettuarsi nei due giorni programmati, l’infrastruttura tornerà a essere interamente fruibile nelle sue quattro corsie, anche da autobus e mezzi pesanti.<br><br>Negli scorsi giorni sono stati completati i rilievi preliminari sulla geometria delle campate, sullo stato dei giunti, su appoggi ed eventuali lesioni visibili, attraverso laser scanner. È stato, dunque, ricostruito un modello del ponte in CAD: il modello permette di completare le informazioni a disposizione dell’amministrazione comunale, rispetto a quanto contenuto nel progetto del ponte custodito negli archivi storici, risalente agli anni Settanta.<br><br>Giovedì 29 e venerdì 30 gennaio si svolgerà la prova dinamica: saranno, dunque, installati sul ponte dei sensori, che registreranno la reazione dell’infrastruttura alle sollecitazioni del traffico, facendo transitare mezzi con carico certificato.<br><br>Pertanto, il ponte sarà chiuso per due giorni, dalle 9 alle 18, al fine di permettere un corretto attrezzamento strumentale dello stesso ed effettuare le rilevazioni. Nel caso in cui le attività dovessero terminare prima del previsto, il ponte tornerà fruibile a carreggiata ridotta.<br><br>L’analisi dei risultati dell’attività d’indagine sarà eseguita nell’ambito del primo contratto attuativo dell’accordo quadro di durata triennale per “l’affidamento di servizi di ingegneria relativi alla classificazione e gestione del rischio, la valutazione della sicurezza e il monitoraggio dei ponti esistenti sul territorio della città di Bari, di proprietà dell’amministrazione comunale, nonché di quelli per i quali l’amministrazione comunale ha comunque la responsabilità delle attività di manutenzione”. <br><br>2025/03413<br>https://drive.google.com/open?id=1nw-oZ1lWJv94CMcYmEPlIkTRvKBO6YZz&authuser=0<br><br>2025/03762<br>https://drive.google.com/file/d/1l35BXgDVyATjUGPv90u-37fCLexAhBKH/view<br><br>ISTITUZIONE DELLA RIDUZIONE DELLA CARREGGIATA STRADALE, DEL LIMITE DI VELOCITÀ A 30KM/H, DEL DIVIETO DI TRANSITO DEI VEICOLI CON PESO A PIENO CARICO SUPERIORE A 3,5 T E DEL DIVIETO DI TRANSITO AI PEDONI SUL PONTE GARIBALDI A BARI.<br><br>INTEGRAZIONE:: ISTITUZIONE DEL DIVIETO DI SOSTA IN VIA APULIA E VIA GIUSEPPE DI<br>VAGNO AL DI SOTTO DEL PONTE GARIBALDI<br><br>Durata e tempistiche: 01/11/2025 - fino a revoca.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8887239,41.1169712,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01191
+DIVIETO DI TRANSITO VEICOLARE E
+PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO
+IN VIA CILEA DAL CIV. 2 AL CIV. 10/A
+REALIZZAZIONE AREA DI CANTIERE PER OPERAZIONI DI GETTO
+IMPRESA ESECUTRICE: VALLARELLA IMMOBILIARE S.R.L.
+11/03/2026 - 12/03/2026 07:00 - 16:00
+</name>
+      <description><![CDATA[2026/01191<br>https://drive.google.com/file/d/1F5eSttaSeu38uie3AzNzS9JctsJIDAvo/view <br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER REALIZZAZIONE AREA DI CANTIERE PER<br>OPERAZIONI DI GETTO CLS PER I GIORNI 11/12/03/2026 DALLE ORE 07:00<br>ALLE ORE 16:00.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br>1. La temporanea Istituzione del divieto di transito veicolare su via Cilea, nel tratto compreso tra il<br>civ. 2 e il civ. 10/A, eccetto frontisti, laddove la strada non è oggetto di occupazione;<br><br>2. La temporanea istituzione del divieto di sosta ambo i lati della via Cilea nel tratto di strada tra<br>il civ. 2 e il civ. 10/A;<br><br>3. La temporanea istituzione del senso unico alternato della via Cilea tratto tra il civ. 10/A e strada<br>San Girolamo, per consentire l’accesso/uscita dalla via Cilea, tratto percorribile durante<br>l’esecuzione dei lavori in narrativa;<br><br>4. Occorrerà interdire il transito dei pedoni nell’area di cantiere con particolare attenzione nella<br>zona sottostante il braccio operativo;<br><br>5. Durante l’esecuzione dei lavori, dovrà essere garantita la presenza di movieri dotati di idoneo<br>equipaggiamento che regolamenteranno la circolazione veicolare e pedonale;<br><br>6. Dovranno essere lasciati liberi gli accessi privati, regolamentando la circolazione veicolare<br>proveniente e diretta al Lungomare IX Maggio e proveniente e diretta su strada San Girolamo<br>nei tratti di via Cilea percorribili;<br><br>7. In particolare n. 2 movieri all’intersezione lungomare IX Maggio/via Cilea nonché al civ.10/A e<br>l’intersezione strada san Girolamo/via Cilea ovvero nel senso unico alternato che verrà<br>temporaneamente istituito;<br>8. Dovrà essere data indicazione della temporanea interdizione al transito veicolare della via Cilea,<br>all’intersezione Lungomare IX Maggio/via Donato Marrone;<br><br>9. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte<br>capacità motorie;<br><br>10. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente<br>sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente<br>disposto;<br><br>DURATA E TEMPISTICHE: dal 11/03/2026 al 12/03/2026 dalle ore 07:00 alle ore 16:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8258418,41.1371716,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01191
+DIVIETO DI TRANSITO VEICOLARE E
+PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO
+IN VIA CILEA DAL CIV. 2 AL CIV. 10/A
+REALIZZAZIONE AREA DI CANTIERE PER OPERAZIONI DI GETTO
+IMPRESA ESECUTRICE: VALLARELLA IMMOBILIARE S.R.L.
+11/03/2026 - 12/03/2026 07:00 - 16:00</name>
+      <description><![CDATA[2026/01191<br>https://drive.google.com/file/d/1F5eSttaSeu38uie3AzNzS9JctsJIDAvo/view <br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER REALIZZAZIONE AREA DI CANTIERE PER<br>OPERAZIONI DI GETTO CLS PER I GIORNI 11/12/03/2026 DALLE ORE 07:00<br>ALLE ORE 16:00.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br>1. La temporanea Istituzione del divieto di transito veicolare su via Cilea, nel tratto compreso tra il<br>civ. 2 e il civ. 10/A, eccetto frontisti, laddove la strada non è oggetto di occupazione;<br><br>2. La temporanea istituzione del divieto di sosta ambo i lati della via Cilea nel tratto di strada tra<br>il civ. 2 e il civ. 10/A;<br><br>3. La temporanea istituzione del senso unico alternato della via Cilea tratto tra il civ. 10/A e strada<br>San Girolamo, per consentire l’accesso/uscita dalla via Cilea, tratto percorribile durante<br>l’esecuzione dei lavori in narrativa;<br><br>4. Occorrerà interdire il transito dei pedoni nell’area di cantiere con particolare attenzione nella<br>zona sottostante il braccio operativo;<br><br>5. Durante l’esecuzione dei lavori, dovrà essere garantita la presenza di movieri dotati di idoneo<br>equipaggiamento che regolamenteranno la circolazione veicolare e pedonale;<br><br>6. Dovranno essere lasciati liberi gli accessi privati, regolamentando la circolazione veicolare<br>proveniente e diretta al Lungomare IX Maggio e proveniente e diretta su strada San Girolamo<br>nei tratti di via Cilea percorribili;<br><br>7. In particolare n. 2 movieri all’intersezione lungomare IX Maggio/via Cilea nonché al civ.10/A e<br>l’intersezione strada san Girolamo/via Cilea ovvero nel senso unico alternato che verrà<br>temporaneamente istituito;<br>8. Dovrà essere data indicazione della temporanea interdizione al transito veicolare della via Cilea,<br>all’intersezione Lungomare IX Maggio/via Donato Marrone;<br><br>9. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte<br>capacità motorie;<br><br>10. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente<br>sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente<br>disposto;<br><br>DURATA E TEMPISTICHE: dal 11/03/2026 al 12/03/2026 dalle ore 07:00 alle ore 16:00]]></description>
+      <styleUrl>#line-E65100-4681</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8258183,41.1371758,0
+          16.8257307,41.1369003,0
         </coordinates>
       </LineString>
     </Placemark>
