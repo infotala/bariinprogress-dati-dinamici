@@ -576,28 +576,6 @@
         <styleUrl>#line-E65100-6425-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="line-E65100-6459-normal">
-      <LineStyle>
-        <color>ff0051e6</color>
-        <width>6.459</width>
-      </LineStyle>
-    </Style>
-    <Style id="line-E65100-6459-highlight">
-      <LineStyle>
-        <color>ff0051e6</color>
-        <width>9.6885</width>
-      </LineStyle>
-    </Style>
-    <StyleMap id="line-E65100-6459">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#line-E65100-6459-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#line-E65100-6459-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="line-E65100-6619-normal">
       <LineStyle>
         <color>ff0051e6</color>
@@ -2635,41 +2613,6 @@ IMPRESA ESECUTRICE:: RETEGAS BARI S.P.A. – BARI.
           16.8608703,41.1235378,0
           16.8608273,41.1241558,0
           16.860675,41.1252828,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00849
-CHIUSURA AL TRANSITO
-VIA PIETRO COLLETTA 24
-DEMOLIZIONE DEL MANUFATTO
-RICHIEDENTE: SIG. FERRARESE DOMENICO
-09/03/2026 - 04/03/2027 lun-ven h 07:00-17 sab 07:00-13:00
-</name>
-      <description><![CDATA[2026/00849<br>https://drive.google.com/file/d/1J22LxEvutxGdy2uPOLBmbdKjQrqWWpkd/view<br>RETTIFICA DATE ESECUZIONE LAVORI<br><br>ISTITUZIONE TEMPORANEA DI CHIUSURA AL TRANSITO SU VIA PIETRO<br>COLLETTA 24 TRATTO COMPRESO TRA VIA S. PIETRACOLA A V.LE L.<br>PASTEUR, PER DEMOLIZIONE DEL MANUFATTO DAL 9 MARZO 2026 AL 4<br>MARZO 2027 DALLE ORE07:00 ALLE ORE 17:00, DAL LUNEDÌ AL VENERDÌ E<br>DALLE ORE 07:00 ALLE ORE 13:00 IL SABATO,;<br>RICHIEDENTE: SIG. FERRARESE DOMENICO<br><br>Durata e tempistiche: 09/03/2026 - 04/03/2027 lun-ven h 07:00-17 sab 07:00-13:00<br><br>2026/00240 <br><br>https://drive.google.com/file/d/1wl2E0JCFoX6qA6IQazrvZjRfHFpL4vpe/view<br><br>ISTITUZIONE TEMPORANEA DI CHIUSURA AL TRANSITO SU VIA PIETRO COLLETTA 24 TRATTO COMPRESO TRA VIA S. PIETRACOLA A V.LE L. PASTEUR, PER DEMOLIZIONE DEL MANUFATTO DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL 4 MARZO 2027 DALLE ORE 07:00 ALLE ORE 17:00, DAL LUNEDÌ AL VENERDÌ E DALLE ORE 07:00 ALLE ORE 13:00 IL SABATO,; RICHIEDENTE: SIG. FERRARESE DOMENICO<br><br>Sono istituiti su via Pietro Colletta 24 tratto compreso tra via S. Pietracola a V.le L. Pasteur; <br>La chiusura al transito per tutti i veicoli; <br> divieto di fermata sul lato civici pari, nel tratto compreso da Via S. Pietracola al civico 6 di Via Р.Coletta (lato sinistro di marcia) e sul lato fronte civici pari, nel tratto compreso tra il civico 6 e V.leL. Pasteur, (lato destro di marcia) al fine di consentire il doppio senso di marcia e permettere l'afflusso e il deflusso alle proprietà laterali ai frontisti.<br><br> <br>Durata e tempistiche: 15/01/2026 - 04/03/2026 lun-ven 07:00-17:00 sab 07:00-13:00]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8552625,41.1139824,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00849
-CHIUSURA AL TRANSITO
-VIA PIETRO COLLETTA 24
-DEMOLIZIONE DEL MANUFATTO
-RICHIEDENTE: SIG. FERRARESE DOMENICO
-09/03/2026 - 04/03/2027 lun-ven h 07:00-17 sab 07:00-13:00
-</name>
-      <description><![CDATA[2026/00849<br>https://drive.google.com/file/d/1J22LxEvutxGdy2uPOLBmbdKjQrqWWpkd/view<br>RETTIFICA DATE ESECUZIONE LAVORI<br><br>ISTITUZIONE TEMPORANEA DI CHIUSURA AL TRANSITO SU VIA PIETRO<br>COLLETTA 24 TRATTO COMPRESO TRA VIA S. PIETRACOLA A V.LE L.<br>PASTEUR, PER DEMOLIZIONE DEL MANUFATTO DAL 9 MARZO 2026 AL 4<br>MARZO 2027 DALLE ORE07:00 ALLE ORE 17:00, DAL LUNEDÌ AL VENERDÌ E<br>DALLE ORE 07:00 ALLE ORE 13:00 IL SABATO,;<br>RICHIEDENTE: SIG. FERRARESE DOMENICO<br><br>Durata e tempistiche: 09/03/2026 - 04/03/2027 lun-ven h 07:00-17 sab 07:00-13:00<br><br>2026/00240 <br><br>https://drive.google.com/file/d/1wl2E0JCFoX6qA6IQazrvZjRfHFpL4vpe/view<br><br>ISTITUZIONE TEMPORANEA DI CHIUSURA AL TRANSITO SU VIA PIETRO COLLETTA 24 TRATTO COMPRESO TRA VIA S. PIETRACOLA A V.LE L. PASTEUR, PER DEMOLIZIONE DEL MANUFATTO DALLA DATA DI EMANAZIONE DELLA PRESENTE ORDINANZA AL 4 MARZO 2027 DALLE ORE 07:00 ALLE ORE 17:00, DAL LUNEDÌ AL VENERDÌ E DALLE ORE 07:00 ALLE ORE 13:00 IL SABATO,; RICHIEDENTE: SIG. FERRARESE DOMENICO<br><br>Sono istituiti su via Pietro Colletta 24 tratto compreso tra via S. Pietracola a V.le L. Pasteur; <br>La chiusura al transito per tutti i veicoli; <br> divieto di fermata sul lato civici pari, nel tratto compreso da Via S. Pietracola al civico 6 di Via Р.Coletta (lato sinistro di marcia) e sul lato fronte civici pari, nel tratto compreso tra il civico 6 e V.leL. Pasteur, (lato destro di marcia) al fine di consentire il doppio senso di marcia e permettere l'afflusso e il deflusso alle proprietà laterali ai frontisti.<br><br>Durata e tempistiche: 15/01/2026 - 04/03/2026 lun-ven 07:00-17:00 sab 07:00-13:00]]></description>
-      <styleUrl>#line-E65100-2744</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8530041,41.1143461,0
-          16.8553913,41.1138773,0
-          16.8560296,41.1133963,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -5756,46 +5699,6 @@ RICHIEDENTE: SIG. FLAVIO STEFANO CAPRIATI
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00710
-CHIUSURA AL TRANSITO VEICOLARE DEL PROLUNGAMENTO DELLA SP 57 
-LOCALITÀ BARI TORRE A MARE
-MANUTENZIONE STRAORDINARIA
-RICHIEDENTE: RFI
-IMPRESA ESECUTRICE: REM SRL
-16/02/2026 - 07/03/2026
-</name>
-      <description><![CDATA[2026/00710 <br><br>https://drive.google.com/file/d/1FhSwCRsw-fANlSrd7tEN_PhgmnWZOGki/view<br><br>RETTIFICA ORDINANZA N. 2026/00708 DEL N12.2.2026 LAVORI DI MANUTENZIONE STRAORDINARIA, FINALIZZATI ALLA VELOCIZZAZIONE, DEL PONTE AL KM 660+250, RICADENTI LUNGO LA TRATTA BARI TORRE QUETTA - BARI TORRE A MARE” CHIUSURA STRADALE DEL PROLUNGAMENTO DELLA SP 57 (TRATTO DI PERTINENZA DEL COMUNE DI BARI) IN LOCALITÀ BARI TORRE A MARE DAL GIORNO 16.2.2026 E PER 20 GIORNI NATURALI E CONSECUTIVI . ISTANTE: RFI IMPRESA REM SRL<br><br> Istituzione temporanea della chiusura al transito veicolare del prolungamento della SP 57 (tratto di pertinenza del Comune di Bari) in località Bari Torre a Mare <br>L’impresa provvederà ad installare segnaletica stradale temporanea con l’utilizzo dei movieri abilitati; <br>Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>Durata e tempistiche: 16/02/2026 - 07/03/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.9981682,41.0825683,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00710
-CHIUSURA AL TRANSITO VEICOLARE DEL PROLUNGAMENTO DELLA SP 57 
-LOCALITÀ BARI TORRE A MARE
-MANUTENZIONE STRAORDINARIA
-RICHIEDENTE: RFI
-IMPRESA ESECUTRICE: REM SRL
-16/02/2026 - 07/03/2026
-</name>
-      <description><![CDATA[2026/00710<br><br>https://drive.google.com/file/d/1FhSwCRsw-fANlSrd7tEN_PhgmnWZOGki/view<br><br>RETTIFICA ORDINANZA N. 2026/00708 DEL N12.2.2026 LAVORI DI MANUTENZIONE STRAORDINARIA, FINALIZZATI ALLA VELOCIZZAZIONE, DEL PONTE AL KM 660+250, RICADENTI LUNGO LA TRATTA BARI TORRE QUETTA - BARI TORRE A MARE” CHIUSURA STRADALE DEL PROLUNGAMENTO DELLA SP 57 (TRATTO DI PERTINENZA DEL COMUNE DI BARI) IN LOCALITÀ BARI TORRE A MARE DAL GIORNO 16.2.2026 E PER 20 GIORNI NATURALI E CONSECUTIVI . ISTANTE: RFI IMPRESA REM SRL<br><br>Istituzione temporanea della chiusura al transito veicolare del prolungamento della SP 57 (tratto di pertinenza del Comune di Bari) in località Bari Torre a Mare<br>L’impresa provvederà ad installare segnaletica stradale temporanea con l’utilizzo dei movieri abilitati;<br>Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>Durata e tempistiche: 16/02/2026 - 07/03/2026]]></description>
-      <styleUrl>#line-E65100-3906</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.9971597,41.0812821,0
-          16.9977712,41.0817188,0
-          16.9982326,41.0824143,0
-          16.9995308,41.0831987,0
-          16.9996273,41.0837325,0
-          16.9987154,41.0843632,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name><![CDATA[ORDINANZA 2026/00892
 DIVIETO DI SOSTA AMBO I LATI SU:
 CORSO SIDNEY SONNINO DA ANGOLO VIA MATTEOTTI A ANGOLO VIA DURAZZO
@@ -6647,39 +6550,6 @@ RICHIEDENTE: SIG. FORTE GIOVANNI
         <coordinates>
           16.8853902,41.1073884,0
           16.8854814,41.1074217,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00797 
- RESTRINGIMENTO DI CARREGGIATA, DIVIETO DI SOSTA CON RIMOZIONE FORZATA
-VIA VILLARI
-POSIZIONAMENTO DI AUTOMEZZO
-RICHIEDENTE: SIG. FABIO MERLO
-28/02/2026 - 06/03/2026
-</name>
-      <description><![CDATA[ORDINANZA 2026/00797 <br><br><br>https://drive.google.com/file/d/1r8Dp5vrERLXO7JOsdwXZxOIOrd6A2YGH/view<br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA DEROGA AL DIVIETO DI SOSTA E DIVIETO DI SOSTA CON RIMOZIONE FORZATA PER I GIORNI 28/02/2026 E 6/03/2026 IN VIA VILLARI, CIVICO 8 E LATO FRONTE NEL TRATTO COMPRESO TRA PIAZZA MASSARI A VIA LOMBARDI PER POSIZIONAMENTO DI AUTOMEZZO;. RICHIEDENTE: SIG. FABIO MERLO <br>Durata e tempistiche: 28/02/2026 - 06/03/2026<br><br>https://drive.google.com/file/d/1DMwk9Qe6wnLlRKVMgL2Hy6y8JdZi8BTk/view<br><br>ISTITUZIONE TEMPORANEA DELLA CHIUSURA AL TRANSITO VEICOLARE E DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI IN VIA VILLARI 26/28 NEL TRATTO COMPRESO TRA PIAZZA MASSARI A VIA LOMBARDI DAL GIORNO PER POSIZIONAMENTO DI CAMION BETONIERA. RICHIEDENTE: SIG. GENTILE VINCENZO <br><br>Durata e tempistiche: 12/11/2025 - 14/11/2025]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8657797,41.126604,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00797 
- RESTRINGIMENTO DI CARREGGIATA, DIVIETO DI SOSTA CON RIMOZIONE FORZATA
-VIA VILLARI
-POSIZIONAMENTO DI AUTOMEZZO
-RICHIEDENTE: SIG. FABIO MERLO
-28/02/2026 - 06/03/2026 </name>
-      <description><![CDATA[ORDINANZA 2026/00797 <br><br><br>https://drive.google.com/file/d/1r8Dp5vrERLXO7JOsdwXZxOIOrd6A2YGH/view<br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA DEROGA AL DIVIETO DI SOSTA E DIVIETO DI SOSTA CON RIMOZIONE FORZATA PER I GIORNI 28/02/2026 E 6/03/2026 IN VIA VILLARI, CIVICO 8 E LATO FRONTE NEL TRATTO COMPRESO TRA PIAZZA MASSARI A VIA LOMBARDI PER POSIZIONAMENTO DI AUTOMEZZO;. RICHIEDENTE: SIG. FABIO MERLO <br>Durata e tempistiche: 28/02/2026 - 06/03/2026<br><br>https://drive.google.com/file/d/1DMwk9Qe6wnLlRKVMgL2Hy6y8JdZi8BTk/view<br><br>ISTITUZIONE TEMPORANEA DELLA CHIUSURA AL TRANSITO VEICOLARE E DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI IN VIA VILLARI 26/28 NEL TRATTO COMPRESO TRA PIAZZA MASSARI A VIA LOMBARDI DAL GIORNO PER POSIZIONAMENTO DI CAMION BETONIERA. RICHIEDENTE: SIG. GENTILE VINCENZO <br><br>Durata e tempistiche: 12/11/2025 - 14/11/2025]]></description>
-      <styleUrl>#line-E65100-6459</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8650877,41.126512,0
-          16.8661203,41.1265838,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -8574,6 +8444,40 @@ IMPRESA ESECUTRICE: VALLARELLA IMMOBILIARE S.R.L.
         <coordinates>
           16.8258183,41.1371758,0
           16.8257307,41.1369003,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01197
+DIVIETO DI TRANSITO VEICOLARE DIVIETO DI SOSTA E DI FERMATA AMBO I LATI CON RIMOZIONE FORZATA
+VIA VINCENZO BELLEZZA DA VIA CIMAROSA A VIA BODINI ZONA SAN GIROLAMO
+LAVORI SULLA RETE IDRICA
+IMPRESA ESECUTRICE: ACCIONA AGUA 
+09/03/2026 - 13/03/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/01197<br><br>https://drive.google.com/file/d/1m47aTcDPv_OTuAC0EkSFQRP-Q7IpH5nQ/view<br><br>P1557. ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E DI FERMATA AMBO I LATI CON RIMOZIONE FORZATA DEI VEICOLI, DIVIETO DI TRANSITO VEICOLARE SU VIA VINCENZO BELLEZZA (TRATTO DA VIA CIMAROSA A VIA BODINI) ZONA SAN GIROLAMO, PER LAVORI SULLA RETE IDRICA DAL GIORNO 09/03/2026 AL 13/03/2026. IMPRESA: ACCIONA AGUA<br><br>1. L’istituzione temporanea del divieto di transito veicolare, eccetto residenti e mezzi di soccorso e/o di polizia, e divieto di sosta zona rimozione ambo i lati sulla via Bellezza nel tratto compreso tra via Bodini e via Cimarosa;<br>2. L’istituzione temporanea del senso unico di circolazione sulla via Bodini, nel tratto compreso tra via Bellezza e Lungomare IX Maggio, dal lato via Bellezza al lato Lungomare IX Maggio (ovvero la temporanea inversione del senso unico di circolazione attuale della via Bodini), al fine di consentire il deflusso delle auto provenienti dalla via Bellezza/via Teodoro; <br>3. Istituzione temporanea del senso unico di circolazione sul Lungomare IX Maggio, nel tratto compreso tra via Bodini e via Cimarosa e in quest’ultima direzione (ovvero la temporanea inversione del senso unico di circolazione attuale del Lungomare), al fine di consentire il deflusso delle auto provenienti dalla via Bodini;<br> 4. Occorrerà dare indicazione della temporanea interdizione al transito veicolare sula via Bellezza all’intersezione via bellezza/via Zandonai; 5. Attenzione dovrà essere posta al transito dei pedoni e, in particolare, a quelli con ridotte capacità di deambulazione; 6. Segnalazione da apportare: “Senso unico parallelo sulla via Bodini all’intersezione con la via Bellezza per i veicoli provenienti dalla via Bellezza/via Teodoro e diretti verso il Lungomare – senso vietato sul Lungomare IX Maggio all’intersezione con la via Cimarosa, per i veicoli provenienti dal lato periferia del Lungomare con obbligo direzionale a sx sul Lungomare IX Maggio all’intersezione con via Cimarosa, per i veicoli provenienti dal Lungomare lato via Bodini – obbligo direzionale a dx sul Lungomare IX Maggio all’intersezione con via Cimarosa, per i veicoli provenienti dal lato periferia del Lungomare; 7. Dovranno essere salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia, se compatibili con l’esecuzione dei lavori; 8. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; <br><br>Durata e tempistiche: 09/03/2026 - 13/03/2026 ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8136216,41.1388724,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01197
+DIVIETO DI TRANSITO VEICOLARE DIVIETO DI SOSTA E DI FERMATA AMBO I LATI CON RIMOZIONE FORZATA
+VIA VINCENZO BELLEZZA DA VIA CIMAROSA A VIA BODINI ZONA SAN GIROLAMO
+LAVORI SULLA RETE IDRICA
+IMPRESA ESECUTRICE: ACCIONA AGUA 
+09/03/2026 - 13/03/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/01197<br><br>https://drive.google.com/file/d/1m47aTcDPv_OTuAC0EkSFQRP-Q7IpH5nQ/view<br><br>P1557. ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E DI FERMATA AMBO I LATI CON RIMOZIONE FORZATA DEI VEICOLI, DIVIETO DI TRANSITO VEICOLARE SU VIA VINCENZO BELLEZZA (TRATTO DA VIA CIMAROSA A VIA BODINI) ZONA SAN GIROLAMO, PER LAVORI SULLA RETE IDRICA DAL GIORNO 09/03/2026 AL 13/03/2026. IMPRESA: ACCIONA AGUA<br><br>1. L’istituzione temporanea del divieto di transito veicolare, eccetto residenti e mezzi di soccorso e/o di polizia, e divieto di sosta zona rimozione ambo i lati sulla via Bellezza nel tratto compreso tra via Bodini e via Cimarosa;<br>2. L’istituzione temporanea del senso unico di circolazione sulla via Bodini, nel tratto compreso tra via Bellezza e Lungomare IX Maggio, dal lato via Bellezza al lato Lungomare IX Maggio (ovvero la temporanea inversione del senso unico di circolazione attuale della via Bodini), al fine di consentire il deflusso delle auto provenienti dalla via Bellezza/via Teodoro; <br>3. Istituzione temporanea del senso unico di circolazione sul Lungomare IX Maggio, nel tratto compreso tra via Bodini e via Cimarosa e in quest’ultima direzione (ovvero la temporanea inversione del senso unico di circolazione attuale del Lungomare), al fine di consentire il deflusso delle auto provenienti dalla via Bodini;<br> 4. Occorrerà dare indicazione della temporanea interdizione al transito veicolare sula via Bellezza all’intersezione via bellezza/via Zandonai; 5. Attenzione dovrà essere posta al transito dei pedoni e, in particolare, a quelli con ridotte capacità di deambulazione; 6. Segnalazione da apportare: “Senso unico parallelo sulla via Bodini all’intersezione con la via Bellezza per i veicoli provenienti dalla via Bellezza/via Teodoro e diretti verso il Lungomare – senso vietato sul Lungomare IX Maggio all’intersezione con la via Cimarosa, per i veicoli provenienti dal lato periferia del Lungomare con obbligo direzionale a sx sul Lungomare IX Maggio all’intersezione con via Cimarosa, per i veicoli provenienti dal Lungomare lato via Bodini – obbligo direzionale a dx sul Lungomare IX Maggio all’intersezione con via Cimarosa, per i veicoli provenienti dal lato periferia del Lungomare; 7. Dovranno essere salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia, se compatibili con l’esecuzione dei lavori; 8. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; <br><br>Durata e tempistiche: 09/03/2026 - 13/03/2026 ]]></description>
+      <styleUrl>#line-E65100-4488</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8134298,41.1389072,0
+          16.8142868,41.1388658,0
         </coordinates>
       </LineString>
     </Placemark>
