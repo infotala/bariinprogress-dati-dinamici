@@ -642,6 +642,28 @@
         <styleUrl>#line-E65100-7975-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="line-E65100-8556-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>8.556</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-E65100-8556-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>12.834</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-E65100-8556">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-E65100-8556-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-E65100-8556-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Placemark>
       <name>ORDINANZA 2025/03163
 DIVIETO DI SOSTA CON RIMOZIONE COATTA
@@ -7611,14 +7633,14 @@ IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00889
+      <name>ORDINANZA 2026/01257
 RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
 VIA G. DORSO DA VIA F. SORRENTINO A VIA G. SALVEMINI
 VIA G. SALVEMINI DA VIA G. DORSO AL CIV 77
 LAVORI DI RIPRISTINO MANTO STRADALE C/ENEL
 IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-04/03/2026 - 11/03/2026</name>
-      <description><![CDATA[Ordinanza: 2026/00889<br><br>https://drive.google.com/file/d/1zyvfjIxhlDkmE68lCF9PzNpZ0eIQici_/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON<br>RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA<br>IN VIA G. DORSO (DA VIA F. SORRENTINO A VIA G. SALVEMINI) E VIA G.<br>SALVEMINI (DA VIA G. DORSO AL CIV 77) – BARI” DAL GIORNO 04 MARZO<br>2026 AL GIORNO 11 MARZO 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER<br>LAVORI DI RIPRISTINO MANTO STRADALE C/ENEL.<br>RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.<br>DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e Tempistiche: 04/03/2026 - 11/03/2026<br>07:00 - 17:00]]></description>
+12/03/2026 - 31/03/2026  07:00-17:00</name>
+      <description><![CDATA[ORDINANZA 2026/01257<br>proroga<br>https://drive.google.com/file/d/1GdBgB1tjCKxZgogC6NH3JbmxqCP_Kacy/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON<br>RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA<br>IN VIA G. DORSO (DA VIA F. SORRENTINO A VIA G. SALVEMINI) E VIA G.<br>SALVEMINI (DA VIA G. DORSO AL CIV 77) – BARI” DAL GIORNO 04 MARZO<br>2026 AL GIORNO 11 MARZO 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER<br>LAVORI DI RIPRISTINO MANTO STRADALE C/ENEL.<br>RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.<br>DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br><br>Ordinanza: 2026/00889<br><br>https://drive.google.com/file/d/1zyvfjIxhlDkmE68lCF9PzNpZ0eIQici_/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON<br>RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA<br>IN VIA G. DORSO (DA VIA F. SORRENTINO A VIA G. SALVEMINI) E VIA G.<br>SALVEMINI (DA VIA G. DORSO AL CIV 77) – BARI” DAL GIORNO 04 MARZO<br>2026 AL GIORNO 11 MARZO 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER<br>LAVORI DI RIPRISTINO MANTO STRADALE C/ENEL.<br>RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.<br>DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e Tempistiche: 04/03/2026 - 11/03/2026<br>07:00 - 17:00]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -7627,14 +7649,14 @@ IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00889
+      <name>ORDINANZA 2026/01257
 RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
 VIA G. DORSO DA VIA F. SORRENTINO A VIA G. SALVEMINI
 VIA G. SALVEMINI DA VIA G. DORSO AL CIV 77
 LAVORI DI RIPRISTINO MANTO STRADALE C/ENEL
 IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-04/03/2026 - 11/03/2026</name>
-      <description><![CDATA[Ordinanza: 2026/00889<br><br>https://drive.google.com/file/d/1zyvfjIxhlDkmE68lCF9PzNpZ0eIQici_/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON<br>RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA<br>IN VIA G. DORSO (DA VIA F. SORRENTINO A VIA G. SALVEMINI) E VIA G.<br>SALVEMINI (DA VIA G. DORSO AL CIV 77) – BARI” DAL GIORNO 04 MARZO<br>2026 AL GIORNO 11 MARZO 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER<br>LAVORI DI RIPRISTINO MANTO STRADALE C/ENEL.<br>RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.<br>DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e Tempistiche: 04/03/2026 - 11/03/2026<br>07:00 - 17:00]]></description>
+12/03/2026 - 31/03/2026 07:00-17:00</name>
+      <description><![CDATA[ORDINANZA 2026/01257<br>proroga<br>https://drive.google.com/file/d/1GdBgB1tjCKxZgogC6NH3JbmxqCP_Kacy/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON<br>RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA<br>IN VIA G. DORSO (DA VIA F. SORRENTINO A VIA G. SALVEMINI) E VIA G.<br>SALVEMINI (DA VIA G. DORSO AL CIV 77) – BARI” DAL GIORNO 04 MARZO<br>2026 AL GIORNO 11 MARZO 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER<br>LAVORI DI RIPRISTINO MANTO STRADALE C/ENEL.<br>RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.<br>DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br>tempistiche: 12/03/2026-3103/2026<br><br>Ordinanza: 2026/00889<br><br>https://drive.google.com/file/d/1zyvfjIxhlDkmE68lCF9PzNpZ0eIQici_/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON<br>RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA<br>IN VIA G. DORSO (DA VIA F. SORRENTINO A VIA G. SALVEMINI) E VIA G.<br>SALVEMINI (DA VIA G. DORSO AL CIV 77) – BARI” DAL GIORNO 04 MARZO<br>2026 AL GIORNO 11 MARZO 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER<br>LAVORI DI RIPRISTINO MANTO STRADALE C/ENEL.<br>RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.<br>DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e Tempistiche: 04/03/2026 - 11/03/2026<br>07:00 - 17:00]]></description>
       <styleUrl>#line-E65100-4294</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -8478,6 +8500,129 @@ IMPRESA ESECUTRICE: ACCIONA AGUA
         <coordinates>
           16.8134298,41.1389072,0
           16.8142868,41.1388658,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01258
+DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA
+VIA DON LUIGI STURZO DA VIALE DELLA REPUBBLICA A CORSO B. CROCE
+VIA MONFALCONE DA CORSO B. CROCE A VIA BUCCARI
+VIA MONTELLO DA VIA BUCCARI A VIA G. PETRONI
+VIA PASUBIO DA CORSO B. CROCE A VIA G. PETRONI
+LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL. 
+IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL 
+13/03/2026 - 10/04/2026 h 07:00-17:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/01258<br><br>https://drive.google.com/file/d/1XuzidFmVjvFeJNrEHH1qoHRQNbYaP5hX/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA IN VIA DON LUIGI STURZO (DA VIALE DELLA REPUBBLICA A CORSO B. CROCE),VIA MONFALCONE (DA CORSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI) E VIAPASUBIO (DA CORSO B. CROCE A VIA G. PETRONI), DAL GIORNO 13 MARZO 2026 AL GIORNO 10 APRILE 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL. RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e tempistiche: 13/03/2026 - 10/04/2026 h 07:00-17:00<br><br>2025/04055 <br><br>https://drive.google.com/file/d/1kb9ufkIbSGBbw1GtJ7vn53K5JUKtlFzV/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA SU VIA DON LUIGI STURZO (DA VIALE DELLA REPUBBLICA A CORSO B. CROCE),VIA MONFALCONE (DA CORSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI) E VIAPASUBIO (DA CORSO B. CROCE A VIA G. PETRONI) – BARI, DAL GIORNO 05 GENNAIO 2026 AL GIORNO 13 FEBBRAIO 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL, RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Istituzione temporanea del divieto di sosta e fermata con rimozione forzata ambo i lati e il restringimento della carreggiata su:<br><br>via Don Luigi Sturzo (da viale della Repubblica a corso B. Croce), <br>via Monfalcone (da corso B. Croce a via Buccari), <br>via Montello (da via Buccari a via G. Petroni) <br> via Pasubio (da corso B. Croce a via G. Petroni) <br>La graduazione della velocità in avvicinamento per metri 100 all’area del lavori con limite pari a 20 km/h. <br><br>Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia e dovrà essere prevista la presenza di movieri, dotati di idoneo equipaggiamento, che dovranno sovraintendere alle esigenze della circolazione stradale visto il restringimento della carreggiata e del senso unico alternato, con particolare attenzione al transito pedonale e alle persone con ridotte capacità motorie. A tal fine dovrà permanere transitabile e sgombra da ogni mezzo e materiale una corsia di larghezza non inferiore a metri 3.50. Dovranno essere inoltre assicurati gli accessi privati. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto<br><br>Durata e tempistiche: 05/01/2026 - 13/02/2026 07:00-17:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8721875,41.1072222,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01258
+DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA
+VIA DON LUIGI STURZO DA VIALE DELLA REPUBBLICA A CORSO B. CROCE
+VIA MONFALCONE DA CORSO B. CROCE A VIA BUCCARI
+VIA MONTELLO DA VIA BUCCARI A VIA G. PETRONI
+VIA PASUBIO DA CORSO B. CROCE A VIA G. PETRONI
+LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL. 
+IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL 
+13/03/2026 - 10/04/2026 h 07:00-17:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/01258<br><br>https://drive.google.com/file/d/1XuzidFmVjvFeJNrEHH1qoHRQNbYaP5hX/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA IN VIA DON LUIGI STURZO (DA VIALE DELLA REPUBBLICA A CORSO B. CROCE),VIA MONFALCONE (DA CORSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI) E VIAPASUBIO (DA CORSO B. CROCE A VIA G. PETRONI), DAL GIORNO 13 MARZO 2026 AL GIORNO 10 APRILE 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL. RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e tempistiche: 13/03/2026 - 10/04/2026 h 07:00-17:00<br><br>2025/04055 <br><br>https://drive.google.com/file/d/1kb9ufkIbSGBbw1GtJ7vn53K5JUKtlFzV/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA SU VIA DON LUIGI STURZO (DA VIALE DELLA REPUBBLICA A CORSO B. CROCE),VIA MONFALCONE (DA CORSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI) E VIAPASUBIO (DA CORSO B. CROCE A VIA G. PETRONI) – BARI, DAL GIORNO 05 GENNAIO 2026 AL GIORNO 13 FEBBRAIO 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL, RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Istituzione temporanea del divieto di sosta e fermata con rimozione forzata ambo i lati e il restringimento della carreggiata su:<br><br>via Don Luigi Sturzo (da viale della Repubblica a corso B. Croce), <br>via Monfalcone (da corso B. Croce a via Buccari), <br>via Montello (da via Buccari a via G. Petroni) <br> via Pasubio (da corso B. Croce a via G. Petroni) <br>La graduazione della velocità in avvicinamento per metri 100 all’area del lavori con limite pari a 20 km/h. <br><br>Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia e dovrà essere prevista la presenza di movieri, dotati di idoneo equipaggiamento, che dovranno sovraintendere alle esigenze della circolazione stradale visto il restringimento della carreggiata e del senso unico alternato, con particolare attenzione al transito pedonale e alle persone con ridotte capacità motorie. A tal fine dovrà permanere transitabile e sgombra da ogni mezzo e materiale una corsia di larghezza non inferiore a metri 3.50. Dovranno essere inoltre assicurati gli accessi privati. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto<br><br>Durata e tempistiche: 05/01/2026 - 13/02/2026 07:00-17:00]]></description>
+      <styleUrl>#line-E65100-4875</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8718026,41.1070455,0
+          16.8734656,41.1069606,0
+          16.8738223,41.1070637,0
+          16.8740932,41.1071465,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01258
+DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA
+VIA DON LUIGI STURZO DA VIALE DELLA REPUBBLICA A CORSO B. CROCE
+VIA MONFALCONE DA CORSO B. CROCE A VIA BUCCARI
+VIA MONTELLO DA VIA BUCCARI A VIA G. PETRONI
+VIA PASUBIO DA CORSO B. CROCE A VIA G. PETRONI
+LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL. 
+IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL 
+13/03/2026 - 10/04/2026 h 07:00-17:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/01258<br><br>https://drive.google.com/file/d/1XuzidFmVjvFeJNrEHH1qoHRQNbYaP5hX/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA IN VIA DON LUIGI STURZO (DA VIALE DELLA REPUBBLICA A CORSO B. CROCE),VIA MONFALCONE (DA CORSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI) E VIAPASUBIO (DA CORSO B. CROCE A VIA G. PETRONI), DAL GIORNO 13 MARZO 2026 AL GIORNO 10 APRILE 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL. RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e tempistiche: 13/03/2026 - 10/04/2026 h 07:00-17:00<br><br>2025/04055 <br><br>https://drive.google.com/file/d/1kb9ufkIbSGBbw1GtJ7vn53K5JUKtlFzV/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA SU VIA DON LUIGI STURZO (DA VIALE DELLA REPUBBLICA A CORSO B. CROCE),VIA MONFALCONE (DA CORSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI) E VIAPASUBIO (DA CORSO B. CROCE A VIA G. PETRONI) – BARI, DAL GIORNO 05 GENNAIO 2026 AL GIORNO 13 FEBBRAIO 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL, RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Istituzione temporanea del divieto di sosta e fermata con rimozione forzata ambo i lati e il restringimento della carreggiata su:<br><br>via Don Luigi Sturzo (da viale della Repubblica a corso B. Croce), <br>via Monfalcone (da corso B. Croce a via Buccari), <br>via Montello (da via Buccari a via G. Petroni) <br> via Pasubio (da corso B. Croce a via G. Petroni) <br>La graduazione della velocità in avvicinamento per metri 100 all’area del lavori con limite pari a 20 km/h. <br><br>Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia e dovrà essere prevista la presenza di movieri, dotati di idoneo equipaggiamento, che dovranno sovraintendere alle esigenze della circolazione stradale visto il restringimento della carreggiata e del senso unico alternato, con particolare attenzione al transito pedonale e alle persone con ridotte capacità motorie. A tal fine dovrà permanere transitabile e sgombra da ogni mezzo e materiale una corsia di larghezza non inferiore a metri 3.50. Dovranno essere inoltre assicurati gli accessi privati. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto<br><br>Durata e tempistiche: 05/01/2026 - 13/02/2026 07:00-17:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8688113,41.1103782,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01258
+DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA
+VIA DON LUIGI STURZO DA VIALE DELLA REPUBBLICA A CORSO B. CROCE
+VIA MONFALCONE DA CORSO B. CROCE A VIA BUCCARI
+VIA MONTELLO DA VIA BUCCARI A VIA G. PETRONI
+VIA PASUBIO DA CORSO B. CROCE A VIA G. PETRONI
+LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL. 
+IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL 
+13/03/2026 - 10/04/2026 h 07:00-17:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/01258<br><br>https://drive.google.com/file/d/1XuzidFmVjvFeJNrEHH1qoHRQNbYaP5hX/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA IN VIA DON LUIGI STURZO (DA VIALE DELLA REPUBBLICA A CORSO B. CROCE),VIA MONFALCONE (DA CORSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI) E VIAPASUBIO (DA CORSO B. CROCE A VIA G. PETRONI), DAL GIORNO 13 MARZO 2026 AL GIORNO 10 APRILE 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL. RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e tempistiche: 13/03/2026 - 10/04/2026 h 07:00-17:00<br><br>2025/04055 <br><br>https://drive.google.com/file/d/1kb9ufkIbSGBbw1GtJ7vn53K5JUKtlFzV/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA SU VIA DON LUIGI STURZO (DA VIALE DELLA REPUBBLICA A CORSO B. CROCE),VIA MONFALCONE (DA CORSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI) E VIAPASUBIO (DA CORSO B. CROCE A VIA G. PETRONI) – BARI, DAL GIORNO 05 GENNAIO 2026 AL GIORNO 13 FEBBRAIO 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL, RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Istituzione temporanea del divieto di sosta e fermata con rimozione forzata ambo i lati e il restringimento della carreggiata su:<br><br>via Don Luigi Sturzo (da viale della Repubblica a corso B. Croce), <br>via Monfalcone (da corso B. Croce a via Buccari), <br>via Montello (da via Buccari a via G. Petroni) <br> via Pasubio (da corso B. Croce a via G. Petroni) <br>La graduazione della velocità in avvicinamento per metri 100 all’area del lavori con limite pari a 20 km/h. <br><br>Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia e dovrà essere prevista la presenza di movieri, dotati di idoneo equipaggiamento, che dovranno sovraintendere alle esigenze della circolazione stradale visto il restringimento della carreggiata e del senso unico alternato, con particolare attenzione al transito pedonale e alle persone con ridotte capacità motorie. A tal fine dovrà permanere transitabile e sgombra da ogni mezzo e materiale una corsia di larghezza non inferiore a metri 3.50. Dovranno essere inoltre assicurati gli accessi privati. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto<br><br>Durata e tempistiche: 05/01/2026 - 13/02/2026 07:00-17:00]]></description>
+      <styleUrl>#line-E65100-8556</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8680617,41.1104267,0
+          16.8719241,41.1098568,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01258
+DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA
+VIA DON LUIGI STURZO DA VIALE DELLA REPUBBLICA A CORSO B. CROCE
+VIA MONFALCONE DA CORSO B. CROCE A VIA BUCCARI
+VIA MONTELLO DA VIA BUCCARI A VIA G. PETRONI
+VIA PASUBIO DA CORSO B. CROCE A VIA G. PETRONI
+LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL. 
+IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL 
+13/03/2026 - 10/04/2026 h 07:00-17:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/01258<br><br>https://drive.google.com/file/d/1XuzidFmVjvFeJNrEHH1qoHRQNbYaP5hX/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA IN VIA DON LUIGI STURZO (DA VIALE DELLA REPUBBLICA A CORSO B. CROCE),VIA MONFALCONE (DA CORSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI) E VIAPASUBIO (DA CORSO B. CROCE A VIA G. PETRONI), DAL GIORNO 13 MARZO 2026 AL GIORNO 10 APRILE 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL. RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e tempistiche: 13/03/2026 - 10/04/2026 h 07:00-17:00<br><br>2025/04055 <br><br>https://drive.google.com/file/d/1kb9ufkIbSGBbw1GtJ7vn53K5JUKtlFzV/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA SU VIA DON LUIGI STURZO (DA VIALE DELLA REPUBBLICA A CORSO B. CROCE),VIA MONFALCONE (DA CORSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI) E VIAPASUBIO (DA CORSO B. CROCE A VIA G. PETRONI) – BARI, DAL GIORNO 05 GENNAIO 2026 AL GIORNO 13 FEBBRAIO 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL, RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Istituzione temporanea del divieto di sosta e fermata con rimozione forzata ambo i lati e il restringimento della carreggiata su:<br><br>via Don Luigi Sturzo (da viale della Repubblica a corso B. Croce), <br>via Monfalcone (da corso B. Croce a via Buccari), <br>via Montello (da via Buccari a via G. Petroni) <br> via Pasubio (da corso B. Croce a via G. Petroni) <br>La graduazione della velocità in avvicinamento per metri 100 all’area del lavori con limite pari a 20 km/h. <br><br>Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia e dovrà essere prevista la presenza di movieri, dotati di idoneo equipaggiamento, che dovranno sovraintendere alle esigenze della circolazione stradale visto il restringimento della carreggiata e del senso unico alternato, con particolare attenzione al transito pedonale e alle persone con ridotte capacità motorie. A tal fine dovrà permanere transitabile e sgombra da ogni mezzo e materiale una corsia di larghezza non inferiore a metri 3.50. Dovranno essere inoltre assicurati gli accessi privati. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto<br><br>Durata e tempistiche: 05/01/2026 - 13/02/2026 07:00-17:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8704172,41.1112006,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01258
+DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA
+VIA DON LUIGI STURZO DA VIALE DELLA REPUBBLICA A CORSO B. CROCE
+VIA MONFALCONE DA CORSO B. CROCE A VIA BUCCARI
+VIA MONTELLO DA VIA BUCCARI A VIA G. PETRONI
+VIA PASUBIO DA CORSO B. CROCE A VIA G. PETRONI
+LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL. 
+IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL 
+13/03/2026 - 10/04/2026 h 07:00-17:00
+</name>
+      <description><![CDATA[ORDINANZA 2026/01258<br><br>https://drive.google.com/file/d/1XuzidFmVjvFeJNrEHH1qoHRQNbYaP5hX/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA IN VIA DON LUIGI STURZO (DA VIALE DELLA REPUBBLICA A CORSO B. CROCE),VIA MONFALCONE (DA CORSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI) E VIAPASUBIO (DA CORSO B. CROCE A VIA G. PETRONI), DAL GIORNO 13 MARZO 2026 AL GIORNO 10 APRILE 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL. RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e tempistiche: 13/03/2026 - 10/04/2026 h 07:00-17:00<br><br>2025/04055 <br><br>https://drive.google.com/file/d/1kb9ufkIbSGBbw1GtJ7vn53K5JUKtlFzV/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA SU VIA DON LUIGI STURZO (DA VIALE DELLA REPUBBLICA A CORSO B. CROCE),VIA MONFALCONE (DA CORSO B. CROCE A VIA BUCCARI), VIA MONTELLO (DA VIA BUCCARI A VIA G. PETRONI) E VIAPASUBIO (DA CORSO B. CROCE A VIA G. PETRONI) – BARI, DAL GIORNO 05 GENNAIO 2026 AL GIORNO 13 FEBBRAIO 2026 DALLE ORE 07.00 ALLE ORE 17.00 PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL, RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Istituzione temporanea del divieto di sosta e fermata con rimozione forzata ambo i lati e il restringimento della carreggiata su:<br><br>via Don Luigi Sturzo (da viale della Repubblica a corso B. Croce), <br>via Monfalcone (da corso B. Croce a via Buccari), <br>via Montello (da via Buccari a via G. Petroni) <br> via Pasubio (da corso B. Croce a via G. Petroni) <br>La graduazione della velocità in avvicinamento per metri 100 all’area del lavori con limite pari a 20 km/h. <br><br>Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia e dovrà essere prevista la presenza di movieri, dotati di idoneo equipaggiamento, che dovranno sovraintendere alle esigenze della circolazione stradale visto il restringimento della carreggiata e del senso unico alternato, con particolare attenzione al transito pedonale e alle persone con ridotte capacità motorie. A tal fine dovrà permanere transitabile e sgombra da ogni mezzo e materiale una corsia di larghezza non inferiore a metri 3.50. Dovranno essere inoltre assicurati gli accessi privati. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto<br><br>Durata e tempistiche: 05/01/2026 - 13/02/2026 07:00-17:00]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8720227,41.1109341,0
+          16.8701747,41.1111301,0
+          16.8681818,41.1113484,0
         </coordinates>
       </LineString>
     </Placemark>
