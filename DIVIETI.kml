@@ -70,6 +70,74 @@
         <styleUrl>#icon-1541-FF5252-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="icon-1898-E65100-normal">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1898-E65100-highlight">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1898-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1898-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1898-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1898-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1898-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1898-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1898-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1898-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Style id="line-E65100-2356-normal">
       <LineStyle>
         <color>ff0051e6</color>
@@ -662,6 +730,70 @@
       <Pair>
         <key>highlight</key>
         <styleUrl>#line-E65100-8556-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-E65100-1901-77-normal">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>1.901</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d0051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-E65100-1901-77-highlight">
+      <LineStyle>
+        <color>ff0051e6</color>
+        <width>2.8515</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d0051e6</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-E65100-1901-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-E65100-1901-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-E65100-1901-77-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="poly-F57C00-1200-77-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>1.2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F57C00-1200-77-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>1.8</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F57C00-1200-77">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F57C00-1200-77-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F57C00-1200-77-highlight</styleUrl>
       </Pair>
     </StyleMap>
     <Placemark>
@@ -2095,46 +2227,6 @@ RICHIEDENTE : SIG. CORDASCO SILVIO
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2025/04232
-DIVIETO DI TRANSITO E FERMATA
-PIAZZA ALDO MORO, NEL TRATTO STRADALE COMPRESO TRA IL CIV. 4 ED IL CIV. 20
-PIAZZA ALDO MORO, NEL TRATTO STRADALE COMPRESO TRA LA ROTATORIA ED IL CIV. 26
-PIAZZA ALDO MORO SUL LATO OVEST, NEL TRATTO STRADALE COMPRESO TRA IL CIV. 26 ED IL CIV. 22
-LAVORI DI RIQUALIFICAZIONE DI PIAZZA ALDO MORO
-RICHIEDENTE: RETE FERROVIARIA ITALIANA S.P.A. - GRUPPO FERROVIE DELLO STATO ITALIANE
-30/01/2026 - 28/02/2026</name>
-      <description><![CDATA[proroga ordinanza 2025/04232<br><br>2026/00392 <br><br>https://drive.google.com/file/d/1zWkLkLPRJVFmnIeF1E082g1mdhiVTXMM/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2025/04232 PROGRAMMA COMPLESSIVO DI INTERVENTI PER LA “STAZIONE BARI CENTRALE: NUOVO HUB PER LA RICONNESSIONE URBANA E LA MOBILITÀ SOSTENIBILE, NUOVO PARCO URBANO E RINNOVAMENTO DELLE AREE ESTERNE” - PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI LAVORI DI RIQUALIFICAZIONE DI PIAZZA ALDO MORO REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU PIAZZA ALDO MORO FINO AL 28.02.2026 RICHIEDENTE: RETE FERROVIARIA ITALIANA S.P.A. - GRUPPO FERROVIE DELLO STATO ITALIANE IMPRESA ESECUTRICE: MANELLI COSTRUZIONI GENERALI S.P.A. <br><br><br>Durata e tempistiche: 30/01/2026 - 28/02/2026<br><br>2025/04232 <br><br>https://drive.google.com/file/d/1KDk2chPeURlyXlz-gnNZxxltaISXSfb3/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2025/02918 PROGRAMMA COMPLESSIVO DI INTERVENTI PER LA “STAZIONE BARI CENTRALE: NUOVO HUB PER LA RICONNESSIONE URBANA E LA MOBILITÀ SOSTENIBILE, NUOVO PARCO URBANO E RINNOVAMENTO DELLE AREE ESTERNE” - PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI LAVORI DI RIQUALIFICAZIONE DI PIAZZA ALDO MORO REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU PIAZZA ALDO MORO FINO AL 31.01.2026 RICHIEDENTE: RETE FERROVIARIA ITALIANA S.P.A. - GRUPPO FERROVIE DELLO STATO ITALIANE IMPRESA ESECUTRICE: MANELLI COSTRUZIONI GENERALI S.P.A. <br><br>a) L’istituzione del divieto di transito a tutti i veicoli, sui seguenti tratti stradali: <br>i) Piazza Aldo Moro, nel tratto stradale compreso tra il civ. 4 ed il civ. 20; <br>ii) Piazza Aldo Moro, nel tratto stradale compreso tra la rotatoria ed il civ. 26 <br>b) L’istituzione del divieto di fermata a tutti i veicoli, sui seguenti tratti stradali:<br> i) Piazza Aldo Moro su ambo i lati, nel tratto stradale compreso tra il civ. 4 ed il civ. 20;<br> ii) Piazza Aldo Moro su ambo i lati, nel tratto stradale compreso tra la rotatoria ed il civ. 26; <br>iii) Piazza Aldo Moro nell’area compresa tra la rotatoria ed i giardini a nord di essa, in prossimità dei chioschi tabacchi ed edicola; <br>iv) Piazza Aldo Moro, nel tratto stradale compreso tra il civ. 26 ed il civ. 22, sul lato ovest; <br>c) L’istituzione del divieto di fermata agli autobus su tutti i lati dei giardini a nord della rotatoria; <br>d) L’istituzione di una fermata bus temporanea, sul seguente tratto stradale:<br> i) via Raffale de Cesare, sul lato est, nel tratto stradale compreso tra il civ 16 ed il civ 18;<br> e) Inibizione degli attraversamenti pedonali esistenti sui seguenti tratti stradali:<br> i) Piazza Aldo Moro nel tratto compreso tra via Sparano ed i giardini a nord della rotatoria <br>ii) Piazza Aldo Moro nel tratto compreso tra i giardini a nord della rotatoria e la rotatoria <br>f) L’istituzione del restringimento di carreggiata sui seguenti tratti stradali: <br>i) Rotatoria di Piazza Aldo Moro, nell’arco di nord-est;	<br> ii) Piazza Aldo Moro, nel tratto stradale compreso tra il civ. 61 ed il civ. 53, sul lato ovest <br>g) L’obbligo di proseguire diritto su Piazza Aldo Moro verso via Niccolò dell’Arca a tutti i veicoli della corrente di traffico presente su Piazza Aldo Moro in corrispondenza del civ.22; <br>h) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. <br>2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli al servizio del cantiere edile di Piazza Aldo Moro civ. 4 (Hotel Leon D’Oro).<br><br>2025/02918 <br>https://drive.google.com/drive/folders/1d9h0YP713Vdz3GKpkEshHU8pOs59ivbh?hl=it<br><br>Durata e tempistiche: 30/12/2025 - 31/01/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8699114,41.118829,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2025/04232
-DIVIETO DI TRANSITO E FERMATA
-PIAZZA ALDO MORO, NEL TRATTO STRADALE COMPRESO TRA IL CIV. 4 ED IL CIV. 20
-PIAZZA ALDO MORO, NEL TRATTO STRADALE COMPRESO TRA LA ROTATORIA ED IL CIV. 26
-PIAZZA ALDO MORO SUL LATO OVEST, NEL TRATTO STRADALE COMPRESO TRA IL CIV. 26 ED IL CIV. 22
-LAVORI DI RIQUALIFICAZIONE DI PIAZZA ALDO MORO
-RICHIEDENTE: RETE FERROVIARIA ITALIANA S.P.A. - GRUPPO FERROVIE DELLO STATO ITALIANE
-30/01/2026 - 28/02/2026</name>
-      <description><![CDATA[proroga ordinanza 2025/04232<br><br>2026/00392 <br><br>https://drive.google.com/file/d/1zWkLkLPRJVFmnIeF1E082g1mdhiVTXMM/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2025/04232 PROGRAMMA COMPLESSIVO DI INTERVENTI PER LA “STAZIONE BARI CENTRALE: NUOVO HUB PER LA RICONNESSIONE URBANA E LA MOBILITÀ SOSTENIBILE, NUOVO PARCO URBANO E RINNOVAMENTO DELLE AREE ESTERNE” - PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI LAVORI DI RIQUALIFICAZIONE DI PIAZZA ALDO MORO REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU PIAZZA ALDO MORO FINO AL 28.02.2026 RICHIEDENTE: RETE FERROVIARIA ITALIANA S.P.A. - GRUPPO FERROVIE DELLO STATO ITALIANE IMPRESA ESECUTRICE: MANELLI COSTRUZIONI GENERALI S.P.A. <br><br><br>Durata e tempistiche: 30/01/2026 - 28/02/2026<br><br>2025/04232 <br><br>https://drive.google.com/file/d/1KDk2chPeURlyXlz-gnNZxxltaISXSfb3/view<br><br>PROROGA DELL’ORDINANZA DIRIGENZIALE N. 2025/02918 PROGRAMMA COMPLESSIVO DI INTERVENTI PER LA “STAZIONE BARI CENTRALE: NUOVO HUB PER LA RICONNESSIONE URBANA E LA MOBILITÀ SOSTENIBILE, NUOVO PARCO URBANO E RINNOVAMENTO DELLE AREE ESTERNE” - PROGETTAZIONE ESECUTIVA ED ESECUZIONE DEI LAVORI DI RIQUALIFICAZIONE DI PIAZZA ALDO MORO REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE SU PIAZZA ALDO MORO FINO AL 31.01.2026 RICHIEDENTE: RETE FERROVIARIA ITALIANA S.P.A. - GRUPPO FERROVIE DELLO STATO ITALIANE IMPRESA ESECUTRICE: MANELLI COSTRUZIONI GENERALI S.P.A. <br><br>a) L’istituzione del divieto di transito a tutti i veicoli, sui seguenti tratti stradali: <br>i) Piazza Aldo Moro, nel tratto stradale compreso tra il civ. 4 ed il civ. 20; <br>ii) Piazza Aldo Moro, nel tratto stradale compreso tra la rotatoria ed il civ. 26 <br>b) L’istituzione del divieto di fermata a tutti i veicoli, sui seguenti tratti stradali:<br> i) Piazza Aldo Moro su ambo i lati, nel tratto stradale compreso tra il civ. 4 ed il civ. 20;<br> ii) Piazza Aldo Moro su ambo i lati, nel tratto stradale compreso tra la rotatoria ed il civ. 26; <br>iii) Piazza Aldo Moro nell’area compresa tra la rotatoria ed i giardini a nord di essa, in prossimità dei chioschi tabacchi ed edicola; <br>iv) Piazza Aldo Moro, nel tratto stradale compreso tra il civ. 26 ed il civ. 22, sul lato ovest; <br>c) L’istituzione del divieto di fermata agli autobus su tutti i lati dei giardini a nord della rotatoria; <br>d) L’istituzione di una fermata bus temporanea, sul seguente tratto stradale:<br> i) via Raffale de Cesare, sul lato est, nel tratto stradale compreso tra il civ 16 ed il civ 18;<br> e) Inibizione degli attraversamenti pedonali esistenti sui seguenti tratti stradali:<br> i) Piazza Aldo Moro nel tratto compreso tra via Sparano ed i giardini a nord della rotatoria <br>ii) Piazza Aldo Moro nel tratto compreso tra i giardini a nord della rotatoria e la rotatoria <br>f) L’istituzione del restringimento di carreggiata sui seguenti tratti stradali: <br>i) Rotatoria di Piazza Aldo Moro, nell’arco di nord-est;	<br> ii) Piazza Aldo Moro, nel tratto stradale compreso tra il civ. 61 ed il civ. 53, sul lato ovest <br>g) L’obbligo di proseguire diritto su Piazza Aldo Moro verso via Niccolò dell’Arca a tutti i veicoli della corrente di traffico presente su Piazza Aldo Moro in corrispondenza del civ.22; <br>h) L’istituzione del limite massimo di velocità pari a trenta chilometri orari a tutti i veicoli in avvicinamento alle aree interessate dai lavori. <br>2) Dai divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli al servizio del cantiere edile di Piazza Aldo Moro civ. 4 (Hotel Leon D’Oro).<br><br>2025/02918 <br>https://drive.google.com/drive/folders/1d9h0YP713Vdz3GKpkEshHU8pOs59ivbh?hl=it<br><br><br>Durata e tempistiche: 30/12/2025 - 31/01/2026]]></description>
-      <styleUrl>#line-E65100-5456</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8691925,41.1194741,0
-          16.8692167,41.1190841,0
-          16.8708769,41.119175,0
-          16.8709521,41.1187446,0
-          16.8704102,41.1187285,0
-          16.8702144,41.1186578,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/00001
 RESTRINGIMENTO CARREGGIATA
 VIA NAPOLI CIVV. 17 -21 ANGOLO VIA MONTEGRAPPA IN CARBONARA (BA) 
@@ -2163,39 +2255,6 @@ ISTANTE: MANCINI CARLO
         <coordinates>
           16.8720363,41.0726802,0
           16.8723314,41.0725407,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00013
-DIVIETO DI SOSTA AMBO I LATI 
-STRADELLA ACQUEDOTTO
-CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE
-IMPRESA ESECUTRICE:CCIONA AGUA S.A.
-08/01/2026 - 09/03/2026
-</name>
-      <description><![CDATA[2026/00013 <br><br>https://drive.google.com/file/d/1BHCkeBmq1WIOEc087GQzazLeqzIcwtc7/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON CHIUSURA STRADA SU STRADELLA ACQUEDOTTO, PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO SINO AL 09/03/2026 E COMUNQUE FINO A FINE LAVORI. SOCIETÀ: ACCIONA AGUA S.A. <br><br><br>1. L’istituzione temporanea del divieto di sosta e di fermata ambo i lati, con chiusura strada su Stradella Acquedotto, per interventi mirati a conseguire la distrettualizzazione, il controllo delle pressioni ed il monitoraggio delle grandezze idrauliche nelle reti idriche e sostituzione dei tronchi vetusti ed ammalorati; <br>2. Per tutte le strade interessate, la circolazione stradale dovrà essere altresì regolamentata con movieri dotati di idoneo equipaggiamento al fine di permettere il transito veicolare e pedonale durante l’esecuzione dei lavori;<br>3. Sarà cura dell’impresa esecutrice dei lavori apporre idonea segnaletica di cantiere; 4. Sarà cura, altresì, dell’impresa esecutrice dei lavori, al termine degli stessi, il ripristino dello stato dei luoghi; <br>5. Dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori in particolare nei tratti liberi e transitabili delle strade in narrativa; <br>6. Il cantiere sarà dinamico, ben delimitato con apposite recinzioni a protezione delle aree di lavoro, il tutto eseguito a perfetta regola d’arte; <br>7. I lavori saranno svolti nei giorni dal lunedì al venerdì, dalle ore 00.00 alle ore 24.00 e salvo urgenze e necessità anche nei giorni di sabato e domenica; <br>8. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; <br><br>Durata e tempistiche: 08/01/2026 - 09/03/2026 dal lunedì al venerdì, dalle ore 00.00 alle ore 24.00]]></description>
-      <styleUrl>#icon-1541-FF5252</styleUrl>
-      <Point>
-        <coordinates>
-          16.8662397,41.0843585,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00013
-DIVIETO DI SOSTA AMBO I LATI 
-STRADELLA ACQUEDOTTO
-CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE
-IMPRESA ESECUTRICE:CCIONA AGUA S.A.
-08/01/2026 - 09/03/2026</name>
-      <description><![CDATA[2026/00013 <br><br>https://drive.google.com/file/d/1BHCkeBmq1WIOEc087GQzazLeqzIcwtc7/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON CHIUSURA STRADA SU STRADELLA ACQUEDOTTO, PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO SINO AL 09/03/2026 E COMUNQUE FINO A FINE LAVORI. SOCIETÀ: ACCIONA AGUA S.A. <br><br><br>1. L’istituzione temporanea del divieto di sosta e di fermata ambo i lati, con chiusura strada su Stradella Acquedotto, per interventi mirati a conseguire la distrettualizzazione, il controllo delle pressioni ed il monitoraggio delle grandezze idrauliche nelle reti idriche e sostituzione dei tronchi vetusti ed ammalorati; <br>2. Per tutte le strade interessate, la circolazione stradale dovrà essere altresì regolamentata con movieri dotati di idoneo equipaggiamento al fine di permettere il transito veicolare e pedonale durante l’esecuzione dei lavori;<br>3. Sarà cura dell’impresa esecutrice dei lavori apporre idonea segnaletica di cantiere; 4. Sarà cura, altresì, dell’impresa esecutrice dei lavori, al termine degli stessi, il ripristino dello stato dei luoghi; <br>5. Dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori in particolare nei tratti liberi e transitabili delle strade in narrativa; <br>6. Il cantiere sarà dinamico, ben delimitato con apposite recinzioni a protezione delle aree di lavoro, il tutto eseguito a perfetta regola d’arte; <br>7. I lavori saranno svolti nei giorni dal lunedì al venerdì, dalle ore 00.00 alle ore 24.00 e salvo urgenze e necessità anche nei giorni di sabato e domenica; <br>8. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; <br><br>Durata e tempistiche: 08/01/2026 - 09/03/2026 dal lunedì al venerdì, dalle ore 00.00 alle ore 24.00]]></description>
-      <styleUrl>#line-E65100-4100</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8650976,41.0842995,0
-          16.8688849,41.0841095,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -2804,13 +2863,13 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name><![CDATA[ORDINANZA 2026/00287
+      <name><![CDATA[ORDINANZA 2026/01312
 DIVIETO DI SOSTA AMBO I LATI E CHIUSURA AL TRAFFICO 
 PIAZZA FEDERICO II DI SVEVIA DA PIAZZA MASSARI A VIA RUGGERO II NORMANNO 
 LAVORI DI SCAVO E-DISTRIBUZIONE S.P.A.
 IMPRESA ESECUTRICE:T&D S.R.L.
-26/01/2026 - 06/03/2026]]></name>
-      <description><![CDATA[Ordinanza: 2026/00287<br><br>https://drive.google.com/file/d/1uEuTAeNJFnBBl8_0BoOs8tah2H4P3q2k/view<br><br>PROROGA: 2026/00701: <br>https://drive.google.com/file/d/10TlaQ_Rzh97V2vv_Wb-k0N-ldCYPwKmV/view<br><br>DIVIETO DI SOSTA AMBO I LATI E CHIUSURA AL TRAFFICO <br>H 24 SU PIAZZA FEDERICO II DI SVEVIA DA ANGOLO PIAZZA MASSARI A<br>ANGOLO VIA RUGGERO II NORMANNO PER LAVORI DI SCAVO<br>RICHIEDENTE: E-DISTRIBUZIONE S.P.A.<br>IMPRESA ESECUTRICE: T&D S.R.L.<br><br>Durata e Tempistiche: 26/01/2026 - 13/02/2026<br>PROROGA: FINO AL 06/03/2026]]></description>
+26/01/2026 - 03/04/2026]]></name>
+      <description><![CDATA[Proroga tramite nuova ordinanza 2026/01312: <br>12/03/2026 - 03/04/2026<br><br>https://drive.google.com/file/d/1ascR5ScQ4AouX4ZkblZr1A2RtcB5VM5Y/view<br><br>Ordinanza: 2026/00287<br><br>https://drive.google.com/file/d/1uEuTAeNJFnBBl8_0BoOs8tah2H4P3q2k/view<br><br>PROROGA: 2026/00701: <br>https://drive.google.com/file/d/10TlaQ_Rzh97V2vv_Wb-k0N-ldCYPwKmV/view<br><br>DIVIETO DI SOSTA AMBO I LATI E CHIUSURA AL TRAFFICO <br>H 24 SU PIAZZA FEDERICO II DI SVEVIA DA ANGOLO PIAZZA MASSARI A<br>ANGOLO VIA RUGGERO II NORMANNO PER LAVORI DI SCAVO<br>RICHIEDENTE: E-DISTRIBUZIONE S.P.A.<br>IMPRESA ESECUTRICE: T&D S.R.L.<br><br>Durata e Tempistiche: 26/01/2026 - 13/02/2026<br>PROROGA: FINO AL 06/03/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -2819,13 +2878,13 @@ IMPRESA ESECUTRICE:T&D S.R.L.
       </Point>
     </Placemark>
     <Placemark>
-      <name><![CDATA[ORDINANZA 2026/00287
+      <name><![CDATA[ORDINANZA 2026/01312
 DIVIETO DI SOSTA AMBO I LATI E CHIUSURA AL TRAFFICO 
 PIAZZA FEDERICO II DI SVEVIA DA PIAZZA MASSARI A VIA RUGGERO II NORMANNO 
 LAVORI DI SCAVO E-DISTRIBUZIONE S.P.A.
 IMPRESA ESECUTRICE:T&D S.R.L.
-26/01/2026 - 06/03/2026]]></name>
-      <description><![CDATA[Ordinanza: 2026/00287<br><br>https://drive.google.com/file/d/1uEuTAeNJFnBBl8_0BoOs8tah2H4P3q2k/view<br><br>PROROGA: 2026/00701: <br>https://drive.google.com/file/d/10TlaQ_Rzh97V2vv_Wb-k0N-ldCYPwKmV/view<br><br>DIVIETO DI SOSTA AMBO I LATI E CHIUSURA AL TRAFFICO <br>H 24 SU PIAZZA FEDERICO II DI SVEVIA DA ANGOLO PIAZZA MASSARI A<br>ANGOLO VIA RUGGERO II NORMANNO PER LAVORI DI SCAVO<br>RICHIEDENTE: E-DISTRIBUZIONE S.P.A.<br>IMPRESA ESECUTRICE: T&D S.R.L.<br><br>Durata e Tempistiche: 26/01/2026 - 13/02/2026<br>PROROGA: FINO AL 06/03/2026]]></description>
+26/01/2026 - 03/04/2026]]></name>
+      <description><![CDATA[Proroga tramite nuova ordinanza: <br>12/03/2026 - 03/04/2026<br>https://drive.google.com/file/d/1ascR5ScQ4AouX4ZkblZr1A2RtcB5VM5Y/view<br><br>Ordinanza: 2026/00287<br><br>https://drive.google.com/file/d/1uEuTAeNJFnBBl8_0BoOs8tah2H4P3q2k/view<br><br>PROROGA: 2026/00701: <br>https://drive.google.com/file/d/10TlaQ_Rzh97V2vv_Wb-k0N-ldCYPwKmV/view<br><br>DIVIETO DI SOSTA AMBO I LATI E CHIUSURA AL TRAFFICO <br>H 24 SU PIAZZA FEDERICO II DI SVEVIA DA ANGOLO PIAZZA MASSARI A<br>ANGOLO VIA RUGGERO II NORMANNO PER LAVORI DI SCAVO<br>RICHIEDENTE: E-DISTRIBUZIONE S.P.A.<br>IMPRESA ESECUTRICE: T&D S.R.L.<br><br>Durata e Tempistiche: 26/01/2026 - 13/02/2026<br>PROROGA: FINO AL 06/03/2026]]></description>
       <styleUrl>#line-E65100-3519</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -2975,41 +3034,6 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00774
-DIVIETO DI FERMATA SUI TRATTI DI STRADA INTERESSATI DAI LAVORI LUNGO UN MARGINE O ENTRAMBI I MARGINI DELLA CARREGGIATA
-TRANSITO A SENSO UNICO ALTERNATO NEL TEMPO
-LUNGOMARE DI CROLLALANZA
-LUNGOMARE IMPERATORE AUGUSTO
-INSTALLAZIONE DEGLI IMPIANTI PUBBLICITARI BIKE SHARING
-IMPRESA ESECUTRICE:ARES S.R.L
-19/02/2026 - 07/03/2026</name>
-      <description><![CDATA[PROROGATA 2026/00774<br>https://drive.google.com/file/d/12Mgi4D3v7WfONZFzFhtPidmatUZHvmOO/view<br>FINO AL 07/03/2026<br><br>https://drive.google.com/file/d/17N2oh2ouGoOcU80NSb9ksQRRHnAkbf6N/view<br><br>2026/00337<br>ISTITUZIONE DI PROVVEDIMENTI TEMPORANEI E DEROGHE AI DIVIETI ALLA<br>CIRCOLAZIONE NEL CENTRO CITTADINO PER L’ESECUZIONE LAVORI DI<br>INSTALLAZIONE DEGLI IMPIANTI PUBBLICITARI SU SUOLO PUBBLICO CITTÀ<br>DI BARI PREVISTI DAL CONTRATTO DI CONCESSIONE DEL SERVIZIO DI<br>BIKE SHARING PER LA CITTÀ DI BARI<br><br>Dal giorno 02.02.2026 al giorno 16.02.2026, al fine dell’esecuzione dei lavori di installazione degli impianti pubblicitari su<br>suolo pubblico città di Bari previsti dal contratto di concessione del servizio di Bike Sharing per la Città di Bari, sulle<br>seguenti vie interessate dai lavori:<br> P21 – Lungomare di Crollalanza<br> P27 – Lungomare Imperatore Augusto<br>TERMINE E DURATA 02/02/2026 - 16/02/2026<br>PROROGATA FINO AL 07/03/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8745977,41.1247148,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00774
-DIVIETO DI FERMATA SUI TRATTI DI STRADA INTERESSATI DAI LAVORI LUNGO UN MARGINE O ENTRAMBI I MARGINI DELLA CARREGGIATA
-TRANSITO A SENSO UNICO ALTERNATO NEL TEMPO
-LUNGOMARE DI CROLLALANZA
-LUNGOMARE IMPERATORE AUGUSTO
-INSTALLAZIONE DEGLI IMPIANTI PUBBLICITARI BIKE SHARING
-IMPRESA ESECUTRICE:ARES S.R.L
-19/02/2026 - 07/03/2026
-</name>
-      <description><![CDATA[PROROGATA 2026/00774<br>https://drive.google.com/file/d/12Mgi4D3v7WfONZFzFhtPidmatUZHvmOO/view<br>FINO AL 07/03/2026<br><br>https://drive.google.com/file/d/17N2oh2ouGoOcU80NSb9ksQRRHnAkbf6N/view<br><br>2026/00337<br>ISTITUZIONE DI PROVVEDIMENTI TEMPORANEI E DEROGHE AI DIVIETI ALLA<br>CIRCOLAZIONE NEL CENTRO CITTADINO PER L’ESECUZIONE LAVORI DI<br>INSTALLAZIONE DEGLI IMPIANTI PUBBLICITARI SU SUOLO PUBBLICO CITTÀ<br>DI BARI PREVISTI DAL CONTRATTO DI CONCESSIONE DEL SERVIZIO DI<br>BIKE SHARING PER LA CITTÀ DI BARI<br><br>Dal giorno 02.02.2026 al giorno 16.02.2026, al fine dell’esecuzione dei lavori di installazione degli impianti pubblicitari su<br>suolo pubblico città di Bari previsti dal contratto di concessione del servizio di Bike Sharing per la Città di Bari, sulle<br>seguenti vie interessate dai lavori:<br> P21 – Lungomare di Crollalanza<br> P27 – Lungomare Imperatore Augusto<br>TERMINE E DURATA 02/02/2026 - 16/02/2026<br>PROROGATA FINO AL 07/03/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.871844,41.129662,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/00355
 RESTRINGIMENTO DI CARREGGIATA E DIVIETO FERMATA 
 VIA GAETANO SALVEMINI NEL TRATTO COMPRESO TRA VIA OMODEO E VIA
@@ -3042,43 +3066,6 @@ DAL 23/01/2026 AL 22/06/2026
         <coordinates>
           16.8807623,41.1078684,0
           16.881347,41.105962,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00358
-DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA
-VIA VASSALLO (DAL CIV 21 CABINA PRIMARIA ENEL FINO A VIA DEL RE)
-LAVORI DI SCAVO C/ENEL.
-RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL
-01/02/2026 - 10/03/2026 07:00-17:00
-</name>
-      <description><![CDATA[2026/00358 <br><br>https://drive.google.com/file/d/1-Kt-HbX4Gkp5iXMcJi_a1ATBQIBxgtQK/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA SU VIA VASSALLO (DAL CIV 21 CABINA PRIMARIA ENEL FINO A VIA DEL RE) - BARI” DAL GIORNO 01 FEBBRAIO 2026 AL GIORNO 10 MARZO 2026 DALLE ORE 07.00 ALLE ORE 17:00 PER LAVORI DI SCAVO C/ENEL. RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Istituzione temporanea del divieto di sosta e fermata con rimozione forzata ambo i lati e il restringimento della carreggiata su: via Vassallo (dal civ 21 Cabina Primaria ENEL fino a via Del Re) <br>La graduazione della velocità in avvicinamento per metri 100 all’area del lavori con limite pari a 20 km/h. <br>Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia e dovrà essere prevista la presenza di movieri, dotati di idoneo equipaggiamento, che dovranno sovraintendere alle esigenze della circolazione stradale visto il restringimento della carreggiata e del senso unico alternato, con particolare attenzione al transito pedonale e alle persone con ridotte capacità motorie. A tal fine dovrà permanere transitabile e sgombra da ogni mezzo e materiale una corsia di larghezza non inferiore a metri 3.50. <br>Dovranno essere inoltre assicurati gli accessi privati. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto.<br><br>Durata e tempistiche: 01/02/2026 - 10/03/2026 07:00-17:00]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8766437,41.091973,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00358
-DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA
-VIA VASSALLO (DAL CIV 21 CABINA PRIMARIA ENEL FINO A VIA DEL RE)
-LAVORI DI SCAVO C/ENEL.
-RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL
-01/02/2026 - 10/03/2026 07:00-17:00
-</name>
-      <description><![CDATA[2026/00358 <br><br>https://drive.google.com/file/d/1-Kt-HbX4Gkp5iXMcJi_a1ATBQIBxgtQK/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA SU VIA VASSALLO (DAL CIV 21 CABINA PRIMARIA ENEL FINO A VIA DEL RE) - BARI” DAL GIORNO 01 FEBBRAIO 2026 AL GIORNO 10 MARZO 2026 DALLE ORE 07.00 ALLE ORE 17:00 PER LAVORI DI SCAVO C/ENEL. RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A. DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Istituzione temporanea del divieto di sosta e fermata con rimozione forzata ambo i lati e il restringimento della carreggiata su: via Vassallo (dal civ 21 Cabina Primaria ENEL fino a via Del Re) <br>La graduazione della velocità in avvicinamento per metri 100 all’area del lavori con limite pari a 20 km/h. <br>Durante l’esecuzione dei lavori dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia e dovrà essere prevista la presenza di movieri, dotati di idoneo equipaggiamento, che dovranno sovraintendere alle esigenze della circolazione stradale visto il restringimento della carreggiata e del senso unico alternato, con particolare attenzione al transito pedonale e alle persone con ridotte capacità motorie. A tal fine dovrà permanere transitabile e sgombra da ogni mezzo e materiale una corsia di larghezza non inferiore a metri 3.50. <br>Dovranno essere inoltre assicurati gli accessi privati. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto.<br><br>Durata e tempistiche: 01/02/2026 - 10/03/2026 07:00-17:00]]></description>
-      <styleUrl>#line-E65100-4875</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.879106,41.091605,0
-          16.8777971,41.0919284,0
-          16.8767188,41.0921103,0
-          16.8744872,41.0916211,0
-          16.873586,41.0917222,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -4491,46 +4478,6 @@ LAVORI DI SCAVO PER LA POSA CAVI MT
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00686
-RESTRINGIMENTO CARREGGIATA
-DIVIETO DI SOSTA E FERMATA
-VIA CALDAROLA NEL TRATTO STRADALE COMPRESO TRA VIA CAVALIERI
-DI VITTORIO VENETO E VIALE ARCHIMEDE
-LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
-SCAVO PER LA POSA CAVI MT
-IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-12/02/2026 - 12/03/2026  
-</name>
-      <description><![CDATA[2026/00686<br>https://drive.google.com/file/d/1Zl2WOrQqael15Y09BWpFEMa9cM3IKfkx/view?usp=sharing<br><br> LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA CALDAROLA NEL TRATTO STRADALE COMPRESO TRA VIA CAVALIERI DI VITTORIO VENETO E VIALE ARCHIMEDE DAL GIORNO 12.02.2026 AL GIORNO 12.03.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>1) Dal giorno 12.02.2026 al giorno 12.03.2026 sono istituiti i seguenti provvedimenti temporanei di circolazione:<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) via Caldarola nel tratto stradale compreso tra via Cavalieri di Vittorio Veneto e viale Archimede, su entrambe le carreggiate.<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) via Caldarola nel tratto stradale compreso tra via Cavalieri di Vittorio Veneto e viale Archimede, su entrambe le carreggiate.<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br>Durata e tempistiche: 12.02.2026 -  12.03.2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8972471,41.1071584,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00686
-RESTRINGIMENTO CARREGGIATA
-DIVIETO DI SOSTA E FERMATA
-VIA CALDAROLA NEL TRATTO STRADALE COMPRESO TRA VIA CAVALIERI
-DI VITTORIO VENETO E VIALE ARCHIMEDE
-LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
-SCAVO PER LA POSA CAVI MT
-IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-12/02/2026 - 12/03/2026  
-</name>
-      <description><![CDATA[2026/00686<br>https://drive.google.com/file/d/1Zl2WOrQqael15Y09BWpFEMa9cM3IKfkx/view?usp=sharing<br><br> LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>VIA CALDAROLA NEL TRATTO STRADALE COMPRESO TRA VIA CAVALIERI DI VITTORIO VENETO E VIALE ARCHIMEDE DAL GIORNO 12.02.2026 AL GIORNO 12.03.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>1) Dal giorno 12.02.2026 al giorno 12.03.2026 sono istituiti i seguenti provvedimenti temporanei di circolazione:<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) via Caldarola nel tratto stradale compreso tra via Cavalieri di Vittorio Veneto e viale Archimede, su entrambe le carreggiate.<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) via Caldarola nel tratto stradale compreso tra via Cavalieri di Vittorio Veneto e viale Archimede, su entrambe le carreggiate.<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza;<br><br>Durata e tempistiche: 12.02.2026 - 12.03.2026]]></description>
-      <styleUrl>#line-E65100-5844</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8955233,41.107985,0
-          16.899779,41.106198,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/00694
 DIVIETO DI SOSTA
 AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA
@@ -5503,16 +5450,16 @@ RICHIEDENTE: SIG. STRIPPOLI GIOVANNI
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00714
+      <name>ORDINANZA 2026/01270
 DIVIETO DI SOSTA E DI FERMATA AMBO I LATI E CHIUSURA AL TRANSITO VEICOLARE
 SU VIA GIULIO PETRONI 
 NEL TRATTO COMPRESO TRA VIA OSPEDALE DI
 VENERE E VIA GIUSEPPE SIGNORILE BIANCHI
 PER LAVORI DI SCAVO
 IMPRESA ESECUTRICE: E-DISTRIBUZIONE
-16/02/2026 - 31/03/2026
+01/04/2026 - 30/04/2026
 </name>
-      <description><![CDATA[Ordinanza: 2026/00714<br><br>https://drive.google.com/file/d/16MeFHxsZbUvlNxrEJAWd_Oe1BmlIbvhh/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON CHIUSURA AL TRANSITO VEICOLARE<br><br>SU VIA GIULIO PETRONI NEL TRATTO COMPRESO TRA VIA OSPEDALE DI<br>VENERE E VIA GIUSEPPE SIGNORILE BIANCHI<br><br> PER LAVORI DI SCAVO <br><br>PER CONTO DI E-DISTRIBUZIONE <br>SOCIETÀ:NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 16/02/2026 - 31/03/2026.]]></description>
+      <description><![CDATA[Ordinanza: 2026/01270<br>https://drive.google.com/file/d/1qI63-l2ru8viQjp_2SYTJlcbKVvgAVA8/view?usp=sharing<br><br>PROROGA ORD. 2026/00714<br>https://drive.google.com/file/d/16MeFHxsZbUvlNxrEJAWd_Oe1BmlIbvhh/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON CHIUSURA AL TRANSITO VEICOLARE<br><br>SU VIA GIULIO PETRONI NEL TRATTO COMPRESO TRA VIA OSPEDALE DI<br>VENERE E VIA GIUSEPPE SIGNORILE BIANCHI<br><br> PER LAVORI DI SCAVO <br><br>PER CONTO DI E-DISTRIBUZIONE <br>SOCIETÀ:NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 01/04/2026 - 30/04/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -5521,16 +5468,15 @@ IMPRESA ESECUTRICE: E-DISTRIBUZIONE
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00714
+      <name>ORDINANZA 2026/01270
 DIVIETO DI SOSTA E DI FERMATA AMBO I LATI E CHIUSURA AL TRANSITO VEICOLARE
-SU VIA GIULIO PETRONI 
+SU VIA GIULIO PETRONI
 NEL TRATTO COMPRESO TRA VIA OSPEDALE DI
 VENERE E VIA GIUSEPPE SIGNORILE BIANCHI
 PER LAVORI DI SCAVO
 IMPRESA ESECUTRICE: E-DISTRIBUZIONE
-16/02/2026 - 31/03/2026
-</name>
-      <description><![CDATA[Ordinanza: 2026/00714<br><br>https://drive.google.com/file/d/16MeFHxsZbUvlNxrEJAWd_Oe1BmlIbvhh/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON CHIUSURA AL TRANSITO VEICOLARE<br>SU VIA GIULIO PETRONI NEL TRATTO COMPRESO TRA VIA OSPEDALE DI<br>VENERE E VIA GIUSEPPE SIGNORILE BIANCHI PER LAVORI DI SCAVO PER<br>CONTO DI E-DISTRIBUZIONE <br>SOCIETÀ:NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 16/02/2026 - 31/03/2026.]]></description>
+01/04/2026 - 30/04/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01270<br>https://drive.google.com/file/d/1qI63-l2ru8viQjp_2SYTJlcbKVvgAVA8/view?usp=sharing<br><br>PROROGA ORD. 2026/00714<br>https://drive.google.com/file/d/16MeFHxsZbUvlNxrEJAWd_Oe1BmlIbvhh/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON CHIUSURA AL TRANSITO VEICOLARE<br><br>SU VIA GIULIO PETRONI NEL TRATTO COMPRESO TRA VIA OSPEDALE DI<br>VENERE E VIA GIUSEPPE SIGNORILE BIANCHI<br><br>PER LAVORI DI SCAVO<br><br>PER CONTO DI E-DISTRIBUZIONE<br>SOCIETÀ:NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 01/04/2026 - 30/04/2026]]></description>
       <styleUrl>#line-E65100-3713</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -6702,38 +6648,6 @@ IMPRESA ESECUTRICE: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00837
-DIVIETO DI TRANSITO, DI SOSTA SU AMBO I LATI CON RIMOZIONE FORZATA
-CORSO B. CROCE 35 DA LARGO CIAIA A VIA D. GARGASOLE 
- COSTRUZIONE IMPIANTO IDRICO E IMPIANTO FOGNARIO
-IMPRESA ESECUTRICE: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
-02/03/2026 - 	08/03/2026</name>
-      <description><![CDATA[ORDINANZA 2026/00837<br><br>https://drive.google.com/file/d/1q9YonmiyAd6o1KiXNVwl0MufZ-mMxTS7/view<br><br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO, DI SOSTA SU AMBO I LATI CON RIMOZIONE FORZATA IN CORSO B. CROCE 35 DA LARGO CIAIA A VIA D. GARGASOLE PER LAVORI DI COSTRUZIONE IMPIANTO IDRICO E IMPIANTO FOGNARIO DAL 2.3.2026 AL 8.3.2026. IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI” ISTANTE: AQP S.P.A. <br>Durata e tempistiche: 02/03/2026 - 	08/03/2026]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8722113,41.1142484,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00837
-DIVIETO DI TRANSITO, DI SOSTA SU AMBO I LATI CON RIMOZIONE FORZATA
-CORSO B. CROCE 35 DA LARGO CIAIA A VIA D. GARGASOLE 
- COSTRUZIONE IMPIANTO IDRICO E IMPIANTO FOGNARIO
-IMPRESA ESECUTRICE: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
-02/03/2026 - 	08/03/2026</name>
-      <description><![CDATA[ORDINANZA 2026/00837<br><br>https://drive.google.com/file/d/1q9YonmiyAd6o1KiXNVwl0MufZ-mMxTS7/view<br><br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO, DI SOSTA SU AMBO I LATI CON RIMOZIONE FORZATA IN CORSO B. CROCE 35 DA LARGO CIAIA A VIA D. GARGASOLE PER LAVORI DI COSTRUZIONE IMPIANTO IDRICO E IMPIANTO FOGNARIO DAL 2.3.2026 AL 8.3.2026. IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI” ISTANTE: AQP S.P.A. <br>Durata e tempistiche: 02/03/2026 - 	08/03/2026]]></description>
-      <styleUrl>#line-E65100-3906</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8723481,41.1150941,0
-          16.8722247,41.1134916,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/00840
 REVOCA DELL’ORDINANZA DIRIGENZIALE N. 2025/03762 DI ISTITUZIONE DEL DIVIETO DI SOSTA IN VIA APULIA E VIA GIUSEPPE DI VAGNO AL DI SOTTO DEL PONTE GARIBALDI INTEGRAZIONI ALL’ORDINANZA DIRIGENZIALE N. 2025/03413 DEL 01.11.2025
 </name>
@@ -7148,110 +7062,6 @@ IMPRESA ESECUTRICE: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
       </LineString>
     </Placemark>
     <Placemark>
-      <name><![CDATA[ORDINANZA 2026/00870
-RESTRINGIMENTO DI CARREGGIATA, SENSO UNICO ALTERNATO DIVIETO DI FERMATA
-VIA GIULIO PETRONI DAL CIV. 27 ALL'INTERSEZIONE CON VIA LUIGI RICCHIONI 
-DEMOLIZIONI E PARCHEGGIO PROVVISORIO
-IMPRESA ESECUTRICE: DE MARCO SRL
-27-28/02/2026 02/03/2026 h 07:00-16:00
-]]></name>
-      <description><![CDATA[ORDINANZA 2026/00870<br><br>https://drive.google.com/file/d/16ePu6WsIju_WN2l_xMxWw2WxSIVCyNOe/view<br><br>REALIZZAZIONE DELLA NUOVA PIAZZA D'ARTI E RIQUALIFICAZIONE DELLE AREE A VERDE E PARCHEGGIO DELL'INTERO COMPENDIO DELL'EX CASERMA ROSSANI - FASE 1 DEMOLIZIONI E PARCHEGGIO PROVVISORIO RESTRINGIMENTO DI CARREGGIATA E ISTITUZIONE DEL SENSO UNICO ALTERNATO ,DIVIETO DI FERMATA, DEROGA AL DIVIETO DI FERMATA SU VIA GIULIO PETRONI DAL CIV. 27 ALL'INTERSEZIONE CON VIA LUIGI RICCHIONI PER I GIORNI 27 E 28 FEBBRAIO E 02 MARZO, DALLE ORE 07.00 ALLE ORE 16.00: IMPRESA ESECUTRICE : DE MARCO SRL <br><br>Durata e tempistiche: 27-28/02/2026 02/03/2026 h 07:00-16:00]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8687563,41.1151707,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name><![CDATA[ORDINANZA 2026/00870
-RESTRINGIMENTO DI CARREGGIATA, SENSO UNICO ALTERNATO DIVIETO DI FERMATA
-VIA GIULIO PETRONI DAL CIV. 27 ALL'INTERSEZIONE CON VIA LUIGI RICCHIONI 
-DEMOLIZIONI E PARCHEGGIO PROVVISORIO
-IMPRESA ESECUTRICE: DE MARCO SRL
-27-28/02/2026 02/03/2026 h 07:00-16:00
-]]></name>
-      <description><![CDATA[ORDINANZA 2026/00870<br><br>https://drive.google.com/file/d/16ePu6WsIju_WN2l_xMxWw2WxSIVCyNOe/view<br><br>REALIZZAZIONE DELLA NUOVA PIAZZA D'ARTI E RIQUALIFICAZIONE DELLE AREE A VERDE E PARCHEGGIO DELL'INTERO COMPENDIO DELL'EX CASERMA ROSSANI - FASE 1 DEMOLIZIONI E PARCHEGGIO PROVVISORIO RESTRINGIMENTO DI CARREGGIATA E ISTITUZIONE DEL SENSO UNICO ALTERNATO ,DIVIETO DI FERMATA, DEROGA AL DIVIETO DI FERMATA SU VIA GIULIO PETRONI DAL CIV. 27 ALL'INTERSEZIONE CON VIA LUIGI RICCHIONI PER I GIORNI 27 E 28 FEBBRAIO E 02 MARZO, DALLE ORE 07.00 ALLE ORE 16.00: IMPRESA ESECUTRICE : DE MARCO SRL <br><br>Durata e tempistiche: 27-28/02/2026 02/03/2026 h 07:00-16:00]]></description>
-      <styleUrl>#line-E65100-5844</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8687697,41.1153829,0
-          16.8688287,41.1151404,0
-          16.8686946,41.1150353,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00872
-RESTRINGIMENTO DI CARREGGIATA
-VIA GIOVANNI DI CAGNO ABBRESCIA IN PROSSIMITÀ DEL CANTIERE DI TORRE QUETTA
-POSIZIONAMENTO CORPI ILLUMINANTI SU PALI DELLA PUBBLICA ILLUMINAZIONE 
-IMPRESA ESECUTRICE: DITTA ANTONACCI TERMOIDRAULICA SRL
-02/03/2026 - 06/03/2026 08:00-15:00
-</name>
-      <description><![CDATA[ORDINANZA 2026/00872<br><br>https://drive.google.com/file/d/11hjN92pPqOguvcmbvSGpfVy6ecPeAj0l/view<br><br> P.N.C.- PIANO NAZIONALE DEGLI INTERVENTI COMPLEMENTARI AL PNRR “BARI COSTASUD ,PARCO COSTIERODELLA CULTURA, DEL TURISMO, DELL’AMBIENTE” LOTTO 2 – “PARCO COSTIERO TORRE QUETTA” CUP J96B21000010006 – CIG LAVORI B08C6D45CC RESTRINGIMENTO DELLA CARREGGIATA SU VIA GIOVANNI DI CAGNO ABBRESCIA IN PROSSIMITÀ DEL CANTIERE DI TORRE QUETTA PER ESEGUIRE INTERVENTO DI POSIZIONAMENTO CORPI ILLUMINANTI SU PALI DELLA PUBBLICA ILLUMINAZIONE CON PIATTAFORMA AEREA AUTOCARRATA ARTICOLATA DI DIMENSIONI PARI A CIRCA 2 MT. X 6 MT. DAL 02/03/2026 AL 06/03/2026, DALLE ORE 8.00 ALLE ORE 15.00 RICHIEDENTE : DITTA ANTONACCI TERMOIDRAULICA SRL, CON SEDE IN FOGGIA (FG), IN VIA SAN SEVERO KM 2,00, CAP 71122 <br><br>Durata e tempistiche: 02/03/2026 - 06/03/2026 08:00-15:00]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.9131732,41.112981,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00872
-RESTRINGIMENTO DI CARREGGIATA
-VIA GIOVANNI DI CAGNO ABBRESCIA IN PROSSIMITÀ DEL CANTIERE DI TORRE QUETTA
-POSIZIONAMENTO CORPI ILLUMINANTI SU PALI DELLA PUBBLICA ILLUMINAZIONE 
-IMPRESA ESECUTRICE: DITTA ANTONACCI TERMOIDRAULICA SRL
-02/03/2026 - 06/03/2026 08:00-15:00
-</name>
-      <description><![CDATA[ORDINANZA 2026/00872<br><br>https://drive.google.com/file/d/11hjN92pPqOguvcmbvSGpfVy6ecPeAj0l/view<br><br> P.N.C.- PIANO NAZIONALE DEGLI INTERVENTI COMPLEMENTARI AL PNRR “BARI COSTASUD ,PARCO COSTIERODELLA CULTURA, DEL TURISMO, DELL’AMBIENTE” LOTTO 2 – “PARCO COSTIERO TORRE QUETTA” CUP J96B21000010006 – CIG LAVORI B08C6D45CC RESTRINGIMENTO DELLA CARREGGIATA SU VIA GIOVANNI DI CAGNO ABBRESCIA IN PROSSIMITÀ DEL CANTIERE DI TORRE QUETTA PER ESEGUIRE INTERVENTO DI POSIZIONAMENTO CORPI ILLUMINANTI SU PALI DELLA PUBBLICA ILLUMINAZIONE CON PIATTAFORMA AEREA AUTOCARRATA ARTICOLATA DI DIMENSIONI PARI A CIRCA 2 MT. X 6 MT. DAL 02/03/2026 AL 06/03/2026, DALLE ORE 8.00 ALLE ORE 15.00 RICHIEDENTE : DITTA ANTONACCI TERMOIDRAULICA SRL, CON SEDE IN FOGGIA (FG), IN VIA SAN SEVERO KM 2,00, CAP 71122 <br><br>Durata e tempistiche: 02/03/2026 - 06/03/2026 08:00-15:00]]></description>
-      <styleUrl>#line-E65100-3906</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.916306,41.1119383,0
-          16.9147825,41.1126011,0
-          16.913023,41.1128436,0
-          16.9111562,41.1137489,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 22026/00873
-RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
-VIA CASCIA DA VIALE SANTA RITA A STRADA LAMA DEL DUCA
-RIPRISTINO MANTO STRADALE C/ENEL
-IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-02/03/2026 - 09/03/2026</name>
-      <description><![CDATA[Ordinanza: 2026/00873<br><br>https://drive.google.com/file/d/1giiFXNYagU2fPNw8N9uov1N9dluczXok/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA CASCIA (DA VIALE SANTA RITA A STRADA LAMA DEL DUCA) DALLE ORE<br>07:00 ALLE ORE 17:00 PER LAVORI DI RIPRISTINO MANTO STRADALE<br>C/ENEL SOCIETÀ:NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 02/03/2026 - 09/03/2026.]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8555733,41.0710708,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 22026/00873
-RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
-VIA CASCIA DA VIALE SANTA RITA A STRADA LAMA DEL DUCA
-RIPRISTINO MANTO STRADALE C/ENEL
-IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-02/03/2026 - 09/03/2026.</name>
-      <description><![CDATA[Ordinanza: 2026/00873<br><br>https://drive.google.com/file/d/1giiFXNYagU2fPNw8N9uov1N9dluczXok/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA CASCIA (DA VIALE SANTA RITA A STRADA LAMA DEL DUCA) DALLE ORE<br>07:00 ALLE ORE 17:00 PER LAVORI DI RIPRISTINO MANTO STRADALE<br>C/ENEL SOCIETÀ:NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 02/03/2026  - 09/03/2026.]]></description>
-      <styleUrl>#line-E65100-3906</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8557878,41.0671924,0
-          16.855525,41.0708201,0
-          16.855404,41.0710631,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 22026/00874
 RESTRINGIMENTO CARREGGIATA 
 VIA MACCHIE DAL CIV. 34 AL CIV. 46
@@ -7282,38 +7092,6 @@ IMPRESA ESECUTRICE: CIRCET ITALIA SPA
         <coordinates>
           16.7684376,41.1494178,0
           16.7691404,41.1490583,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00875
-RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA AMBO I LATI
-VIALE DELLA REPUBBLICA DA VIA DE AMICIS AL CIV. 38
-RIPRISTINO MANTO STRADALE C/ENEL
-IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL
-04/03/2026 - 11/03/2026 (07:00 - 17:00)</name>
-      <description><![CDATA[ORDINANZA 2026/00875<br><br>https://drive.google.com/file/d/1AbpNE_MigEhi4AjOlGKpoGQjjFnhHpYX/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON<br>RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA<br>IN VIALE DELLA REPUBBLICA (DA VIA DE AMICIS AL CIV 38) PER LAVORI DI RIPRISTINO<br>MANTO STRADALE C/ENEL.<br>RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.<br>DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e tempistiche: 04/03/2026 - 11/03/2026 (07.00 - 17.00 )]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8739384,41.1111842,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00875
-RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA AMBO I LATI
-VIALE DELLA REPUBBLICA DA VIA DE AMICIS AL CIV. 38
-RIPRISTINO MANTO STRADALE C/ENEL
-IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL
-04/03/2026 - 11/03/2026 (07:00 - 17:00)</name>
-      <description><![CDATA[ORDINANZA 2026/00875<br><br>https://drive.google.com/file/d/1AbpNE_MigEhi4AjOlGKpoGQjjFnhHpYX/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON<br>RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA<br>IN VIALE DELLA REPUBBLICA (DA VIA DE AMICIS AL CIV 38) PER LAVORI DI RIPRISTINO<br>MANTO STRADALE C/ENEL.<br>RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.<br>DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e tempistiche: 04/03/2026 - 11/03/2026  (07.00 - 17.00 )]]></description>
-      <styleUrl>#line-E65100-4681</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.873745,41.111719,0
-          16.873815,41.111191,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -7390,39 +7168,6 @@ IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL
         <coordinates>
           16.873674,41.1002274,0
           16.8736472,41.1005184,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00888
-RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
-VIA G. POSTIGLIONE DA VIA CANONICO ANNIBALE MARIA DI FRANCIA A VIA LATTANZIO
-LAVORI DI RIPRISTINO MANTO STRADALE C/ENEL
-IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-04/03/2026 - 11/03/2026</name>
-      <description><![CDATA[Ordinanza: 2026/00888<br><br>https://drive.google.com/file/d/1_ILwJ6XxdSBIZQTI5rp1amGoJJ0jdmKb/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON<br>RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA<br>IN VIA G. POSTIGLIONE (DA VIA CANONICO ANNIBALE MARIA DI FRANCIA A<br>VIA LATTANZIO) – BARI” PER LAVORI DI RIPRISTINO MANTO<br>STRADALE C/ENEL.<br>RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.<br>DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e Tempistiche: 04/03/2026 - 11/03/2026<br>07.00 - 17.00]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8782635,41.1127192,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/00888
-RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
-VIA G. POSTIGLIONE DA VIA CANONICO ANNIBALE MARIA DI FRANCIA A VIA LATTANZIO
-LAVORI DI RIPRISTINO MANTO STRADALE C/ENEL
-IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-04/03/2026 - 11/03/2026</name>
-      <description><![CDATA[Ordinanza: 2026/00888<br><br>https://drive.google.com/file/d/1_ILwJ6XxdSBIZQTI5rp1amGoJJ0jdmKb/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON<br>RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA<br>IN VIA G. POSTIGLIONE (DA VIA CANONICO ANNIBALE MARIA DI FRANCIA A<br>VIA LATTANZIO) – BARI”  PER LAVORI DI RIPRISTINO MANTO<br>STRADALE C/ENEL.<br>RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.<br>DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL<br><br>Durata e Tempistiche: 04/03/2026 - 11/03/2026<br>07.00 - 17.00]]></description>
-      <styleUrl>#line-E65100-4488</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8781448,41.1128082,0
-          16.8793089,41.1133336,0
-          16.8800438,41.113661,0
         </coordinates>
       </LineString>
     </Placemark>
@@ -7773,24 +7518,6 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
           16.8410524,41.1322405,0
         </coordinates>
       </LineString>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA N. 2026/00911
-CHIUSURA AL TRANSITO VEICOLARE SU
-VIA SAN FRANCESCO CIVV. 1-3 PER POSIZIONAMENTO AUTOCARRO
-CASSONATO, PER EFFETTUARE CARICO TEMPORANEO DI MATERIALI
-INERTI DERIVANTI DA LAVORAZIONE EDILE
-ISTANTE: EL BAHLOULI QUALE PROPRIETARIO DELL’IMMOBILE
-TERMINE E DURATA: 07/03/2026
-DALLE ORE 08:00 ALLE ORE 10:00.
-</name>
-      <description><![CDATA[ORDINANZA N. 2026/00911<br>CHIUSURA AL TRANSITO VEICOLARE SU<br>VIA SAN FRANCESCO CIVV. 1-3 PER POSIZIONAMENTO AUTOCARRO<br>CASSONATO, PER EFFETTUARE CARICO TEMPORANEO DI MATERIALI<br>INERTI DERIVANTI DA LAVORAZIONE EDILE<br>https://drive.google.com/file/d/1M85dCRh12JL8O9htXTiyvN3lG9xpyfRi/view<br>TERMINE E DURATA: 07/03/2026<br>DALLE ORE 08:00 ALLE ORE 10:00.]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.844326,41.1312629,0
-        </coordinates>
-      </Point>
     </Placemark>
     <Placemark>
       <name>ORDINANZA 2026/00929
@@ -8229,41 +7956,6 @@ RICHIEDENTE:CITTÀ METROPOLITANA DI BARI
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/01191
-DIVIETO DI TRANSITO VEICOLARE E
-PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO
-IN VIA CILEA DAL CIV. 2 AL CIV. 10/A
-REALIZZAZIONE AREA DI CANTIERE PER OPERAZIONI DI GETTO
-IMPRESA ESECUTRICE: VALLARELLA IMMOBILIARE S.R.L.
-11/03/2026 - 12/03/2026 07:00 - 16:00
-</name>
-      <description><![CDATA[2026/01191<br>https://drive.google.com/file/d/1F5eSttaSeu38uie3AzNzS9JctsJIDAvo/view <br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER REALIZZAZIONE AREA DI CANTIERE PER<br>OPERAZIONI DI GETTO CLS PER I GIORNI 11/12/03/2026 DALLE ORE 07:00<br>ALLE ORE 16:00.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br>1. La temporanea Istituzione del divieto di transito veicolare su via Cilea, nel tratto compreso tra il<br>civ. 2 e il civ. 10/A, eccetto frontisti, laddove la strada non è oggetto di occupazione;<br><br>2. La temporanea istituzione del divieto di sosta ambo i lati della via Cilea nel tratto di strada tra<br>il civ. 2 e il civ. 10/A;<br><br>3. La temporanea istituzione del senso unico alternato della via Cilea tratto tra il civ. 10/A e strada<br>San Girolamo, per consentire l’accesso/uscita dalla via Cilea, tratto percorribile durante<br>l’esecuzione dei lavori in narrativa;<br><br>4. Occorrerà interdire il transito dei pedoni nell’area di cantiere con particolare attenzione nella<br>zona sottostante il braccio operativo;<br><br>5. Durante l’esecuzione dei lavori, dovrà essere garantita la presenza di movieri dotati di idoneo<br>equipaggiamento che regolamenteranno la circolazione veicolare e pedonale;<br><br>6. Dovranno essere lasciati liberi gli accessi privati, regolamentando la circolazione veicolare<br>proveniente e diretta al Lungomare IX Maggio e proveniente e diretta su strada San Girolamo<br>nei tratti di via Cilea percorribili;<br><br>7. In particolare n. 2 movieri all’intersezione lungomare IX Maggio/via Cilea nonché al civ.10/A e<br>l’intersezione strada san Girolamo/via Cilea ovvero nel senso unico alternato che verrà<br>temporaneamente istituito;<br>8. Dovrà essere data indicazione della temporanea interdizione al transito veicolare della via Cilea,<br>all’intersezione Lungomare IX Maggio/via Donato Marrone;<br><br>9. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte<br>capacità motorie;<br><br>10. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente<br>sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente<br>disposto;<br><br>DURATA E TEMPISTICHE: dal 11/03/2026 al 12/03/2026 dalle ore 07:00 alle ore 16:00]]></description>
-      <styleUrl>#icon-1541-E65100</styleUrl>
-      <Point>
-        <coordinates>
-          16.8258418,41.1371716,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
-      <name>ORDINANZA 2026/01191
-DIVIETO DI TRANSITO VEICOLARE E
-PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO
-IN VIA CILEA DAL CIV. 2 AL CIV. 10/A
-REALIZZAZIONE AREA DI CANTIERE PER OPERAZIONI DI GETTO
-IMPRESA ESECUTRICE: VALLARELLA IMMOBILIARE S.R.L.
-11/03/2026 - 12/03/2026 07:00 - 16:00</name>
-      <description><![CDATA[2026/01191<br>https://drive.google.com/file/d/1F5eSttaSeu38uie3AzNzS9JctsJIDAvo/view <br><br>ISTITUZIONE TEMPORANEA DI DIVIETO DI TRANSITO VEICOLARE E<br>PEDONALE, DIVIETO DI SOSTA E SENSO UNICO ALTERNATO SU VIA CILEA<br>DAL CIV. 2 AL CIV. 10/A PER REALIZZAZIONE AREA DI CANTIERE PER<br>OPERAZIONI DI GETTO CLS PER I GIORNI 11/12/03/2026 DALLE ORE 07:00<br>ALLE ORE 16:00.<br>SOCIETÀ: VALLARELLA IMMOBILIARE S.R.L.<br>ISTANTE: VALLARELLA LUCA (AMMINISTRATORE UNICO DELLA<br>“VALLARELLA IMMOBILIARE S.R.L.”)<br><br>1. La temporanea Istituzione del divieto di transito veicolare su via Cilea, nel tratto compreso tra il<br>civ. 2 e il civ. 10/A, eccetto frontisti, laddove la strada non è oggetto di occupazione;<br><br>2. La temporanea istituzione del divieto di sosta ambo i lati della via Cilea nel tratto di strada tra<br>il civ. 2 e il civ. 10/A;<br><br>3. La temporanea istituzione del senso unico alternato della via Cilea tratto tra il civ. 10/A e strada<br>San Girolamo, per consentire l’accesso/uscita dalla via Cilea, tratto percorribile durante<br>l’esecuzione dei lavori in narrativa;<br><br>4. Occorrerà interdire il transito dei pedoni nell’area di cantiere con particolare attenzione nella<br>zona sottostante il braccio operativo;<br><br>5. Durante l’esecuzione dei lavori, dovrà essere garantita la presenza di movieri dotati di idoneo<br>equipaggiamento che regolamenteranno la circolazione veicolare e pedonale;<br><br>6. Dovranno essere lasciati liberi gli accessi privati, regolamentando la circolazione veicolare<br>proveniente e diretta al Lungomare IX Maggio e proveniente e diretta su strada San Girolamo<br>nei tratti di via Cilea percorribili;<br><br>7. In particolare n. 2 movieri all’intersezione lungomare IX Maggio/via Cilea nonché al civ.10/A e<br>l’intersezione strada san Girolamo/via Cilea ovvero nel senso unico alternato che verrà<br>temporaneamente istituito;<br>8. Dovrà essere data indicazione della temporanea interdizione al transito veicolare della via Cilea,<br>all’intersezione Lungomare IX Maggio/via Donato Marrone;<br><br>9. Particolare attenzione dovrà essere posta al transito pedonale e alle persone con ridotte<br>capacità motorie;<br><br>10. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente<br>sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente<br>disposto;<br><br>DURATA E TEMPISTICHE: dal 11/03/2026 al 12/03/2026 dalle ore 07:00 alle ore 16:00]]></description>
-      <styleUrl>#line-E65100-4681</styleUrl>
-      <LineString>
-        <tessellate>1</tessellate>
-        <coordinates>
-          16.8258183,41.1371758,0
-          16.8257307,41.1369003,0
-        </coordinates>
-      </LineString>
-    </Placemark>
-    <Placemark>
       <name>ORDINANZA 2026/01197
 DIVIETO DI TRANSITO VEICOLARE DIVIETO DI SOSTA E DI FERMATA AMBO I LATI CON RIMOZIONE FORZATA
 VIA VINCENZO BELLEZZA DA VIA CIMAROSA A VIA BODINI ZONA SAN GIROLAMO
@@ -8588,6 +8280,600 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
           16.8905998,41.1100157,0
         </coordinates>
       </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01281
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA 
+LARGO CIAIA DA CORSO B. CROCE A VIALE UNITÀ D’ITALIA
+COSTRUZIONE IMPIANTO IDRICO E FOGNARIO AQP S.P.A.
+IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI”
+16/03/2026 - 31/03/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01281<br><br>https://drive.google.com/file/d/1NDjjNK1xhysa8g0cVS-qB8qzCiTm-0tk/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA E<br><br>DIVIETO DI SOSTA IN LARGO CIAIA<br>4 DA CORSO B. CROCE A VIALE UNITÀ D’ITALIA PER LAVORI DI<br>COSTRUZIONE IMPIANTO IDRICO E FOGNARIO DAL 16/03/2026 AL 31/03/2026<br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br><br>Durata e Tempistiche: 16/03/2026 - 31/03/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8731008,41.1151709,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01281
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA 
+LARGO CIAIA DA CORSO B. CROCE A VIALE UNITÀ D’ITALIA
+COSTRUZIONE IMPIANTO IDRICO E FOGNARIO AQP S.P.A.
+IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE “FRISULLO LUIGI”
+16/03/2026 - 31/03/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01281<br><br>https://drive.google.com/file/d/1NDjjNK1xhysa8g0cVS-qB8qzCiTm-0tk/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA E<br><br>DIVIETO DI SOSTA IN LARGO CIAIA<br>4 DA CORSO B. CROCE A VIALE UNITÀ D’ITALIA PER LAVORI DI<br>COSTRUZIONE IMPIANTO IDRICO E FOGNARIO DAL 16/03/2026 AL 31/03/2026<br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br><br>Durata e Tempistiche: 16/03/2026 - 31/03/2026]]></description>
+      <styleUrl>#line-E65100-4681</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8723847,41.1151027,0
+          16.8731076,41.1151441,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01314
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA 
+VIA OBERDAN TRA IL CIV. 15 E L’INTERSEZIONE CON VIA E. MOLA.
+VIA OBERDAN,TRA IL CIV. 42 E IL CIVICO 76 E VIA E. MOLA 60.
+RIFUNZIONALIZZAZIONE DELLE RETI FOGNANTI E DEMOLIZIONE MANUFATTI
+IMPRESA ESECUTRICE:EDIL PERFETTI S.R.L.,
+23/03/2026 - 23/04/202</name>
+      <description><![CDATA[Ordinanza: 2026/01314<br><br>https://drive.google.com/file/d/1U6hAxzn0LkyBviKkvqBwnysEAWNASyBF/view<br><br>INTERVENTO AQP P1469, “PROGETTO DI RIFUNZIONALIZZAZIONE DELLE<br>RETI FOGNANTI AFFERENTI AL CANALE PICONE NEL COMUNE DI BARI”.<br>REALIZZAZIONE DELL’IMPIANTO DI SOLLEVAMENTO PROSPICIENTE VIA<br>OBERDAN E RELATIVI COLLETTORI. – DEMOLIZIONE DEI MANUFATTI<br>PRESENTI ALL’INTERNO DELLE AREE, A PARTIRE DAL CIVICO 17 DI VIA<br>OBERDAN FINO AL PASSAGGIO A LIVELLO DELLA FSE, E DAL CIVICO 27<br>DELLA STESSA VIA FINO ALL'INTERSEZIONE CON VIA E. MOLA.<br>ISTITUZIONE TEMPORANEA PER LA REGOLAZIONE DELLA CIRCOLAZIONE<br>IN PRESENZA DI CANTIERE NECESSARIA PER LA REALIZZAZIONE DELLE<br>OPERE DAL 23/03/2026 E PER 30 (TRENTA) GIORNI NATURALI E<br>CONSECUTIVI<br>IMPRESA: CIRCET ITALIA SPA<br>ISTANTE: EDIL PERFETTI S.R.L., BITONTO (BA) ALLA VIA ERRICO<br>CORRIDONI N. 7<br><br>Nello specifico: <br>L’istituzione temporanea del divieto di sosta con rimozione forzata ambo i lati e restringimento<br>carreggiata con senso unico alternato su:<br>via Oberdan, tratto compreso tra il civico 15 e l’intersezione con Via E. Mola.<br>Via Oberdan tratto compreso tra il civico 42 e il civico 76 e via E. Mola 60<br><br>Durata e Tempistiche: 23/03/2026 - 23/04/2026]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8780126,41.117542,0
+          16.8796809,41.1176389,0
+          16.8805017,41.1176874,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01314
+RESTRINGIMENTO CARREGGIATA E DIVIETO DI SOSTA 
+VIA OBERDAN TRA IL CIV. 15 E L’INTERSEZIONE CON VIA E. MOLA.
+VIA OBERDAN,TRA IL CIV. 42 E IL CIVICO 76 E VIA E. MOLA 60.
+RIFUNZIONALIZZAZIONE DELLE RETI FOGNANTI E DEMOLIZIONE MANUFATTI
+IMPRESA ESECUTRICE:EDIL PERFETTI S.R.L.,
+23/03/2026 - 23/04/2026
+</name>
+      <description><![CDATA[Ordinanza: 2026/01314<br><br>https://drive.google.com/file/d/1U6hAxzn0LkyBviKkvqBwnysEAWNASyBF/view<br><br>INTERVENTO AQP P1469, “PROGETTO DI RIFUNZIONALIZZAZIONE DELLE<br>RETI FOGNANTI AFFERENTI AL CANALE PICONE NEL COMUNE DI BARI”.<br>REALIZZAZIONE DELL’IMPIANTO DI SOLLEVAMENTO PROSPICIENTE VIA<br>OBERDAN E RELATIVI COLLETTORI. – DEMOLIZIONE DEI MANUFATTI<br>PRESENTI ALL’INTERNO DELLE AREE, A PARTIRE DAL CIVICO 17 DI VIA<br>OBERDAN FINO AL PASSAGGIO A LIVELLO DELLA FSE, E DAL CIVICO 27<br>DELLA STESSA VIA FINO ALL'INTERSEZIONE CON VIA E. MOLA.<br>ISTITUZIONE TEMPORANEA PER LA REGOLAZIONE DELLA CIRCOLAZIONE<br>IN PRESENZA DI CANTIERE NECESSARIA PER LA REALIZZAZIONE DELLE<br>OPERE DAL 23/03/2026 E PER 30 (TRENTA) GIORNI NATURALI E<br>CONSECUTIVI<br>IMPRESA: CIRCET ITALIA SPA<br>ISTANTE: EDIL PERFETTI S.R.L., BITONTO (BA) ALLA VIA ERRICO<br>CORRIDONI N. 7<br><br>Nello specifico:<br>L’istituzione temporanea del divieto di sosta con rimozione forzata ambo i lati e restringimento<br>carreggiata con senso unico alternato su:<br>via Oberdan, tratto compreso tra il civico 15 e l’intersezione con Via E. Mola.<br>Via Oberdan tratto compreso tra il civico 42 e il civico 76 e via E. Mola 60<br><br>Durata e Tempistiche: 23/03/2026 - 23/04/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8780762,41.1177023,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01313
+RESTRINGIMENTO CARREGGIATA 
+VIA OSPEDALE DI VENERE ANGOLO VIA MESSINA
+POSIZIONAMENTO PONTEGGIO
+RICHIEDENTE: BARLETTA LUIGI 
+16/03/2026 - 30/05/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01313<br><br>https://drive.google.com/file/d/1DGGlz2K20tXE19ga3XfxQQJDPnzgpaQj/view<br><br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DELLA CARREGGIATA<br>VIA OSPEDALE DI VENERE CIV. 110 ANGOLO VIA MESSINA IN CARBONARA<br>(BA) PER IL POSIZIONAMENTO DI UN PONTEGGIO METALLICO PER<br>SVOLGERE ATTIVITÀ DI COMPLETAMENTO LAVORI DAL 16/03/2026 AL<br>30/05/2026.<br>ISTANTE : BARLETTA LUIGI (PROPRIETARIO DELL’IMMOBILE)<br><br>Durata e tempistiche: 16/03/2026 - 30/05/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8670248,41.0757956,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01275
+DIVIETO DI TRANSITO E DI FERMATA ALL’INTERNO
+DELL’AREA DI SOSTA DENOMINATA “VITTORIO VENETO – LATO TERRA”
+OGNI LUNEDÌ DALLE ORE 00:00 ALLE ORE 17:00
+DAL 16.03.2026</name>
+      <description><![CDATA[Ordinanza 2026/01275<br>https://drive.google.com/file/d/1FcmJQmYpeoqccvpQwwVdhQEK2iUR8BGM/view?usp=sharing<br><br>Ogni lunedì dalle ore 00,00 alle ore 17,00 all’interno dell’area di sosta denominata “Vittorio Veneto lato terra” situata tra Corso Vittorio Veneto, via Brigata Regina e via Napoli, sono istituiti i seguenti provvedimenti di regolamentazione:<br>1.1. Divieto di transito per tutti i veicoli<br>1.2. Divieto di fermata per tutti i veicoli<br>2. Dagli obblighi e divieti di cui al punto 1. sono esclusi:<br>2.1.1. i mezzi degli operatori mercatali;<br>2.1.2. i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza.<br>Durata e tempistiche: dal 16.03.2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8526358,41.1284153,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01278
+DIVIETO DI SOSTA AMBO I LATI E RESTRINGIMENTO CARREGGIATA
+VIA FRANCESCO CRISPI TRA VIA ETTORE FIERAMOSCA E VIA
+INDIPENDENZA
+VIA C. SAVERIO TRA VIA FRANCESCO CRISPI E VIA G.BOVIO.
+VIA G.BOVIO TRA VIA C.SAVERIO E VIA ETTORE FIERAMOSCA.
+VIA ETTORE FIERAMOSCA TRA VIA G.BOVIO E VIA FRANCESCO CRISPI.
+VIA ALESSANDRO MARIA CALEFATI TRA ETTORE FIERAMOSCA E VIA
+SAGARRIGA VISCONTI 
+LAVORI DI INTERRAMENTO CAVI E- DISTRIBUZIONE.
+IMPRESA ESECUTRICE:OMNIA WORK SRL - POTENZA
+16/03/2026 - 30/06/2026
+</name>
+      <description><![CDATA[Ordinanza: 2026/01278<br><br>https://drive.google.com/file/d/1nGmeYmdAY_m5hDbJIqkHFmDv6K2d3tU5/view<br><br>ORDINANZA PER DIVIETO DI SOSTA CON RIMOZIONE FORZATA SU<br>ENTRAMBI I LATI , RESTRINGIMENTO DI CARREGGIATA IN VIA FRANCESCO<br>CRISPI , VIA C.SAVERIO , VIA G. BOVIO , VIA E@ORE FIERAMOSCA , VIA<br>ALESSANDRO MARIA CALEFA5I, PER LAVORI DI<br>INTERRAMENTO CAVI E- DISTRIBUZIONE.<br>SOCIETÀ: OMNIA WORK SRL - POTENZA<br><br>Durata e tempistiche: 16/03/2026 - 30/06/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8555464,41.1232669,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01278
+DIVIETO DI SOSTA AMBO I LATI E RESTRINGIMENTO CARREGGIATA 
+VIA G.BOVIO TRA VIA C.SAVERIO E VIA ETTORE FIERAMOSCA
+LAVORI DI INTERRAMENTO CAVI E- DISTRIBUZIONE.
+IMPRESA ESECUTRICE:OMNIA WORK SRL - POTENZA
+16/03/2026 - 30/06/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01278<br><br>https://drive.google.com/file/d/1nGmeYmdAY_m5hDbJIqkHFmDv6K2d3tU5/view<br><br>ORDINANZA PER DIVIETO DI SOSTA CON RIMOZIONE FORZATA SU<br>ENTRAMBI I LATI , RESTRINGIMENTO DI CARREGGIATA IN VIA FRANCESCO<br>CRISPI , VIA C.SAVERIO , VIA G. BOVIO , VIA E@ORE FIERAMOSCA , VIA<br>ALESSANDRO MARIA CALEFA5I, PER LAVORI DI<br>INTERRAMENTO CAVI E- DISTRIBUZIONE.<br>SOCIETÀ: OMNIA WORK SRL - POTENZA<br><br>Durata e tempistiche: 16/03/2026 - 30/06/2026]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8559348,41.1225843,0
+          16.857201,41.122649,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01278
+DIVIETO DI SOSTA AMBO I LATI E RESTRINGIMENTO CARREGGIATA 
+VIA FRANCESCO CRISPI TRA VIA ETTORE FIERAMOSCA E VIA
+INDIPENDENZA
+LAVORI DI INTERRAMENTO CAVI E- DISTRIBUZIONE.
+IMPRESA ESECUTRICE:OMNIA WORK SRL - POTENZA
+16/03/2026 - 30/06/2026
+</name>
+      <description><![CDATA[Ordinanza: 2026/01278<br><br>https://drive.google.com/file/d/1nGmeYmdAY_m5hDbJIqkHFmDv6K2d3tU5/view<br><br>ORDINANZA PER DIVIETO DI SOSTA CON RIMOZIONE FORZATA SU<br>ENTRAMBI I LATI , RESTRINGIMENTO DI CARREGGIATA IN VIA FRANCESCO<br>CRISPI , VIA C.SAVERIO , VIA G. BOVIO , VIA E@ORE FIERAMOSCA , VIA<br>ALESSANDRO MARIA CALEFA5I, PER LAVORI DI<br>INTERRAMENTO CAVI E- DISTRIBUZIONE.<br>SOCIETÀ: OMNIA WORK SRL - POTENZA<br><br>Durata e tempistiche:  16/03/2026 - 30/06/2026]]></description>
+      <styleUrl>#line-E65100-4100</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8570884,41.1239744,0
+          16.8546643,41.1230344,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01278
+DIVIETO DI SOSTA AMBO I LATI E RESTRINGIMENTO CARREGGIATA 
+VIA C. SAVERIO TRA VIA FRANCESCO CRISPI E VIA G.BOVIO
+LAVORI DI INTERRAMENTO CAVI E- DISTRIBUZIONE.
+IMPRESA ESECUTRICE:OMNIA WORK SRL - POTENZA
+16/03/2026 - 30/06/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01278<br><br>https://drive.google.com/file/d/1nGmeYmdAY_m5hDbJIqkHFmDv6K2d3tU5/view<br><br>ORDINANZA PER DIVIETO DI SOSTA CON RIMOZIONE FORZATA SU<br>ENTRAMBI I LATI , RESTRINGIMENTO DI CARREGGIATA IN VIA FRANCESCO<br>CRISPI , VIA C.SAVERIO , VIA G. BOVIO , VIA E@ORE FIERAMOSCA , VIA<br>ALESSANDRO MARIA CALEFA5I, PER LAVORI DI<br>INTERRAMENTO CAVI E- DISTRIBUZIONE.<br>SOCIETÀ: OMNIA WORK SRL - POTENZA<br><br>Durata e tempistiche: 16/03/2026 - 30/06/2026]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8553943,41.1232799,0
+          16.8559402,41.1225884,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01278
+DIVIETO DI SOSTA AMBO I LATI E RESTRINGIMENTO CARREGGIATA 
+VIA ETTORE FIERAMOSCA TRA VIA G.BOVIO E VIA FRANCESCO CRISPI
+LAVORI DI INTERRAMENTO CAVI E- DISTRIBUZIONE.
+IMPRESA ESECUTRICE:OMNIA WORK SRL - POTENZA
+16/03/2026 - 30/06/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01278<br><br>https://drive.google.com/file/d/1nGmeYmdAY_m5hDbJIqkHFmDv6K2d3tU5/view<br><br>ORDINANZA PER DIVIETO DI SOSTA CON RIMOZIONE FORZATA SU<br>ENTRAMBI I LATI , RESTRINGIMENTO DI CARREGGIATA IN VIA FRANCESCO<br>CRISPI , VIA C.SAVERIO , VIA G. BOVIO , VIA E@ORE FIERAMOSCA , VIA<br>ALESSANDRO MARIA CALEFA5I, PER LAVORI DI<br>INTERRAMENTO CAVI E- DISTRIBUZIONE.<br>SOCIETÀ: OMNIA WORK SRL - POTENZA<br><br>Durata e tempistiche: 16/03/2026 - 30/06/2026]]></description>
+      <styleUrl>#line-E65100-4488</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8570884,41.1239744,0
+          16.8572421,41.1226223,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01278
+DIVIETO DI SOSTA AMBO I LATI E RESTRINGIMENTO CARREGGIATA 
+VIA ALESSANDRO MARIA CALEFATI TRA ETTORE FIERAMOSCA E VIA SAGARRIGA VISCONTI
+ LAVORI DI INTERRAMENTO CAVI E- DISTRIBUZIONE.
+IMPRESA ESECUTRICE:OMNIA WORK SRL - POTENZA
+16/03/2026 - 30/06/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01278<br><br>https://drive.google.com/file/d/1nGmeYmdAY_m5hDbJIqkHFmDv6K2d3tU5/view<br><br>ORDINANZA PER DIVIETO DI SOSTA CON RIMOZIONE FORZATA SU<br>ENTRAMBI I LATI , RESTRINGIMENTO DI CARREGGIATA IN VIA FRANCESCO<br>CRISPI , VIA C.SAVERIO , VIA G. BOVIO , VIA E@ORE FIERAMOSCA , VIA<br>ALESSANDRO MARIA CALEFA5I, PER LAVORI DI<br>INTERRAMENTO CAVI E- DISTRIBUZIONE.<br>SOCIETÀ: OMNIA WORK SRL - POTENZA<br><br>Durata e tempistiche: 16/03/2026 - 30/06/2026]]></description>
+      <styleUrl>#line-E65100-3325</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8631063,41.123664,0
+          16.8571752,41.1233668,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01277
+DIVIETO DI SOSTA AMBO I LATI E RESTRINGIMENTO CARREGGIATA
+STRADA PIZZILLO CALÒ, VIA MACCHIE E VIA NAZIONALE
+CONTROLLO DELLE PRESSIONI, MONITORAGGIO DELLE GRANDEZZE
+IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
+16/03/2026 - 27/03/2026</name>
+      <description><![CDATA[Ordinanza 2026/01277<br>https://drive.google.com/file/d/1nd0U9wRgb_ywMBDPDdiNUyhqkuMckjyW/view?usp=sharing<br><br>P1557 lotto 1. Ordinanza per istituire temporaneamente un divieto di sosta ambo i<br>lati e restringimento carreggiata su strada Pizzillo Calò, via Macchie e via Nazionale<br>per il controllo delle pressioni ed il monitoraggio delle grandezze idrauliche nelle reti<br>idriche e sostituzione dei tronchi vetusti ed ammalorati<br>Società: ACCIONA AGUA S.A.<br>Durata e tempistiche: 16/03/2026 - 27/03/2026.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.7795709,41.1501861,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01277
+DIVIETO DI SOSTA AMBO I LATI E RESTRINGIMENTO CARREGGIATA
+STRADA PIZZILLO CALÒ, VIA MACCHIE E VIA NAZIONALE
+CONTROLLO DELLE PRESSIONI, MONITORAGGIO DELLE GRANDEZZE
+IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
+16/03/2026 - 27/03/2026</name>
+      <description><![CDATA[Ordinanza 2026/01277<br>https://drive.google.com/file/d/1nd0U9wRgb_ywMBDPDdiNUyhqkuMckjyW/view?usp=sharing<br><br>P1557 lotto 1. Ordinanza per istituire temporaneamente un divieto di sosta ambo i<br>lati e restringimento carreggiata su strada Pizzillo Calò, via Macchie e via Nazionale<br>per il controllo delle pressioni ed il monitoraggio delle grandezze idrauliche nelle reti<br>idriche e sostituzione dei tronchi vetusti ed ammalorati<br>Società: ACCIONA AGUA S.A.<br>Durata e tempistiche: 16/03/2026 - 27/03/2026.]]></description>
+      <styleUrl>#line-E65100-5844</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.7847199,41.1543049,0
+          16.7834915,41.1527013,0
+          16.782845,41.1518672,0
+          16.7825219,41.1514502,0
+          16.7821772,41.1511301,0
+          16.7814798,41.1503061,0
+          16.7822791,41.1495588,0
+          16.7783014,41.1512856,0
+          16.777415,41.1527326,0
+          16.7783014,41.1512856,0
+          16.7822791,41.1495588,0
+          16.7865345,41.1479662,0
+          16.7822791,41.1495588,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01277
+DIVIETO DI SOSTA AMBO I LATI E RESTRINGIMENTO CARREGGIATA
+STRADA PIZZILLO CALÒ, VIA MACCHIE E VIA NAZIONALE
+CONTROLLO DELLE PRESSIONI, MONITORAGGIO DELLE GRANDEZZE
+IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI
+IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
+16/03/2026 - 27/03/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/01277<br>https://drive.google.com/file/d/1nd0U9wRgb_ywMBDPDdiNUyhqkuMckjyW/view?usp=sharing<br><br>P1557 lotto 1. Ordinanza per istituire temporaneamente un divieto di sosta ambo i<br>lati e restringimento carreggiata su strada Pizzillo Calò, via Macchie e via Nazionale<br>per il controllo delle pressioni ed il monitoraggio delle grandezze idrauliche nelle reti<br>idriche e sostituzione dei tronchi vetusti ed ammalorati<br>Società: ACCIONA AGUA S.A.<br>Durata e tempistiche: 16/03/2026 - 27/03/2026]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.7784072,41.1469109,0
+          16.7780478,41.1470927,0
+          16.7774524,41.1470482,0
+          16.776637,41.1469594,0
+          16.7762078,41.1469594,0
+          16.776122,41.1467655,0
+          16.775886,41.1461676,0
+          16.775135,41.1460868,0
+          16.7739172,41.1457899,0
+          16.7734232,41.1457225,0
+          16.7732299,41.145713,0
+          16.7729507,41.1458166,0
+          16.7710196,41.1480343,0
+          16.7694131,41.1489389,0
+          16.7677151,41.149751,0
+          16.766562,41.15009,0
+          16.7677151,41.149751,0
+          16.7694131,41.1489389,0
+          16.770345,41.1484361,0
+          16.7710196,41.1480343,0
+          16.7714916,41.1474647,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01319
+DEROGA TEMPORANEA AL DIVIETO DI SOSTA E RESTRINGIMENTO CARREGGIATA
+VIA PRINCIPESSA JOLANDA 15/C
+CARICO E SCARICO MATERIALE EDILE
+IMPRESA ESECUTRICE: MARRONE COSTRUZIONI SRL
+19/03/2026 - 25/03/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01319<br><br>https://drive.google.com/file/d/1b7LFJ-MacmaezVnHCqIikc-fQbjhhDzi/view<br><br>DEROGA TEMPORANEA AL DIVIETO DI SOSTA SU VIA PRINCIPESSA<br>JOLANDA CON RESTRINGIMENTO CARREGGIATA PER AREA DI CARICO E<br>SCARICO MATERIALE EDILE DAL 19/03/2026 AL 25/03/2026 E DIVIETO DI<br>SOSTA SU VIA CARSO NEL TRATTO COMPRESO TRA VIA PRINCIPESSA<br>GIOVANNA E VIA PRINCIPESSA JOLANDA AMBO I LATI PER CONSENTIRE IL<br>POSIZIONAMENTO PONTEGGIO A TELAI PREFABBRICATI ANCHE SULLA<br>SEDE STRADALE DAL 19/03/2026 AL 19/05/2026.<br>ISTANTE: VINCENZO MARRONE (LEGALE RAPPRESENTANTE DELLA<br>SOCIETÀ MARRONE COSTRUZIONI SRL)<br>IMPRESA: “MARRONE COSTRUZIONI SRL”<br><br>1) Durata e Tempistiche: 19/03/2026 -  25/03/2026<br><br>2) Durata e Tempistiche: 19/03/2026 - 19/05/2026.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8740893,41.1154389,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01318
+DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
+TRANSITO VEICOLARE CON SENSO UNICO ALTERNATO 
+RESTRINGIMENTO CARREGGIATA
+VIA PANTALEO CARABELLESE DAL CIV. 18 VIA TEN. F. SCO DE LIGUORI
+CONTROLLO RETI IDRICHE
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+18/03/2026 - 15/05/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01318<br><br>https://drive.google.com/file/d/1_7-cI99_s1Qw4oBtHdkiXcAQBVsTjCU1/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE<br>CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO<br>CARREGGIATA IN VIA PANTALEO CARABELLESE (DA CIV. 18 IN PROSSIMITÀ<br>DELL’INGRESSO EUROSPIN A INTERSEZIONE CON VIA TEN. F. SCO DE<br>LIGUORI) E VIA TEN. F. SCO DE LIGUORI (DA INTERSEZIONE CON VIA<br>PANTALEO CARABELLESE SINO AL CIV. 25 DI VIA TEN. F. SCO DE LIGUORI<br>CIRCA) INCROCI COMPRESI, PER INTERVENTI MIRATI A CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E<br>SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DAL GIORNO<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 18/03/2026 - 15/05/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.9069895,41.1072147,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01316
+DIVIETO DI SOSTA E FERMATA, DIVIETO DI TRANSITO
+VIA NICOLAI 
+MANUTENZIONE STRAORDINARIA DELLE OPERE A RETE IDRICHE E FOGNARIE 
+IMPRESA ESECUTRICE: INGALLINA S.R.L.
+23/03/2026 - 07/04/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/01316<br><br>https://drive.google.com/file/d/1HziIjFn8Jqn59bOIEmKcnfTlYmoe_VwY/view<br><br>ISTITUZIONE TEMPORANEAMENTE DI DIVIETO DI SOSTA E DI FERMATA AMBO I LATI E CHIUSURA AL TRANSITO VEICOLARE DI VIA NICOLAI PER LAVORI DI MANUTENZIONE STRAORDINARIA DELLE OPERE A RETE IDRICHE E FOGNARIE DELLA STO BA-BAT – AET BARI – SOSTITUZIONE DELLA CONDOTTA IDRICA IN VIA NICOLAI DAL 23 MARZO 2026 E PER 15 GIORNI NATURALI E CONSECUTIVI ISTANTE: AQP SOCIETÀ: INGALLINA S.R.L <br><br>1) Via Nicolai da via Monsignor Francesco Nitti a via via Generale De Bernardis;<br>3) Via Nicolai da via Indipendenza a via via Generale De Bernardis; <br>4) Via Nicolai da via Libert‡ a via Indipendenza; <br>5) Via Nicolai da via E. Fieramosca a via Libert‡; <br>6) Via Nicolai da via Ravanas a via E. Fieramosca.<br><br>Durata e tempistiche: 23/03/2026 - 07/04/2026]]></description>
+      <styleUrl>#line-E65100-3713</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8530376,41.1203749,0
+          16.8540676,41.1204295,0
+          16.8553309,41.1205063,0
+          16.8574096,41.1206154,0
+          16.8588017,41.1206942,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01318
+DIVIETO DI SOSTA E DI FERMATA AMBO I LATI
+TRANSITO VEICOLARE CON SENSO UNICO ALTERNATO 
+RESTRINGIMENTO CARREGGIATA
+VIA PANTALEO CARABELLESE DAL CIV. 18 VIA TEN. F. SCO DE LIGUORI
+CONTROLLO RETI IDRICHE
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+18/03/2026 - 15/05/2026
+</name>
+      <description><![CDATA[Ordinanza: 2026/01318<br><br>https://drive.google.com/file/d/1_7-cI99_s1Qw4oBtHdkiXcAQBVsTjCU1/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN<br>DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE<br>CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO<br>CARREGGIATA IN VIA PANTALEO CARABELLESE (DA CIV. 18 IN PROSSIMITÀ<br>DELL’INGRESSO EUROSPIN A INTERSEZIONE CON VIA TEN. F. SCO DE<br>LIGUORI) E VIA TEN. F. SCO DE LIGUORI (DA INTERSEZIONE CON VIA<br>PANTALEO CARABELLESE SINO AL CIV. 25 DI VIA TEN. F. SCO DE LIGUORI<br>CIRCA) INCROCI COMPRESI, PER INTERVENTI MIRATI A CONSEGUIRE LA<br>DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E<br>SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DAL GIORNO<br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e tempistiche: 18/03/2026 -  15/05/2026]]></description>
+      <styleUrl>#line-E65100-4488</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.9068876,41.107241,0
+          16.9078126,41.1086049,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01317
+DIVIETO DI SOSTA E FERMATA, SENSO UNICO ALTERNATO, RESTRINGIMENTO CARREGGIATA
+VIA GIACOMO LEOPARDI DA INTERSEZIONE CON VIA MONTE SEI BUSI A INTERSEZIONE CON VIA V.GARIBALDI 
+VIA V. GARIBALDI DA INTERSEZIONE CON VIA G. LEOPARDI A FINE STRADA- INCROCI COMPRESI
+DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE 
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+23/03/2026 - 04/04/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/01317<br><br>https://drive.google.com/file/d/14eET5qnmPpWdWAAsN2Bq9QGcTiJ-Unvz/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO CARREGGIATA SU VIA GIACOMO LEOPARDI (DA INTERSEZIONE CON VIA MONTE SEI BUSI A INTERSEZIONE CON VIA V.GARIBALDI E VIA V. GARIBALDI DA INTERSEZIONE CON VIA G. LEOPARDI A FINE STRADA) - INCROCI COMPRESI, PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DAL GIORNO 23/03/2026 SINO AL 03/04/2026 SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 23/03/2026 - 07/04/2026]]></description>
+      <styleUrl>#line-E65100-5263</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.9983196,41.0870533,0
+          16.9988225,41.0868976,0
+          16.9986173,41.086464,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01316
+DIVIETO DI SOSTA E FERMATA, DIVIETO DI TRANSITO
+VIA NICOLAI 
+MANUTENZIONE STRAORDINARIA DELLE OPERE A RETE IDRICHE E FOGNARIE 
+IMPRESA ESECUTRICE: INGALLINA S.R.L.
+23/03/2026 - 07/04/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/01316<br><br>https://drive.google.com/file/d/1HziIjFn8Jqn59bOIEmKcnfTlYmoe_VwY/view<br><br>ISTITUZIONE TEMPORANEAMENTE DI DIVIETO DI SOSTA E DI FERMATA AMBO I LATI E CHIUSURA AL TRANSITO VEICOLARE DI VIA NICOLAI PER LAVORI DI MANUTENZIONE STRAORDINARIA DELLE OPERE A RETE IDRICHE E FOGNARIE DELLA STO BA-BAT – AET BARI – SOSTITUZIONE DELLA CONDOTTA IDRICA IN VIA NICOLAI DAL 23 MARZO 2026 E PER 15 GIORNI NATURALI E CONSECUTIVI ISTANTE: AQP SOCIETÀ: INGALLINA S.R.L <br><br>1) Via Nicolai da via Monsignor Francesco Nitti a via via Generale De Bernardis;<br>3) Via Nicolai da via Indipendenza a via via Generale De Bernardis; <br>4) Via Nicolai da via Libert‡ a via Indipendenza; <br>5) Via Nicolai da via E. Fieramosca a via Libert‡; <br>6) Via Nicolai da via Ravanas a via E. Fieramosca.<br><br>Durata e tempistiche: 23/03/2026 - 07/04/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8560551,41.1205164,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01317
+DIVIETO DI SOSTA E FERMATA, SENSO UNICO ALTERNATO, RESTRINGIMENTO CARREGGIATA
+VIA GIACOMO LEOPARDI DA INTERSEZIONE CON VIA MONTE SEI BUSI A INTERSEZIONE CON VIA V.GARIBALDI 
+VIA V. GARIBALDI DA INTERSEZIONE CON VIA G. LEOPARDI A FINE STRADA- INCROCI COMPRESI
+DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE 
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A. 
+23/03/2026 - 04/04/2026 
+</name>
+      <description><![CDATA[ORDINANZA 2026/01317<br><br>https://drive.google.com/file/d/14eET5qnmPpWdWAAsN2Bq9QGcTiJ-Unvz/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON TRANSITO VEICOLARE CON SENSO UNICO ALTERNATO NONCHÈ RESTRINGIMENTO CARREGGIATA SU VIA GIACOMO LEOPARDI (DA INTERSEZIONE CON VIA MONTE SEI BUSI A INTERSEZIONE CON VIA V.GARIBALDI E VIA V. GARIBALDI DA INTERSEZIONE CON VIA G. LEOPARDI A FINE STRADA) - INCROCI COMPRESI, PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DAL GIORNO 23/03/2026 SINO AL 03/04/2026 SOCIETÀ: ACCIONA AGUA S.A. <br><br>Durata e tempistiche: 23/03/2026 - 07/04/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.9987984,41.086934,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/00013
+DIVIETO DI SOSTA AMBO I LATI 
+STRADELLA ACQUEDOTTO
+CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE
+IMPRESA ESECUTRICE:CCIONA AGUA S.A.
+08/01/2026 - 09/03/2026
+</name>
+      <description><![CDATA[2026/00013 <br><br>https://drive.google.com/file/d/1BHCkeBmq1WIOEc087GQzazLeqzIcwtc7/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON CHIUSURA STRADA SU STRADELLA ACQUEDOTTO, PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO SINO AL 09/03/2026 E COMUNQUE FINO A FINE LAVORI. SOCIETÀ: ACCIONA AGUA S.A. <br><br><br>1. L’istituzione temporanea del divieto di sosta e di fermata ambo i lati, con chiusura strada su Stradella Acquedotto, per interventi mirati a conseguire la distrettualizzazione, il controllo delle pressioni ed il monitoraggio delle grandezze idrauliche nelle reti idriche e sostituzione dei tronchi vetusti ed ammalorati; <br>2. Per tutte le strade interessate, la circolazione stradale dovrà essere altresì regolamentata con movieri dotati di idoneo equipaggiamento al fine di permettere il transito veicolare e pedonale durante l’esecuzione dei lavori;<br>3. Sarà cura dell’impresa esecutrice dei lavori apporre idonea segnaletica di cantiere; 4. Sarà cura, altresì, dell’impresa esecutrice dei lavori, al termine degli stessi, il ripristino dello stato dei luoghi; <br>5. Dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori in particolare nei tratti liberi e transitabili delle strade in narrativa; <br>6. Il cantiere sarà dinamico, ben delimitato con apposite recinzioni a protezione delle aree di lavoro, il tutto eseguito a perfetta regola d’arte; <br>7. I lavori saranno svolti nei giorni dal lunedì al venerdì, dalle ore 00.00 alle ore 24.00 e salvo urgenze e necessità anche nei giorni di sabato e domenica; <br>8. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; <br><br>Durata e tempistiche: 08/01/2026 - 09/03/2026 dal lunedì al venerdì, dalle ore 00.00 alle ore 24.00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8662397,41.0843585,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/00013
+DIVIETO DI SOSTA AMBO I LATI 
+STRADELLA ACQUEDOTTO
+CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE
+IMPRESA ESECUTRICE:CCIONA AGUA S.A.
+08/01/2026 - 09/03/2026</name>
+      <description><![CDATA[2026/00013 <br><br>https://drive.google.com/file/d/1BHCkeBmq1WIOEc087GQzazLeqzIcwtc7/view<br><br>P1557 LOTTO 1. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN DIVIETO DI SOSTA, DI FERMATA AMBO I LATI CON CHIUSURA STRADA SU STRADELLA ACQUEDOTTO, PER INTERVENTI MIRATI A CONSEGUIRE LA DISTRETTUALIZZAZIONE, IL CONTROLLO DELLE PRESSIONI ED IL MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI DALL’ESECUTIVITÀ DELL’ATTO SINO AL 09/03/2026 E COMUNQUE FINO A FINE LAVORI. SOCIETÀ: ACCIONA AGUA S.A. <br><br><br>1. L’istituzione temporanea del divieto di sosta e di fermata ambo i lati, con chiusura strada su Stradella Acquedotto, per interventi mirati a conseguire la distrettualizzazione, il controllo delle pressioni ed il monitoraggio delle grandezze idrauliche nelle reti idriche e sostituzione dei tronchi vetusti ed ammalorati; <br>2. Per tutte le strade interessate, la circolazione stradale dovrà essere altresì regolamentata con movieri dotati di idoneo equipaggiamento al fine di permettere il transito veicolare e pedonale durante l’esecuzione dei lavori;<br>3. Sarà cura dell’impresa esecutrice dei lavori apporre idonea segnaletica di cantiere; 4. Sarà cura, altresì, dell’impresa esecutrice dei lavori, al termine degli stessi, il ripristino dello stato dei luoghi; <br>5. Dovrà essere garantito l’accesso/uscita in zona ai residenti e mezzi di soccorso e/o polizia, compatibilmente con l’esecuzione dei lavori in particolare nei tratti liberi e transitabili delle strade in narrativa; <br>6. Il cantiere sarà dinamico, ben delimitato con apposite recinzioni a protezione delle aree di lavoro, il tutto eseguito a perfetta regola d’arte; <br>7. I lavori saranno svolti nei giorni dal lunedì al venerdì, dalle ore 00.00 alle ore 24.00 e salvo urgenze e necessità anche nei giorni di sabato e domenica; <br>8. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto; <br><br>Durata e tempistiche: 08/01/2026 - 09/03/2026 dal lunedì al venerdì, dalle ore 00.00 alle ore 24.00]]></description>
+      <styleUrl>#line-E65100-4100</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8650976,41.0842995,0
+          16.8688849,41.0841095,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01273
+DIVIETO DI FERMATA
+IN PIAZZA A. GRAMSCI, VIA G. DI VAGNO, VIA F. FILZI, CAVALCAVIA G. GARIBALDI, PIAZZA POERIO, G.MATTEOTTI AMBO I LATI E VIA DALMAZIA, AMBO I LATI
+CAMPIONATO ITALIANO FORMULA CHALLENGE - 1° TROFEO CITTA’ DI BARI
+RICHIEDENTE: Vigili Urbani
+14/03/2026 - 15/03/2026
+
+</name>
+      <description><![CDATA[ORDINANZA N. 2026/01273<br>https://drive.google.com/file/d/1OsNUcNlI_U3ua8O42Pr21anqs7J63hTg/view<br><br>CAMPIONATO ITALIANO FORMULA CHALLENGE - 1° TROFEO CITTA’ DI BARI<br>- BARI, 14 - 15 MARZO 2026.<br>DIVIETO DI FERMATA Il giorno 15 marzo 2026:<br>1. dalle ore 00.01 alle ore 20.00 e, comunque, fino al termine delle esigenze, è istituito il<br>“DIVIETO DI FERMATA” sulle seguenti strade e piazze:<br>a. piazza A. Gramsci, compresa l’area di sosta della carreggiata prospiciente il mare,<br>lato giardino Veterani dello Sport, tratto compreso tra il prolungamento della via Di<br>Vagno ed il distributore di carburante all’altezza di via F. Filzi;;<br>b. via G. Di Vagno, compresa l’area sottostante il cavalcavia G. Garibaldi;<br>c. piazza Poerio, tratto antistante il pilone e compreso tra le carreggiate di via Di Vagno<br>(area sottostante il cavalcavia Garibaldi);<br>d. via G. Matteotti, ambo i lati, tratto compreso tra via Dalmazia e il lung.re N. Sauro;<br>e. via Dalmazia, ambo i lati, tratto compreso tra via Matteotti e via Fratelli Rosselli;<br>2. dalle ore 07.00 alle ore 18.00 (dalle ore 08.00 anche pedonale) e, comunque, fino al<br>termine delle esigenze, è istituito il “DIVIETO DI CIRCOLAZIONE” sulle seguenti strade e<br>piazze:<br>a. piazza A. Gramsci;<br>b. via G. Di Vagno, compresa l’area sottostante il cavalcavia G. Garibaldi;<br>c. via G. Matteotti, tratto compreso tra via Dalmazia e il lung.re N. Sauro;<br>d. via Dalmazia, tratto compreso tra via Matteotti e via Fratelli Rosselli;<br>e. lung.re N. Sauro, tratto compreso tra via Arc. Vaccaro e piazza A. Gramsci;<br>f. cavalcavia G. Garibaldi.<br><br>Per i veicoli in sosta sulla via Dalmazia (tratto compreso tra via Corfù e via Matteotti) e sulla via<br>Egnazia ovvero presenti nelle pertinenze condominiali di tali tratti, È CONSENTITO il deflusso da<br>tali aree anche in senso contrario a quello di marcia ordinario, purchè effettuato a passo d’uomo<br>o comunque ad una velocità non superiore a 10 km/h, prestando massima attenzione a veicoli<br>e/o pedoni presenti in zona.<br>Dal presente provvedimento restrittivo sono esclusi: i mezzi utilizzati dagli organizzatori, i mezzi<br>adibiti al soccorso e quelli della Forza Pubblica.<br>Inoltre, entro le ore 14.00 di sabato 14 marzo, è fatto obbligo agli organizzatori di comunicare le<br>targhe dei veicoli accreditati alla manifestazione ai seguenti indirizzi mail:<br>rip.poliziamunicipale@comune.bari.it e salaoperativa@comune.bari.it<br><br>TERMINE E DURATA : 14 E 15 MARZO 2026 DALLE 00:01 - 20:00<br>460 m]]></description>
+      <styleUrl>#icon-1898-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8899022,41.1185703,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01273
+DIVIETO DI FERMATA
+IN PIAZZA A. GRAMSCI, VIA G. DI VAGNO, VIA F. FILZI, CAVALCAVIA G. GARIBALDI, PIAZZA POERIO, G.MATTEOTTI AMBO I LATI E VIA DALMAZIA, AMBO I LATI
+CAMPIONATO ITALIANO FORMULA CHALLENGE - 1° TROFEO CITTA’ DI BARI
+RICHIEDENTE: Vigili Urbani
+14/03/2026 - 15/03/2026
+</name>
+      <description><![CDATA[ORDINANZA N. 2026/01273<br>https://drive.google.com/file/d/1OsNUcNlI_U3ua8O42Pr21anqs7J63hTg/view<br><br>CAMPIONATO ITALIANO FORMULA CHALLENGE - 1° TROFEO CITTA’ DI BARI<br>- BARI, 14 - 15 MARZO 2026.<br>DIVIETO DI FERMATA Il giorno 15 marzo 2026:<br>1. dalle ore 00.01 alle ore 20.00 e, comunque, fino al termine delle esigenze, è istituito il<br>“DIVIETO DI FERMATA” sulle seguenti strade e piazze:<br>a. piazza A. Gramsci, compresa l’area di sosta della carreggiata prospiciente il mare,<br>lato giardino Veterani dello Sport, tratto compreso tra il prolungamento della via Di<br>Vagno ed il distributore di carburante all’altezza di via F. Filzi;;<br>b. via G. Di Vagno, compresa l’area sottostante il cavalcavia G. Garibaldi;<br>c. piazza Poerio, tratto antistante il pilone e compreso tra le carreggiate di via Di Vagno<br>(area sottostante il cavalcavia Garibaldi);<br>d. via G. Matteotti, ambo i lati, tratto compreso tra via Dalmazia e il lung.re N. Sauro;<br>e. via Dalmazia, ambo i lati, tratto compreso tra via Matteotti e via Fratelli Rosselli;<br>2. dalle ore 07.00 alle ore 18.00 (dalle ore 08.00 anche pedonale) e, comunque, fino al<br>termine delle esigenze, è istituito il “DIVIETO DI CIRCOLAZIONE” sulle seguenti strade e<br>piazze:<br>a. piazza A. Gramsci;<br>b. via G. Di Vagno, compresa l’area sottostante il cavalcavia G. Garibaldi;<br>c. via G. Matteotti, tratto compreso tra via Dalmazia e il lung.re N. Sauro;<br>d. via Dalmazia, tratto compreso tra via Matteotti e via Fratelli Rosselli;<br>e. lung.re N. Sauro, tratto compreso tra via Arc. Vaccaro e piazza A. Gramsci;<br>f. cavalcavia G. Garibaldi.<br><br>Per i veicoli in sosta sulla via Dalmazia (tratto compreso tra via Corfù e via Matteotti) e sulla via<br>Egnazia ovvero presenti nelle pertinenze condominiali di tali tratti, È CONSENTITO il deflusso da<br>tali aree anche in senso contrario a quello di marcia ordinario, purchè effettuato a passo d’uomo<br>o comunque ad una velocità non superiore a 10 km/h, prestando massima attenzione a veicoli<br>e/o pedoni presenti in zona.<br>Dal presente provvedimento restrittivo sono esclusi: i mezzi utilizzati dagli organizzatori, i mezzi<br>adibiti al soccorso e quelli della Forza Pubblica.<br>Inoltre, entro le ore 14.00 di sabato 14 marzo, è fatto obbligo agli organizzatori di comunicare le<br>targhe dei veicoli accreditati alla manifestazione ai seguenti indirizzi mail:<br>rip.poliziamunicipale@comune.bari.it e salaoperativa@comune.bari.it<br><br>TERMINE E DURATA : 14 E 15 MARZO 2026 DALLE 00:01 - 20:00]]></description>
+      <styleUrl>#poly-E65100-1901-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              16.8907351,41.1178845,0
+              16.8910665,41.1181279,0
+              16.8899916,41.1190974,0
+              16.888136,41.119588,0
+              16.8874575,41.1187238,0
+              16.8891348,41.1182513,0
+              16.8891021,41.1181792,0
+              16.8886193,41.1170718,0
+              16.8888339,41.1170153,0
+              16.889322,41.118223,0
+              16.8907351,41.1178845,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01273
+DIVIETO DI CIRCOLAZIONE
+PIAZZA A. GRAMSCI; VIA G. DI VAGNO, COMPRESA L’AREA SOTTOSTANTE IL CAVALCAVIA G. GARIBALDI; VIA G. MATTEOTTI, TRATTO COMPRESO TRA VIA DALMAZIA E IL LUNG.RE N. SAURO; VIA DALMAZIA, TRATTO COMPRESO TRA VIA MATTEOTTI E VIA FRATELLI ROSSELLI; LUNG.RE N. SAURO, TRATTO COMPRESO TRA VIA ARC. VACCARO E PIAZZA A. GRAMSCI; CAVALCAVIA G. GARIBALDI.
+CAMPIONATO ITALIANO FORMULA CHALLENGE - 1° TROFEO CITTA’ DI BARI
+RICHIEDENTE: Vigili Urbani
+14/03/2026 - 15/03/2026
+DALLE dalle ore 07.00 alle ore 18.00
+(dalle ore 08.00 anche pedonale)</name>
+      <description><![CDATA[ORDINANZA N. 2026/01273<br>https://drive.google.com/file/d/1OsNUcNlI_U3ua8O42Pr21anqs7J63hTg/view<br><br>CAMPIONATO ITALIANO FORMULA CHALLENGE - 1° TROFEO CITTA’ DI BARI<br>- BARI, 14 - 15 MARZO 2026.<br>DIVIETO DI FERMATA Il giorno 15 marzo 2026:<br>1. dalle ore 00.01 alle ore 20.00 e, comunque, fino al termine delle esigenze, è istituito il<br>“DIVIETO DI FERMATA” sulle seguenti strade e piazze:<br>a. piazza A. Gramsci, compresa l’area di sosta della carreggiata prospiciente il mare,<br>lato giardino Veterani dello Sport, tratto compreso tra il prolungamento della via Di<br>Vagno ed il distributore di carburante all’altezza di via F. Filzi;;<br>b. via G. Di Vagno, compresa l’area sottostante il cavalcavia G. Garibaldi;<br>c. piazza Poerio, tratto antistante il pilone e compreso tra le carreggiate di via Di Vagno<br>(area sottostante il cavalcavia Garibaldi);<br>d. via G. Matteotti, ambo i lati, tratto compreso tra via Dalmazia e il lung.re N. Sauro;<br>e. via Dalmazia, ambo i lati, tratto compreso tra via Matteotti e via Fratelli Rosselli;<br>2. dalle ore 07.00 alle ore 18.00 (dalle ore 08.00 anche pedonale) e, comunque, fino al<br>termine delle esigenze, è istituito il “DIVIETO DI CIRCOLAZIONE” sulle seguenti strade e<br>piazze:<br>a. piazza A. Gramsci;<br>b. via G. Di Vagno, compresa l’area sottostante il cavalcavia G. Garibaldi;<br>c. via G. Matteotti, tratto compreso tra via Dalmazia e il lung.re N. Sauro;<br>d. via Dalmazia, tratto compreso tra via Matteotti e via Fratelli Rosselli;<br>e. lung.re N. Sauro, tratto compreso tra via Arc. Vaccaro e piazza A. Gramsci;<br>f. cavalcavia G. Garibaldi.<br><br>Per i veicoli in sosta sulla via Dalmazia (tratto compreso tra via Corfù e via Matteotti) e sulla via<br>Egnazia ovvero presenti nelle pertinenze condominiali di tali tratti, È CONSENTITO il deflusso da<br>tali aree anche in senso contrario a quello di marcia ordinario, purchè effettuato a passo d’uomo<br>o comunque ad una velocità non superiore a 10 km/h, prestando massima attenzione a veicoli<br>e/o pedoni presenti in zona.<br>Dal presente provvedimento restrittivo sono esclusi: i mezzi utilizzati dagli organizzatori, i mezzi<br>adibiti al soccorso e quelli della Forza Pubblica.<br>Inoltre, entro le ore 14.00 di sabato 14 marzo, è fatto obbligo agli organizzatori di comunicare le<br>targhe dei veicoli accreditati alla manifestazione ai seguenti indirizzi mail:<br>rip.poliziamunicipale@comune.bari.it e salaoperativa@comune.bari.it<br><br>TERMINE E DURATA : 14 E 15 MARZO 2026 DALLE dalle ore 07.00 alle ore 18.00<br>(dalle ore 08.00 anche pedonale)]]></description>
+      <styleUrl>#icon-1898-F57C00</styleUrl>
+      <Point>
+        <coordinates>
+          16.8844713,41.1205626,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01273
+DIVIETO DI CIRCOLAZIONE
+PIAZZA A. GRAMSCI; VIA G. DI VAGNO, COMPRESA L’AREA SOTTOSTANTE IL CAVALCAVIA G. GARIBALDI; VIA G. MATTEOTTI, TRATTO COMPRESO TRA VIA DALMAZIA E IL LUNG.RE N. SAURO; VIA DALMAZIA, TRATTO COMPRESO TRA VIA MATTEOTTI E VIA FRATELLI ROSSELLI; LUNG.RE N. SAURO, TRATTO COMPRESO TRA VIA ARC. VACCARO E PIAZZA A. GRAMSCI; CAVALCAVIA G. GARIBALDI.
+CAMPIONATO ITALIANO FORMULA CHALLENGE - 1° TROFEO CITTA’ DI BARI
+RICHIEDENTE: Vigili Urbani
+14/03/2026 - 15/03/2026
+DALLE dalle ore 07.00 alle ore 18.00
+(dalle ore 08.00 anche pedonale)</name>
+      <description><![CDATA[ORDINANZA N. 2026/01273<br>https://drive.google.com/file/d/1OsNUcNlI_U3ua8O42Pr21anqs7J63hTg/view<br><br>CAMPIONATO ITALIANO FORMULA CHALLENGE - 1° TROFEO CITTA’ DI BARI<br>- BARI, 14 - 15 MARZO 2026.<br>DIVIETO DI FERMATA Il giorno 15 marzo 2026:<br>1. dalle ore 00.01 alle ore 20.00 e, comunque, fino al termine delle esigenze, è istituito il<br>“DIVIETO DI FERMATA” sulle seguenti strade e piazze:<br>a. piazza A. Gramsci, compresa l’area di sosta della carreggiata prospiciente il mare,<br>lato giardino Veterani dello Sport, tratto compreso tra il prolungamento della via Di<br>Vagno ed il distributore di carburante all’altezza di via F. Filzi;;<br>b. via G. Di Vagno, compresa l’area sottostante il cavalcavia G. Garibaldi;<br>c. piazza Poerio, tratto antistante il pilone e compreso tra le carreggiate di via Di Vagno<br>(area sottostante il cavalcavia Garibaldi);<br>d. via G. Matteotti, ambo i lati, tratto compreso tra via Dalmazia e il lung.re N. Sauro;<br>e. via Dalmazia, ambo i lati, tratto compreso tra via Matteotti e via Fratelli Rosselli;<br>2. dalle ore 07.00 alle ore 18.00 (dalle ore 08.00 anche pedonale) e, comunque, fino al<br>termine delle esigenze, è istituito il “DIVIETO DI CIRCOLAZIONE” sulle seguenti strade e<br>piazze:<br>a. piazza A. Gramsci;<br>b. via G. Di Vagno, compresa l’area sottostante il cavalcavia G. Garibaldi;<br>c. via G. Matteotti, tratto compreso tra via Dalmazia e il lung.re N. Sauro;<br>d. via Dalmazia, tratto compreso tra via Matteotti e via Fratelli Rosselli;<br>e. lung.re N. Sauro, tratto compreso tra via Arc. Vaccaro e piazza A. Gramsci;<br>f. cavalcavia G. Garibaldi.<br><br>Per i veicoli in sosta sulla via Dalmazia (tratto compreso tra via Corfù e via Matteotti) e sulla via<br>Egnazia ovvero presenti nelle pertinenze condominiali di tali tratti, È CONSENTITO il deflusso da<br>tali aree anche in senso contrario a quello di marcia ordinario, purchè effettuato a passo d’uomo<br>o comunque ad una velocità non superiore a 10 km/h, prestando massima attenzione a veicoli<br>e/o pedoni presenti in zona.<br>Dal presente provvedimento restrittivo sono esclusi: i mezzi utilizzati dagli organizzatori, i mezzi<br>adibiti al soccorso e quelli della Forza Pubblica.<br>Inoltre, entro le ore 14.00 di sabato 14 marzo, è fatto obbligo agli organizzatori di comunicare le<br>targhe dei veicoli accreditati alla manifestazione ai seguenti indirizzi mail:<br>rip.poliziamunicipale@comune.bari.it e salaoperativa@comune.bari.it<br><br>TERMINE E DURATA : 14 E 15 MARZO 2026 DALLE dalle ore 07.00 alle ore 18.00 <br>(dalle ore 08.00 anche pedonale)]]></description>
+      <styleUrl>#poly-F57C00-1200-77</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              16.8844012,41.1207029,0
+              16.8839398,41.120024,0
+              16.8874213,41.1187793,0
+              16.8891111,41.1182903,0
+              16.8885978,41.1170839,0
+              16.8888124,41.1170274,0
+              16.8893005,41.1182351,0
+              16.8907673,41.1178431,0
+              16.8910839,41.1181178,0
+              16.8899701,41.1191095,0
+              16.8844012,41.1207029,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01329
+DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI
+IN VIA SALVATORE MATARRESE
+ LAVORI PRESSO LA CABINA ENEL INTERRATA
+RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.
+19/03/2026 DALLE ORE 07.00 ALLE ORE 17.00
+
+</name>
+      <description><![CDATA[Ordinanza 2026/01329<br>https://drive.google.com/file/d/1nOmE5ghWxCoCqkJR9PuS928wvVfBEpg_/view <br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON<br>RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA<br>IN VIA SALVATORE MATARRESE PER LAVORI PRESSO LA CABINA ENEL<br>INTERRATA DENOMINATA "CABINA CETI", SITUATA NEL TRATTO<br>COMPRESO TRA VIA RODOLFO REDI E VIA EDMONDO CACCURI PER UN<br>RAGGIO DI 20 METRI IN PROSSIMITÀ DELLA CABINA <br><br>RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.<br>DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL <br><br>19/03/2026 DALLE ORE 07.00 ALLE ORE 17.00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8541515,41.098847,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01329
+DIVIETO DI SOSTA E FERMATA CON RIMOZIONE FORZATA AMBO I LATI
+IN VIA SALVATORE MATARRESE
+LAVORI PRESSO LA CABINA ENEL INTERRATA
+RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.
+19/03/2026 DALLE ORE 07.00 ALLE ORE 17.00</name>
+      <description><![CDATA[Ordinanza 2026/01329<br>https://drive.google.com/file/d/1nOmE5ghWxCoCqkJR9PuS928wvVfBEpg_/view <br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI SOSTA E FERMATA CON<br>RIMOZIONE FORZATA AMBO I LATI E RESTRINGIMENTO DI CARREGGIATA<br>IN VIA SALVATORE MATARRESE PER LAVORI PRESSO LA CABINA ENEL<br>INTERRATA DENOMINATA "CABINA CETI", SITUATA NEL TRATTO<br>COMPRESO TRA VIA RODOLFO REDI E VIA EDMONDO CACCURI PER UN<br>RAGGIO DI 20 METRI IN PROSSIMITÀ DELLA CABINA <br><br>RICHIEDENTE: ENEL DISTRIBUZIONE S.P.A.<br>DITTA ESECUTRICE: NORD COSTRUZIONI GENERALI SRL <br><br>19/03/2026 DALLE ORE 07.00 ALLE ORE 17.00]]></description>
+      <styleUrl>#line-E65100-4100</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8541592,41.0988828,0
+          16.8542504,41.0975245,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01273
+DIVIETO DI FERMATA
+IN PIAZZA A. GRAMSCI, VIA G. DI VAGNO, VIA F. FILZI, CAVALCAVIA G. GARIBALDI, PIAZZA POERIO, G.MATTEOTTI AMBO I LATI E VIA DALMAZIA, AMBO I LATI
+CAMPIONATO ITALIANO FORMULA CHALLENGE - 1° TROFEO CITTA’ DI BARI
+RICHIEDENTE: Vigili Urbani
+14/03/2026 - 15/03/2026</name>
+      <description><![CDATA[ORDINANZA N. 2026/01273<br>https://drive.google.com/file/d/1OsNUcNlI_U3ua8O42Pr21anqs7J63hTg/view<br><br>CAMPIONATO ITALIANO FORMULA CHALLENGE - 1° TROFEO CITTA’ DI BARI<br>- BARI, 14 - 15 MARZO 2026.<br>DIVIETO DI FERMATA Il giorno 15 marzo 2026:<br>1. dalle ore 00.01 alle ore 20.00 e, comunque, fino al termine delle esigenze, è istituito il<br>“DIVIETO DI FERMATA” sulle seguenti strade e piazze:<br>a. piazza A. Gramsci, compresa l’area di sosta della carreggiata prospiciente il mare,<br>lato giardino Veterani dello Sport, tratto compreso tra il prolungamento della via Di<br>Vagno ed il distributore di carburante all’altezza di via F. Filzi;;<br>b. via G. Di Vagno, compresa l’area sottostante il cavalcavia G. Garibaldi;<br>c. piazza Poerio, tratto antistante il pilone e compreso tra le carreggiate di via Di Vagno<br>(area sottostante il cavalcavia Garibaldi);<br>d. via G. Matteotti, ambo i lati, tratto compreso tra via Dalmazia e il lung.re N. Sauro;<br>e. via Dalmazia, ambo i lati, tratto compreso tra via Matteotti e via Fratelli Rosselli;<br>2. dalle ore 07.00 alle ore 18.00 (dalle ore 08.00 anche pedonale) e, comunque, fino al<br>termine delle esigenze, è istituito il “DIVIETO DI CIRCOLAZIONE” sulle seguenti strade e<br>piazze:<br>a. piazza A. Gramsci;<br>b. via G. Di Vagno, compresa l’area sottostante il cavalcavia G. Garibaldi;<br>c. via G. Matteotti, tratto compreso tra via Dalmazia e il lung.re N. Sauro;<br>d. via Dalmazia, tratto compreso tra via Matteotti e via Fratelli Rosselli;<br>e. lung.re N. Sauro, tratto compreso tra via Arc. Vaccaro e piazza A. Gramsci;<br>f. cavalcavia G. Garibaldi.<br><br>Per i veicoli in sosta sulla via Dalmazia (tratto compreso tra via Corfù e via Matteotti) e sulla via<br>Egnazia ovvero presenti nelle pertinenze condominiali di tali tratti, È CONSENTITO il deflusso da<br>tali aree anche in senso contrario a quello di marcia ordinario, purchè effettuato a passo d’uomo<br>o comunque ad una velocità non superiore a 10 km/h, prestando massima attenzione a veicoli<br>e/o pedoni presenti in zona.<br>Dal presente provvedimento restrittivo sono esclusi: i mezzi utilizzati dagli organizzatori, i mezzi<br>adibiti al soccorso e quelli della Forza Pubblica.<br>Inoltre, entro le ore 14.00 di sabato 14 marzo, è fatto obbligo agli organizzatori di comunicare le<br>targhe dei veicoli accreditati alla manifestazione ai seguenti indirizzi mail:<br>rip.poliziamunicipale@comune.bari.it e salaoperativa@comune.bari.it<br><br>TERMINE E DURATA : 14 E 15 MARZO 2026 DALLE 00:01 - 20:00]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8963609,41.1169107,0
+        </coordinates>
+      </Point>
     </Placemark>
   </Document>
 </kml>
