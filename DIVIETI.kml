@@ -8633,5 +8633,76 @@ IMPRESA ESECUTRICE: RICHIEDENTE SIG. MASTRONARDI INNOCENZO
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01369
+SENSO UNICO ALTERNATO
+CORSO ALCIDE DE GASPERI 378/A SINO AL CIV. 513 INCROCI COMPRESI
+PRESSIONI ED IL MONITORAGGIO RETI IDRICHE
+IMPRESA ESECUTRICE: ACCIONA AGUA S.A.
+18/03/2026 - 31/05/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01369<br><br>https://drive.google.com/file/d/1mtdP4m7NZERhjN4evyj2yRuEC8tjP1BE/view<br><br>P1557. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN SENSO UNICO<br>ALTERNATO SU CORSO ALCIDE DE GASPERI 378/A SINO AL CIV. 513<br>INCROCI COMPRESI PER IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E<br>SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI <br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e Tempistiche: 18/03/2026 - 31/05/2026 E COMUNQUE SINO A FINE LAVORI.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8699718,41.0904004,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01366 
+DIVIETO DI TRANSITO, DI SOSTA CON
+RIMOZIONE FORZATA AMBO I LATI 
+V. CORRADO CIV. 18, DA VIA O. RESPIGHI A VIA NAPOLI
+LAVORI DI COSTRUZIONE IMPIANTO IDRICO 
+30/03/2026 - 11/04/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/01366<br><br>https://drive.google.com/file/d/1DHu-nD1B2XIJ2tkPfQqVK1Dgbng5rvF9/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO, DI SOSTA CON<br>RIMOZIONE FORZATA AMBO I LATI IN VIA V. CORRADO CIV. 18, TRATTO DI<br>STRADA TRA VIA O. RESPIGHI A VIA NAPOLI PER LAVORI DI COSTRUZIONE<br>IMPIANTO IDRICO DAL 30/03/2026 AL 11/04/2026.<br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br><br>1. L’istituzione temporanea del divieto di transito, di sosta con rimozione forzata ambo i lati in via V. Corrado<br>civ. 18, tratto di strada tra via O. Respighi a via Napoli per lavori di costruzione impianto idrico;<br>2. Dovrà essere dato avviso delle temporanee prescrizioni all’intersezione via Casavola/via O. Respighi e<br>strada San Girolamo/via V. Corrado, anche con la presenza di movieri dotati di idoneo equipaggiamento,<br>che dovranno regolamentare la circolazione stradale;<br>3. Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria, il cui<br>transito dovrà essere tutelato durante i lavori;<br>4. Dovranno essere altresì salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia,<br>compatibilmente con l’esecuzione dei lavori, nel tratto della via V. Corrado aperta al transito veicolare,<br>anche con l’ausilio di movieri dotati di idoneo equipaggiamento;<br>5. Sarà cura dell’impresa esecutrice dei lavori provvedere al termine degli stessi, al ripristino dello stato dei<br>luoghi;<br>6. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>Durata e tempistiche: 30/03/2026 - 11/04/2026 ]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8226908,41.133285,0
+          16.8232138,41.1342729,0
+          16.8232755,41.1346608,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01369
+SENSO UNICO ALTERNATO
+CORSO ALCIDE DE GASPERI 378/A SINO AL CIV. 513 INCROCI COMPRESI
+PRESSIONI ED IL MONITORAGGIO RETI IDRICHE
+IMPRESA ESECUTRICE:ACCIONA AGUA S.A.
+18/03/2026 - 31/05/2026</name>
+      <description><![CDATA[Ordinanza: 2026/01369<br><br>https://drive.google.com/file/d/1mtdP4m7NZERhjN4evyj2yRuEC8tjP1BE/view<br><br>P1557. ORDINANZA PER ISTITUIRE TEMPORANEAMENTE UN SENSO UNICO<br>ALTERNATO SU CORSO ALCIDE DE GASPERI 378/A SINO AL CIV. 513<br>INCROCI COMPRESI PER IL CONTROLLO DELLE PRESSIONI ED IL<br>MONITORAGGIO DELLE GRANDEZZE IDRAULICHE NELLE RETI IDRICHE E<br>SOSTITUZIONE DEI TRONCHI VETUSTI ED AMMALORATI <br>SOCIETÀ: ACCIONA AGUA S.A.<br><br>Durata e Tempistiche: 18/03/2026 - 31/05/2026 E COMUNQUE SINO A FINE LAVORI.]]></description>
+      <styleUrl>#line-E65100-5263</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8691251,41.0826165,0
+          16.8689374,41.0839994,0
+          16.8688542,41.0854166,0
+          16.8688811,41.0857198,0
+          16.86916,41.0868459,0
+          16.8698595,41.090428,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01366 
+DIVIETO DI TRANSITO, DI SOSTA CON
+RIMOZIONE FORZATA AMBO I LATI 
+V. CORRADO CIV. 18, DA VIA O. RESPIGHI A VIA NAPOLI
+LAVORI DI COSTRUZIONE IMPIANTO IDRICO 
+30/03/2026 - 11/04/2026
+</name>
+      <description><![CDATA[ORDINANZA 2026/01366<br><br>https://drive.google.com/file/d/1DHu-nD1B2XIJ2tkPfQqVK1Dgbng5rvF9/view<br><br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO, DI SOSTA CON<br>RIMOZIONE FORZATA AMBO I LATI IN VIA V. CORRADO CIV. 18, TRATTO DI<br>STRADA TRA VIA O. RESPIGHI A VIA NAPOLI PER LAVORI DI COSTRUZIONE<br>IMPIANTO IDRICO DAL 30/03/2026 AL 11/04/2026.<br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br><br>1. L’istituzione temporanea del divieto di transito, di sosta con rimozione forzata ambo i lati in via V. Corrado<br>civ. 18, tratto di strada tra via O. Respighi a via Napoli per lavori di costruzione impianto idrico;<br>2. Dovrà essere dato avviso delle temporanee prescrizioni all’intersezione via Casavola/via O. Respighi e<br>strada San Girolamo/via V. Corrado, anche con la presenza di movieri dotati di idoneo equipaggiamento,<br>che dovranno regolamentare la circolazione stradale;<br>3. Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria, il cui<br>transito dovrà essere tutelato durante i lavori;<br>4. Dovranno essere altresì salvaguardati gli accessi privati e il transito dei mezzi di soccorso e/o polizia,<br>compatibilmente con l’esecuzione dei lavori, nel tratto della via V. Corrado aperta al transito veicolare,<br>anche con l’ausilio di movieri dotati di idoneo equipaggiamento;<br>5. Sarà cura dell’impresa esecutrice dei lavori provvedere al termine degli stessi, al ripristino dello stato dei<br>luoghi;<br>6. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br><br>Durata e tempistiche: 30/03/2026 - 11/04/2026 ]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8225,41.133419,0
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
