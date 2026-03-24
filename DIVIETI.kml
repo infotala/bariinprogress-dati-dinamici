@@ -642,6 +642,28 @@
         <styleUrl>#line-E65100-8556-highlight</styleUrl>
       </Pair>
     </StyleMap>
+    <Style id="line-F57C00-3906-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>3.906</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F57C00-3906-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>5.859</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F57C00-3906">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F57C00-3906-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F57C00-3906-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
     <Placemark>
       <name>ORDINANZA 2025/03163
 DIVIETO DI SOSTA CON RIMOZIONE COATTA
@@ -1505,7 +1527,7 @@ RICHIEDENTE : SIG. ANTONIO PUTIGNANO
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00739
+      <name>ORDINANZA 2026/01386
 DIVIETO DI SOSTA E DI FERMATA AMBO I
 LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA
 VIA LITUANIA
@@ -1517,9 +1539,9 @@ VIA LAZIO
 VIA VENETO
 INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL
 IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-12/12/2025 - 28/02/2026 (07:00 - 17:00)
+12/12/2025 - 15/05/2026 (07:00 - 17:00)
 </name>
-      <description><![CDATA[PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br><br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br>(07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA 2026/01386 FINO AL 15/05/2026<br>https://drive.google.com/file/d/1GWRxpdfHuMAuu8KqQIIHeI0GIGRP1duR/view<br><br>PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br><br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br>(07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -1528,15 +1550,15 @@ IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00739
+      <name>ORDINANZA 2026/01386 
 DIVIETO DI SOSTA E DI FERMATA AMBO I
 LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA
 VIA LITUANIA
 INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL
 IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-12/12/2025 - 28/02/2026 (07:00 - 17:00)
+12/12/2025 - 15/05/2026 (07:00 - 17:00)
 </name>
-      <description><![CDATA[PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO  PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br> (07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA 2026/01386 FINO AL 15/05/2026<br>https://drive.google.com/file/d/1GWRxpdfHuMAuu8KqQIIHeI0GIGRP1duR/view<br><br>PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO  PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br> (07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
       <styleUrl>#line-E65100-4294</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -1559,14 +1581,14 @@ IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00739
+      <name>ORDINANZA 2026/01386
 DIVIETO DI SOSTA E DI FERMATA AMBO I
 LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA
 VIA OLBIA
 INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL
 IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-12/12/2025 - 28/02/2026 (07:00 - 17:00)</name>
-      <description><![CDATA[PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br>(07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
+12/12/2025 - 15/05/2026 (07:00 - 17:00)</name>
+      <description><![CDATA[PROROGATA DALLA 2026/01386 FINO AL 15/05/2026<br>https://drive.google.com/file/d/1GWRxpdfHuMAuu8KqQIIHeI0GIGRP1duR/view<br><br>PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br>(07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
       <styleUrl>#line-E65100-4100</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -1581,14 +1603,14 @@ IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00739
+      <name>ORDINANZA 2026/0138
 DIVIETO DI SOSTA E DI FERMATA AMBO I
 LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA
 VIA SARDEGNA
 INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL
 IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-12/12/2025 - 28/02/2026 (07:00 - 17:00)</name>
-      <description><![CDATA[PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br>(07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
+12/12/2025 - 15/05/2026 (07:00 - 17:00)</name>
+      <description><![CDATA[PROROGATA DALLA 2026/01386 FINO AL 15/05/2026<br>https://drive.google.com/file/d/1GWRxpdfHuMAuu8KqQIIHeI0GIGRP1duR/view<br><br>PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br>(07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
       <styleUrl>#line-E65100-5263</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -1602,14 +1624,14 @@ IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00739
+      <name>ORDINANZA 2026/01386 
 DIVIETO DI SOSTA E DI FERMATA AMBO I
 LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA
 VIA CAMPANIA
 INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL
 IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-12/12/2025 - 28/02/2026 (07:00 - 17:00)</name>
-      <description><![CDATA[PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br>(07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
+12/12/2025 - 15/05/2026 (07:00 - 17:00)</name>
+      <description><![CDATA[PROROGATA DALLA 2026/01386 FINO AL 15/05/2026<br>https://drive.google.com/file/d/1GWRxpdfHuMAuu8KqQIIHeI0GIGRP1duR/view<br><br>PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br>(07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
       <styleUrl>#line-E65100-5069</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -1620,14 +1642,14 @@ IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00739
+      <name>ORDINANZA 2026/01386 
 DIVIETO DI SOSTA E DI FERMATA AMBO I
 LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA
 VIA TOSCANA
 INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL
 IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-12/12/2025 - 28/02/2026 (07:00 - 17:00)</name>
-      <description><![CDATA[PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br><br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br>(07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
+12/12/2025 - 15/05/2026 (07:00 - 17:00)</name>
+      <description><![CDATA[PROROGATA DALLA 2026/01386 FINO AL 15/05/2026<br>https://drive.google.com/file/d/1GWRxpdfHuMAuu8KqQIIHeI0GIGRP1duR/view<br><br>PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br><br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br>(07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
       <styleUrl>#line-E65100-4488</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -1643,15 +1665,15 @@ IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00739
+      <name>ORDINANZA 2026/01386
 DIVIETO DI SOSTA E DI FERMATA AMBO I
 LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA
 VIA VENETO
 INTERRAMENTO CAVI DI MEDIA TENSIONE C/ENEL
 IMPRESA ESECUTRICE: NORD COSTRUZIONI GENERALI S.R.L.
-12/12/2025 - 28/02/2026 (07:00 - 17:00)
+12/12/2025 - 15/05/2026 (07:00 - 17:00)
 </name>
-      <description><![CDATA[PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br><br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br>(07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA 2026/01386 FINO AL 15/05/2026<br>https://drive.google.com/file/d/1GWRxpdfHuMAuu8KqQIIHeI0GIGRP1duR/view<br><br>PROROGATA:2026/00739<br>FINO AL 31/03/2026<br><br>https://drive.google.com/file/d/1CmmLsLiGEsWuZeQt66sMI7iV0z6GCNJW/view<br><br>2025/04037<br><br>https://drive.google.com/file/d/1JgiDSfwdidvJ_6Vn3EkFVaBJlZXdRIPm/view<br><br>ISTITUZIONE TEMPORANEA PER DIVIETO DI SOSTA E DI FERMATA AMBO I<br>LATI CON RIMOZIONE FORZATA CON RESTRINGIMENTO CARREGGIATA IN<br>VIA LITUANIA, VIA OLBIA, VIA SARDEGNA, VIA CAMPANIA, VIA TOSCANA, VIA<br>LAZIO E VIA VENETO PER LAVORI DI INTERRAMENTO CAVI DI MEDIA TENSIONE<br>C/ENEL.<br>SOCIETÀ: NORD COSTRUZIONI GENERALI S.R.L.<br><br>Durata e Tempistiche: 12/12/2025 - 28/02/2026<br>(07:00 - 17:00)<br>PROROGA: FINO AL 31/03/2026]]></description>
       <styleUrl>#line-E65100-4100</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -2649,15 +2671,15 @@ IMPRESA ESECUTRICE: COBAR S.P.A
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00803
+      <name>ORDINANZA 2026/01395
 DIVIETO DI TRANSITO A TUTTI I VEICOLI ESCLUSIVAMENTE NELLA CARREGGIATA STRADALE CENTRALE
 VIA CALDAROLA NEL TRATTO COMPRESO TRA VIA ARCHIMEDE E VIA
 LOIACONO
 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-23/02/2026 - 21/03/2026
+23/02/2026 - 21/04/2026
 </name>
-      <description><![CDATA[https://albo.comune.bari.it/AlboPretorio/BA_PubblicIntranet.nsf/63e823169cf6eba8c1256fdc003ae470/730dd2c3b0178734c1258da70046e069/$FILE/Atto20260223102442.pdf<br><br>2026/00803<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO A TUTTI I VEICOLI<br>SU VIA CALDAROLA, ESCLUSIVAMENTE NELLA CARREGGIATA STRADALE<br>CENTRALE, NEL TRATTO COMPRESO TRA VIA ARCHIMEDE E VIA<br>LOIACONO FINO AL 21.03.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>Dalla data di emanazione della presente ordinanza fino al 21.03.2026 sono istituiti i seguenti<br>provvedimenti temporanei di circolazione:<br>Istituzione temporanea del divieto di transito a tutti i veicoli su:<br>- Via Caldarola, esclusivamente nella carreggiata stradale centrale, nel tratto compreso tra via<br>Archimede e via Loiacono<br>Dagli obblighi e divieti di cui al punto 2) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati. <br>TERMINE E DURATA: DAL 23/02/2026 AL 21/03/2026<br>2026/00258 <br><br>https://drive.google.com/file/d/1LExG9MScVkg-xCTSuo4mVme260neWesG/view<br><br> LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO A TUTTI I VEICOLI<br>SU VIA CALDAROLA, ESCLUSIVAMENTE NELLA CARREGGIATA STRADALE<br>CENTRALE, NEL TRATTO COMPRESO TRA VIA ARCHIMEDE E VIA<br>LOIACONO DAL GIORNO 20.01.2026 AL GIORNO 20.02.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Istituzione temporanea del divieto di transito a tutti i veicoli su:<br>- Via Caldarola, esclusivamente nella carreggiata stradale centrale, nel tratto compreso tra via<br>Archimede e via Loiacono<br>Dagli obblighi e divieti di cui al punto 2) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati. <br> <br>tempistiche: 20/01/2026 - 20/02/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA 2026/01395<br>https://drive.google.com/file/d/14Ef7jjxS8lSL1qwkiHHAkKFKO0l1VYP4/view<br>FINO AL 21/04/2026<br><br><br>https://albo.comune.bari.it/AlboPretorio/BA_PubblicIntranet.nsf/63e823169cf6eba8c1256fdc003ae470/730dd2c3b0178734c1258da70046e069/$FILE/Atto20260223102442.pdf<br><br>2026/00803<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO A TUTTI I VEICOLI<br>SU VIA CALDAROLA, ESCLUSIVAMENTE NELLA CARREGGIATA STRADALE<br>CENTRALE, NEL TRATTO COMPRESO TRA VIA ARCHIMEDE E VIA<br>LOIACONO FINO AL 21.03.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>Dalla data di emanazione della presente ordinanza fino al 21.03.2026 sono istituiti i seguenti<br>provvedimenti temporanei di circolazione:<br>Istituzione temporanea del divieto di transito a tutti i veicoli su:<br>- Via Caldarola, esclusivamente nella carreggiata stradale centrale, nel tratto compreso tra via<br>Archimede e via Loiacono<br>Dagli obblighi e divieti di cui al punto 2) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati. <br>TERMINE E DURATA: DAL 23/02/2026 AL 21/03/2026<br>2026/00258 <br><br>https://drive.google.com/file/d/1LExG9MScVkg-xCTSuo4mVme260neWesG/view<br><br> LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>ISTITUZIONE TEMPORANEA DEL DIVIETO DI TRANSITO A TUTTI I VEICOLI<br>SU VIA CALDAROLA, ESCLUSIVAMENTE NELLA CARREGGIATA STRADALE<br>CENTRALE, NEL TRATTO COMPRESO TRA VIA ARCHIMEDE E VIA<br>LOIACONO DAL GIORNO 20.01.2026 AL GIORNO 20.02.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br><br>Istituzione temporanea del divieto di transito a tutti i veicoli su:<br>- Via Caldarola, esclusivamente nella carreggiata stradale centrale, nel tratto compreso tra via<br>Archimede e via Loiacono<br>Dagli obblighi e divieti di cui al punto 2) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati. <br> <br>tempistiche: 20/01/2026 - 20/02/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -2666,15 +2688,15 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00803
+      <name>ORDINANZA 2026/01395
 DIVIETO DI TRANSITO A TUTTI I VEICOLI ESCLUSIVAMENTE NELLA CARREGGIATA STRADALE CENTRALE
 VIA CALDAROLA NEL TRATTO COMPRESO TRA VIA ARCHIMEDE E VIA
 LOIACONO
 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-23/02/2026 - 21/03/2026
+23/02/2026 - 21/04/2026
 </name>
-      <description><![CDATA[https://albo.comune.bari.it/AlboPretorio/BA_PubblicIntranet.nsf/63e823169cf6eba8c1256fdc003ae470/730dd2c3b0178734c1258da70046e069/$FILE/Atto20260223102442.pdf<br><br>2026/00803]]></description>
+      <description><![CDATA[PROROGATA DALLA 2026/01395<br>https://drive.google.com/file/d/14Ef7jjxS8lSL1qwkiHHAkKFKO0l1VYP4/view<br>FINO AL 21/04/2026<br>----<br>https://albo.comune.bari.it/AlboPretorio/BA_PubblicIntranet.nsf/63e823169cf6eba8c1256fdc003ae470/730dd2c3b0178734c1258da70046e069/$FILE/Atto20260223102442.pdf<br><br>2026/00803]]></description>
       <styleUrl>#line-E65100-4488</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -5444,14 +5466,14 @@ IMPRESA ESECUTRICE: LA PIETRAFESA S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00765 
+      <name>ORDINANZA 2026/01396 
 SENSO UNICO DI MARCIA, DIVIETO DI FERMATA AMBO I LATI, RESTRINGIMENTO DI CARREGGIATA 
 VIA ARTURO TOSCANINI, NEL TRATTO COMPRESO TRA VIA CALDAROLA E VIA PAOLO AQUILINO, NELLA DIREZIONE CHE VA DA VIA CALDAROLA VERSO VIA PAOLO AQUILINO.
 REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-18/02/2026 - 23/03/2026
+18/02/2026 - 23/04/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/00765 <br><br><br>https://drive.google.com/file/d/1ZtjSK0ZAWfJBdgOJ1rfFAaNoKwrmD8yA/view<br><br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA TOSCANINI FINO AL 23.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>2) Istituzione del senso unico di marcia per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino, nella direzione che va da via Caldarola verso via Paolo Aquilino 3) - Istituzione del divieto di fermata ambo i lati per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino 4) - Istituzione del restringimento di carreggiata per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino 5) - Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Tenente Cesare Suglia in corrispondenza dell'intersezione con via Arturo Toscanini 6) - Istituzione dell'obbligo di proseguire diritto e svoltare a destra per tutti i veicoli su Largo Puglia in corrispondenza dell'intersezione con via Arturo Toscanini 7) - Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile 8) - Istituzione del divieto di accesso per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile 9) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 18/02/2026 - 23/03/2026]]></description>
+      <description><![CDATA[PRORGATA DALLA 2026/01396<br>https://drive.google.com/file/d/1qOz8rXZocY6J9N4HUuIgRaqP3Ol5qMWZ/view<br>FINO AL 23/04/2026<br>-----<br>ORDINANZA 2026/00765 <br><br>https://drive.google.com/file/d/1ZtjSK0ZAWfJBdgOJ1rfFAaNoKwrmD8yA/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA TOSCANINI FINO AL 23.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>2) Istituzione del senso unico di marcia per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino, nella direzione che va da via Caldarola verso via Paolo Aquilino 3) - Istituzione del divieto di fermata ambo i lati per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino 4) - Istituzione del restringimento di carreggiata per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino 5) - Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Tenente Cesare Suglia in corrispondenza dell'intersezione con via Arturo Toscanini 6) - Istituzione dell'obbligo di proseguire diritto e svoltare a destra per tutti i veicoli su Largo Puglia in corrispondenza dell'intersezione con via Arturo Toscanini 7) - Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile 8) - Istituzione del divieto di accesso per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile 9) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 18/02/2026 - 23/03/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -5460,14 +5482,14 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00765 
+      <name>ORDINANZA 2026/01396 
 SENSO UNICO DI MARCIA, DIVIETO DI FERMATA AMBO I LATI, RESTRINGIMENTO DI CARREGGIATA 
 VIA ARTURO TOSCANINI, NEL TRATTO COMPRESO TRA VIA CALDAROLA E VIA PAOLO AQUILINO, NELLA DIREZIONE CHE VA DA VIA CALDAROLA VERSO VIA PAOLO AQUILINO.
 REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-18/02/2026 - 23/03/2026
+18/02/2026 - 23/04/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/00765 <br><br><br>https://drive.google.com/file/d/1ZtjSK0ZAWfJBdgOJ1rfFAaNoKwrmD8yA/view<br><br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA TOSCANINI FINO AL 23.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>2) Istituzione del senso unico di marcia per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino, nella direzione che va da via Caldarola verso via Paolo Aquilino 3) - Istituzione del divieto di fermata ambo i lati per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino 4) - Istituzione del restringimento di carreggiata per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino 5) - Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Tenente Cesare Suglia in corrispondenza dell'intersezione con via Arturo Toscanini 6) - Istituzione dell'obbligo di proseguire diritto e svoltare a destra per tutti i veicoli su Largo Puglia in corrispondenza dell'intersezione con via Arturo Toscanini 7) - Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile 8) - Istituzione del divieto di accesso per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile 9) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 18/02/2026 - 23/03/2026]]></description>
+      <description><![CDATA[PRORGATA DALLA 2026/01396<br>https://drive.google.com/file/d/1qOz8rXZocY6J9N4HUuIgRaqP3Ol5qMWZ/view<br>FINO AL 23/04/2026<br>----<br>ORDINANZA 2026/00765 <br><br>https://drive.google.com/file/d/1ZtjSK0ZAWfJBdgOJ1rfFAaNoKwrmD8yA/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA TOSCANINI FINO AL 23.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>2) Istituzione del senso unico di marcia per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino, nella direzione che va da via Caldarola verso via Paolo Aquilino 3) - Istituzione del divieto di fermata ambo i lati per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino 4) - Istituzione del restringimento di carreggiata per tutti i veicoli su via Arturo Toscanini, nel tratto compreso tra via Caldarola e via Paolo Aquilino 5) - Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Tenente Cesare Suglia in corrispondenza dell'intersezione con via Arturo Toscanini 6) - Istituzione dell'obbligo di proseguire diritto e svoltare a destra per tutti i veicoli su Largo Puglia in corrispondenza dell'intersezione con via Arturo Toscanini 7) - Istituzione dell'obbligo di svolta a destra per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile 8) - Istituzione del divieto di accesso per tutti i veicoli su via Arturo Toscanini in corrispondenza dell'intersezione con via Paolo Aquilino, per la corrente di traffico proveniente da via Gentile 9) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 18/02/2026 - 23/03/2026]]></description>
       <styleUrl>#line-E65100-5263</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -5510,14 +5532,14 @@ IMPRESA ESECUTRICE:IMPRESA INDIVIDUALE FRISULLO LUIGI
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00786
-RESTRINGIMENTO CARREGGIATA, DIVIETO DI TFERMATA
+      <name>ORDINANZA 2026/01397
+RESTRINGIMENTO CARREGGIATA, DIVIETO DI FERMATA
 VIA QUINTINO SELLA
 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI 
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-23/02/2026 - 23/03/2026
+23/02/2026 - 23/04/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/00786 <br><br><br>https://drive.google.com/file/d/1nb1jLQSDtIbD3m2_vuGLEkQpcTbGvNaC/view<br><br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA QUINTINO SELLA DAL GIORNO 23.02.2026 FINO AL GIORNO 23.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Quintino Sella, sia per la corsia riservata per autobus e taxi che per la corsia veicolare. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Quintino Sella; 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 23/02/2026 - 23/03/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA 2026/01397<br>https://drive.google.com/file/d/1EoiAuo0yNvu_IwwVL9QRj61HRU6Mu86M/view<br>FINO AL 23/04/2026<br>-----<br>ORDINANZA 2026/00786 <br><br>https://drive.google.com/file/d/1nb1jLQSDtIbD3m2_vuGLEkQpcTbGvNaC/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA QUINTINO SELLA DAL GIORNO 23.02.2026 FINO AL GIORNO 23.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Quintino Sella, sia per la corsia riservata per autobus e taxi che per la corsia veicolare. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Quintino Sella; 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br><br>Durata e tempistiche: 23/02/2026 - 23/03/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -5526,14 +5548,14 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00786
-RESTRINGIMENTO CARREGGIATA, DIVIETO DI TFERMATA
+      <name>ORDINANZA 2026/01397
+RESTRINGIMENTO CARREGGIATA, DIVIETO DI FERMATA
 VIA QUINTINO SELLA
 LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI 
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-23/02/2026 - 23/03/2026
+23/02/2026 - 23/04/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/00786 <br><br><br>https://drive.google.com/file/d/1nb1jLQSDtIbD3m2_vuGLEkQpcTbGvNaC/view<br><br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA QUINTINO SELLA DAL GIORNO 23.02.2026 FINO AL GIORNO 23.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Quintino Sella, sia per la corsia riservata per autobus e taxi che per la corsia veicolare. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Quintino Sella; 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br>Durata e tempistiche: 23/02/2026 - 23/03/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA 2026/01397<br>https://drive.google.com/file/d/1EoiAuo0yNvu_IwwVL9QRj61HRU6Mu86M/view<br>FINO AL 23/04/2026<br>-------<br>ORDINANZA 2026/00786 <br><br>https://drive.google.com/file/d/1nb1jLQSDtIbD3m2_vuGLEkQpcTbGvNaC/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI - FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU - TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP: J91B21002850001 REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU VIA QUINTINO SELLA DAL GIORNO 23.02.2026 FINO AL GIORNO 23.03.2026 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su: i) via Quintino Sella, sia per la corsia riservata per autobus e taxi che per la corsia veicolare. b) L’istituzione del divieto di fermata a tutti i veicoli su: i) via Quintino Sella; 2) Dagli obblighi e divieti di cui al punto 1) sono esclusi: i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici; ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi d’istituto e di soccorso pubblico e d’emergenza; iii) i veicoli al servizio di persone con limitate o impedite capacità motorie; iv) i veicoli diretti agli accessi carrabili privati. <br><br>Durata e tempistiche: 23/02/2026 - 23/03/2026]]></description>
       <styleUrl>#line-E65100-5069</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -5722,16 +5744,16 @@ IMPRESA ESECUTRICE: INGALLINA S.R.L.
       </LineString>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00804
+      <name>ORDINANZA 2026/01393
 ISTITUZIONE DEL RESTRINGIMENTO DI CARREGGIATA
 ISTITUZIONE DEL DIVIETO DI FERMATA
 ISTITUZIONE DI UN CAPOLINEA TEMPORANEO
 CORSO VITTORIO VENETO TRA VIA BRIGATA REGINA E PIAZZA MASSARI 
 BRT
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-23/02/2026 - 21/03/2026
+23/02/2026 - 21/04/2026
 </name>
-      <description><![CDATA[ORDINANZA 2026/00804<br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>CORSO VITTORIO VENETO NEL TRATTO STRADALE COMPRESO TRA VIA<br>BRIGATA REGINA E PIAZZA MASSARI FINO AL 21.03.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L<br>Dall’esecutività del presente provvedimento fino al 21.03.2026 sono istituiti i seguenti provvedimenti<br>temporanei di circolazione:<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) Corso Vittorio Veneto nel tratto stradale compreso tra via Brigata Regina e Piazza Massari;<br>ii) Via Brigata Regina, sulla carreggiata che percorre la corrente di traffico in direzione Corso Vittorio Veneto,<br>in prossimità della stessa intersezione con Corso Vittorio Veneto, per circa 25 metri;<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) su Corso Vittorio Veneto, ambo i lati, nel tratto stradale compreso tra via Brigata Regina e Piazza Massari;<br>c) L’istituzione di un capolinea temporaneo dei veicoli del Trasporto Pubblico Locale della Città di Bari, gestito dalla<br>società Amtab s.p.a. su:<br>i) Via Brigata Regina, sul lato destro della carreggiata che percorre la corrente di traffico in direzione Corso<br>Vittorio Veneto, in prossimità della stessa intersezione con Corso Vittorio Veneto, per circa 25 metri;<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati. <br>https://drive.google.com/file/d/1c4QtzKF27kPABKi7ik5j6zNiW7FlrPZz/view<br>TERMINE E DURATA: DAL 23/02/2026 AL 21/03/2026]]></description>
+      <description><![CDATA[PROROGATA DALLA  2026/01393<br>https://drive.google.com/file/d/1epOnE5OwEqaxcsyqr9RHfPDp_C6Pyrz8/view<br>FINO AL 21/04/2026<br>----<br>ORDINANZA 2026/00804<br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>CORSO VITTORIO VENETO NEL TRATTO STRADALE COMPRESO TRA VIA<br>BRIGATA REGINA E PIAZZA MASSARI FINO AL 21.03.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L<br>Dall’esecutività del presente provvedimento fino al 21.03.2026 sono istituiti i seguenti provvedimenti<br>temporanei di circolazione:<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) Corso Vittorio Veneto nel tratto stradale compreso tra via Brigata Regina e Piazza Massari;<br>ii) Via Brigata Regina, sulla carreggiata che percorre la corrente di traffico in direzione Corso Vittorio Veneto,<br>in prossimità della stessa intersezione con Corso Vittorio Veneto, per circa 25 metri;<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) su Corso Vittorio Veneto, ambo i lati, nel tratto stradale compreso tra via Brigata Regina e Piazza Massari;<br>c) L’istituzione di un capolinea temporaneo dei veicoli del Trasporto Pubblico Locale della Città di Bari, gestito dalla<br>società Amtab s.p.a. su:<br>i) Via Brigata Regina, sul lato destro della carreggiata che percorre la corrente di traffico in direzione Corso<br>Vittorio Veneto, in prossimità della stessa intersezione con Corso Vittorio Veneto, per circa 25 metri;<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati. <br>https://drive.google.com/file/d/1c4QtzKF27kPABKi7ik5j6zNiW7FlrPZz/view<br>TERMINE E DURATA: DAL 23/02/2026 AL 21/03/2026]]></description>
       <styleUrl>#icon-1541-E65100</styleUrl>
       <Point>
         <coordinates>
@@ -5740,15 +5762,15 @@ IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
       </Point>
     </Placemark>
     <Placemark>
-      <name>ORDINANZA 2026/00804
+      <name>ORDINANZA 2026/01393
 ISTITUZIONE DEL RESTRINGIMENTO DI CARREGGIATA
 ISTITUZIONE DEL DIVIETO DI FERMATA
 ISTITUZIONE DI UN CAPOLINEA TEMPORANEO
 CORSO VITTORIO VENETO TRA VIA BRIGATA REGINA E PIAZZA MASSARI
 BRT
 IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L.
-23/02/2026 - 21/03/2026</name>
-      <description><![CDATA[ORDINANZA 2026/00804<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>CORSO VITTORIO VENETO NEL TRATTO STRADALE COMPRESO TRA VIA<br>BRIGATA REGINA E PIAZZA MASSARI FINO AL 21.03.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L<br>Dall’esecutività del presente provvedimento fino al 21.03.2026 sono istituiti i seguenti provvedimenti<br>temporanei di circolazione:<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) Corso Vittorio Veneto nel tratto stradale compreso tra via Brigata Regina e Piazza Massari;<br>ii) Via Brigata Regina, sulla carreggiata che percorre la corrente di traffico in direzione Corso Vittorio Veneto,<br>in prossimità della stessa intersezione con Corso Vittorio Veneto, per circa 25 metri;<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) su Corso Vittorio Veneto, ambo i lati, nel tratto stradale compreso tra via Brigata Regina e Piazza Massari;<br>c) L’istituzione di un capolinea temporaneo dei veicoli del Trasporto Pubblico Locale della Città di Bari, gestito dalla<br>società Amtab s.p.a. su:<br>i) Via Brigata Regina, sul lato destro della carreggiata che percorre la corrente di traffico in direzione Corso<br>Vittorio Veneto, in prossimità della stessa intersezione con Corso Vittorio Veneto, per circa 25 metri;<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati. <br>file:///C:/Users/g.castelli.ext/Downloads/Atto20260223102506.pdf<br>TERMINE E DURATA: DAL 23/02/2026 AL 21/03/2026]]></description>
+23/02/2026 - 21/04/2026</name>
+      <description><![CDATA[PROROGATA DALLA 2026/01393<br>https://drive.google.com/file/d/1epOnE5OwEqaxcsyqr9RHfPDp_C6Pyrz8/view<br>FINO AL 21/04/2026<br>-----<br>ORDINANZA 2026/00804<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>REGOLAMENTAZIONE TEMPORANEA DELLA CIRCOLAZIONE STRADALE SU<br>CORSO VITTORIO VENETO NEL TRATTO STRADALE COMPRESO TRA VIA<br>BRIGATA REGINA E PIAZZA MASSARI FINO AL 21.03.2026<br>IMPRESA ESECUTRICE: R.T.I. COBAR S.P.A. - MER MEC STE S.R.L<br>Dall’esecutività del presente provvedimento fino al 21.03.2026 sono istituiti i seguenti provvedimenti<br>temporanei di circolazione:<br>a) L’istituzione del restringimento di carreggiata a tutti i veicoli su:<br>i) Corso Vittorio Veneto nel tratto stradale compreso tra via Brigata Regina e Piazza Massari;<br>ii) Via Brigata Regina, sulla carreggiata che percorre la corrente di traffico in direzione Corso Vittorio Veneto,<br>in prossimità della stessa intersezione con Corso Vittorio Veneto, per circa 25 metri;<br>b) L’istituzione del divieto di fermata a tutti i veicoli su:<br>i) su Corso Vittorio Veneto, ambo i lati, nel tratto stradale compreso tra via Brigata Regina e Piazza Massari;<br>c) L’istituzione di un capolinea temporaneo dei veicoli del Trasporto Pubblico Locale della Città di Bari, gestito dalla<br>società Amtab s.p.a. su:<br>i) Via Brigata Regina, sul lato destro della carreggiata che percorre la corrente di traffico in direzione Corso<br>Vittorio Veneto, in prossimità della stessa intersezione con Corso Vittorio Veneto, per circa 25 metri;<br>2) Dagli obblighi e divieti di cui al punto 1) sono esclusi:<br>i) i veicoli al servizio, ovvero di proprietà dell’impresa esecutrice dei lavori e sue subappaltatrici;<br>ii) i veicoli delle forze dell’ordine, dei vigili del fuoco e delle ambulanze durante l’espletamento di servizi<br>d’istituto e di soccorso pubblico e d’emergenza;<br>iii) i veicoli al servizio di persone con limitate o impedite capacità motorie;<br>iv) i veicoli diretti agli accessi carrabili privati. <br>file:///C:/Users/g.castelli.ext/Downloads/Atto20260223102506.pdf<br>TERMINE E DURATA: DAL 23/02/2026 AL 21/03/2026]]></description>
       <styleUrl>#line-E65100-4681</styleUrl>
       <LineString>
         <tessellate>1</tessellate>
@@ -8701,6 +8723,491 @@ LAVORI DI COSTRUZIONE IMPIANTO IDRICO
       <Point>
         <coordinates>
           16.8225,41.133419,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA N. 2026/01379
+DIVIETO DI FERMATA AD ESCLUSIONE DEI MEZZI AL SERVIZIO DELLA
+DITTA LA PULISAN SRL IN VIA DAVIDE LOPEZ DAL CIVICO 10 AL CIVICO 24
+PER LUNEDÌ 23 MARZO 2026.
+S23013 ACCORDO QUADRO PER IL SERVIZIO DI PULIZIA E IGIENE
+AMBIENTALE, INTEGRATO PER FAR FRONTE ALL’EMERGENZE DEGLI
+IMMOBILI SEDE DEGLI UFFICI DEL COMUNE DI BARI PER 36 MESI
+CONTRATTO ATTUATIVO N.11 FINALIZZATO ALLE ATTIVITÀ DI RIMOZIONE
+DI COSE E SUPPELLETTILI, COMPRESO LO SMALTIMENTO A DISCARICA
+AUTORIZZATA, PRESSO I LOCALI GIÀ ADIBITI A DEPOSITO DEL SETTORE
+ECONOMANTO DELLA RIPARTIZIONE SERVIZIO FINANZIARIO
+IMPRESA: DITTA LA PULISAN SRL
+TERMINE E DURATA: 23/03/2026
+</name>
+      <description><![CDATA[ORDINANZA N. 2026/01379<br>DIVIETO DI FERMATA AD ESCLUSIONE DEI MEZZI AL SERVIZIO DELLA<br>DITTA LA PULISAN SRL IN VIA DAVIDE LOPEZ DAL CIVICO 10 AL CIVICO 24<br>PER LUNEDÌ 23 MARZO 2026.<br>S23013 ACCORDO QUADRO PER IL SERVIZIO DI PULIZIA E IGIENE<br>AMBIENTALE, INTEGRATO PER FAR FRONTE ALL’EMERGENZE DEGLI<br>IMMOBILI SEDE DEGLI UFFICI DEL COMUNE DI BARI PER 36 MESI<br>CONTRATTO ATTUATIVO N.11 FINALIZZATO ALLE ATTIVITÀ DI RIMOZIONE<br>DI COSE E SUPPELLETTILI, COMPRESO LO SMALTIMENTO A DISCARICA<br>AUTORIZZATA, PRESSO I LOCALI GIÀ ADIBITI A DEPOSITO DEL SETTORE<br>ECONOMANTO DELLA RIPARTIZIONE SERVIZIO FINANZIARIO<br><br>https://drive.google.com/file/d/14TVf4v75FTPZoH3MtNr7TTHc7Je3T4YQ/view<br>lunedì 23 marzo 2026 sono istituiti:<br>1. divieto di fermata e sosta ad esclusione dei mezzi al servizio della Ditta La Pulisan srl su via<br>Davide Lopez dal civico 10 al civico 24<br>E’ fatto obbligo a tutti gli utenti della strada e ai conducenti di veicoli di rispettare quanto stabilito dal presente disposto.<br>Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e divengono<br>nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto.<br>Alla ditta esecutrice dei lavori è fatto obbligo di:<br>Installare, in esecuzione alla presente ordinanza dirigenziale, la segnaletica stradale mobile, debitamente zavorrata per<br>renderla stabile e non facilmente rimovibile, come prevista e descritta al punto 4 del disposto, non meno di 48 ore<br>prima dell’inizio dei lavori per rendere noto all’utenza il provvedimento prescrittivo (N.C.d.S. Decreto Legislativo n. 285<br>del 30.4.92 Art.6 (a) co. 4 lett. f).<br>Apporre la segnaletica di cantiere prevista dal D.M. Infrastrutture e Trasporti 10 luglio 2002, pubblicato sulla G.U. n.<br>226, del 26 settembre 2002 (con specifico riferimento alla tav. 84), che disciplina gli adempimenti connessi ai<br>segnalamenti temporanei per lavori stradali e dal Decreto Legislativo n. 81 del 9 aprile 2008 testo unico sulla salute e<br>sicurezza sul lavoro e s.m.i.;<br>Consentire l’ingresso e l’uscita pedonale e veicolare dei residenti in considerazione degli accessi laterali ivi esistenti;<br>Apporre la segnaletica stradale in modo non facilmente spostabile dai luoghi interessati ai lavori;<br>Consentire il transito e lo stazionamento dei mezzi al servizio della forza pubblica e di soccorso pubblico<br>e privato nell’area interessata dai lavori in argomento a richiesta degli agenti del traffico, liberando tempestivamente<br>l’area in argomento da ogni veicolo in sosta;<br>Installare e mantenere a proprie spese la segnaletica stradale di preavviso delle limitazioni nonché quella conforme a<br>quanto disposto dall’art. 21 del D.Lgs. n. 285 del 30.4.1992 e dagli artt. 30, 31, 32, 34, 37, 38, 40 e 42 del<br>Regolamento di attuazione ed esecuzione del N.C.d.S. <br>TERMINE E DURATA: 23/03/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8507801,41.1261995,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA N. 2026/01381
+RESTRINGIMENTO CARREGGIATA,
+DIVIETO DI SOSTA SU CORSO ALCIDE DE GASPERI 431 CARBONARA (BA)
+PER LAVORI DI COSTRUZIONE IMPIANTO IDRICO DAL 30/03/2026 AL
+11/04/2026.
+IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
+ISTANTE: AQP S.P.A.
+TERMINE E DURATA: 30/03/2026 AL 11/04/2026
+</name>
+      <description><![CDATA[ORDINANZA N. 2026/01381<br>RESTRINGIMENTO CARREGGIATA,<br>DIVIETO DI SOSTA SU CORSO ALCIDE DE GASPERI 431 CARBONARA (BA)<br>PER LAVORI DI COSTRUZIONE IMPIANTO IDRICO DAL 30/03/2026 AL<br>11/04/2026.<br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br>TERMINE E DURATA: 30/03/2026 AL 11/04/2026<br><br>https://drive.google.com/file/d/1b7j-shWOnPOihEKlYHQwg80cFqnmUoHG/viewL’istituzione temporanea del restringimento carreggiata, divieto di sosta su via Trisorio Liuzzi per i lavori di costruzione impianto idrico e fognario;<br>L’istituzione temporanea del restringimento carreggiata, divieto di sosta su Corso Alcide de Gasperi civ.<br>431 con i lavori di costruzione impianto idrico;<br>2. Durante l’esecuzione dei lavori la sicurezza e fluidità della circolazione stradale, dovrà essere garantita<br>dalla presenza costante di movieri muniti della prescritto e idoneo equipaggiamento, che dovranno<br>sovraintendere alle eventuali necessità della circolazione stradale (senso unico alternato, transito mezzi di<br>soccorso e/o di polizia ecc.)<br>3. Dovranno essere assicurati gli accessi privati;<br>4. Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria;<br>5. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA: 30/03/2026 AL 11/04/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8700234,41.0918737,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA N. 2026/01380
+DIVIETO DI SOSTA SU VIA TRISORIO LIUZZI PER LAVORI DI COSTRUZIONE
+IMPIANTO IDRICO E FOGNARIO
+ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA,
+IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”
+ISTANTE: AQP S.P.A.
+TERMINE E DURATA:DAL 30/03/2026 AL 11/04/2026.
+</name>
+      <description><![CDATA[ORDINANZA N. 2026/01380<br>DIVIETO DI SOSTA SU VIA TRISORIO LIUZZI PER LAVORI DI COSTRUZIONE<br>IMPIANTO IDRICO E FOGNARIO<br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO CARREGGIATA,<br>IMPRESA: IMPRESA INDIVIDUALE “FRISULLO LUIGI”<br>ISTANTE: AQP S.P.A.<br>TERMINE E DURATA:DAL 30/03/2026 AL 11/04/2026.<br><br>https://drive.google.com/file/d/1eaNAr4VfdzYS-lFvmfWXl524lutmRSX3/view<br>L’istituzione temporanea del restringimento carreggiata, divieto di sosta su via Trisorio Liuzzi per i lavori<br>di costruzione impianto idrico e fognario;<br>2. Durante l’esecuzione dei lavori la sicurezza e fluidità della circolazione stradale, dovrà essere garantita<br>dalla presenza costante di movieri muniti della prescritto e idoneo equipaggiamento, che dovranno<br>sovraintendere alle eventuali necessità della circolazione stradale (senso unico alternato, transito mezzi di<br>soccorso e/o di polizia ecc.)<br>3. Dovranno essere assicurati gli accessi privati;<br>4. Particolare attenzione dovrà essere posta ai pedoni e alle persone con ridotta capacità motoria;<br>5. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>TERMINE E DURATA:DAL 30/03/2026 AL 11/04/2026.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8617027,41.0776786,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01398
+RESTRINGIMENTO DI CARREGGIATA, SENSO UNICO ALTERNATO, DIVIETO DI FERMATA SUI TRATTI INTERESSATI DAI LAVORI
+LUNGOMARE DI CROLLANZA
+LUNGOMARE IMPERATORE AUGUSTO
+INSTALLAZIONE DEGLI IMPIANTI PUBBLICITARI VAIMOO SRL
+IMPRESA ESECUTRICE: ARES S.R.L.
+23/03/2026 - 10/04/2026</name>
+      <description><![CDATA[Ordinanza 2026/01398<br><br>https://drive.google.com/file/d/1Xh0wBpyzb3c2Dv_VsZHloavJ2K07U-F-/view<br><br>ISTITUZIONE DI PROVVEDIMENTI TEMPORANEI E DEROGHE AI DIVIETI ALLA<br>CIRCOLAZIONE NEL CENTRO CITTADINO PER L’ESECUZIONE LAVORI DI<br>INSTALLAZIONE DEGLI IMPIANTI PUBBLICITARI SU SUOLO PUBBLICO CITTÀ<br>DI BARI PREVISTI DAL CONTRATTO DI CONCESSIONE DEL SERVIZIO DI<br>BIKE SHARING PER LA CITTÀ DI BARI<br>RICHIEDENTE: VAIMOO S.R.L. CON SEDE IN MOLA DI BARI – VIA SAN<br>SABINO 21 – C.F./P.IVA 01120060775<br>DITTA ESECUTRICE: ARES S.R.L., CON SEDE IN MARTINA FRANCA (TA), VIA<br>COLLETTA 10<br><br>Nello specifico: <br> P21 – Lungomare di Crollalanza<br> P27 – Lungomare Imperatore Augusto<br><br>1. Sono istituiti i seguenti provvedimenti di circolazione stradale temporanei, laddove necessari per la corretta<br>esecuzione dei lavori:<br>1.1 Divieto di fermata sui tratti di strada interessati dai lavori, lungo un margine o entrambi i margini della<br>carreggiata;<br>1.2 Transito a senso unico alternato nel tempo, regolato ai sensi dall’art. 42, comma 2 del D.P.R. 16 dicembre<br>1992, n. 495, qualora la presenza dei lavori e del cantiere mobile - su strade percorribili secondo entrambi i<br>sensi di marcia - determini un restringimento della carreggiata inferiore in larghezza a 5,60 metri. In tal<br>caso occorrerà regolare il passaggio dei veicoli nel tempo ai sensi del comma 3 dell’articolo 42;<br>1.3 Autorizzazione temporanea al transito e alla sosta nell’area pedonale;<br>1.4 Deroga temporanea al divieto di sosta;<br>1.5 Restringimento della carreggiata;<br><br>DURATA E TEMPISTICHE: 23/03/2026 - 10/04/2026]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8795285,41.1224898,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA 2026/01398
+RESTRINGIMENTO DI CARREGGIATA, SENSO UNICO ALTERNATO, DIVIETO DI FERMATA SUI TRATTI INTERESSATI DAI LAVORI
+LUNGOMARE DI CROLLANZA
+LUNGOMARE IMPERATORE AUGUSTO
+INSTALLAZIONE DEGLI IMPIANTI PUBBLICITARI VAIMOO SRL
+IMPRESA ESECUTRICE: ARES S.R.L.
+23/03/2026 - 10/04/2026
+</name>
+      <description><![CDATA[Ordinanza 2026/01398<br><br>https://drive.google.com/file/d/1Xh0wBpyzb3c2Dv_VsZHloavJ2K07U-F-/view<br><br>ISTITUZIONE DI PROVVEDIMENTI TEMPORANEI E DEROGHE AI DIVIETI ALLA<br>CIRCOLAZIONE NEL CENTRO CITTADINO PER L’ESECUZIONE LAVORI DI<br>INSTALLAZIONE DEGLI IMPIANTI PUBBLICITARI SU SUOLO PUBBLICO CITTÀ<br>DI BARI PREVISTI DAL CONTRATTO DI CONCESSIONE DEL SERVIZIO DI<br>BIKE SHARING PER LA CITTÀ DI BARI<br>RICHIEDENTE: VAIMOO S.R.L. CON SEDE IN MOLA DI BARI – VIA SAN<br>SABINO 21 – C.F./P.IVA 01120060775<br>DITTA ESECUTRICE: ARES S.R.L., CON SEDE IN MARTINA FRANCA (TA), VIA<br>COLLETTA 10<br><br>Nello specifico: <br> P21 – Lungomare di Crollalanza<br> P27 – Lungomare Imperatore Augusto<br><br>1. Sono istituiti i seguenti provvedimenti di circolazione stradale temporanei, laddove necessari per la corretta<br>esecuzione dei lavori:<br>1.1 Divieto di fermata sui tratti di strada interessati dai lavori, lungo un margine o entrambi i margini della<br>carreggiata;<br>1.2 Transito a senso unico alternato nel tempo, regolato ai sensi dall’art. 42, comma 2 del D.P.R. 16 dicembre<br>1992, n. 495, qualora la presenza dei lavori e del cantiere mobile - su strade percorribili secondo entrambi i<br>sensi di marcia - determini un restringimento della carreggiata inferiore in larghezza a 5,60 metri. In tal<br>caso occorrerà regolare il passaggio dei veicoli nel tempo ai sensi del comma 3 dell’articolo 42;<br>1.3 Autorizzazione temporanea al transito e alla sosta nell’area pedonale;<br>1.4 Deroga temporanea al divieto di sosta;<br>1.5 Restringimento della carreggiata;<br><br>DURATA E TEMPISTICHE: 23/03/2026 - 10/04/2026]]></description>
+      <styleUrl>#line-E65100-4294</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8795945,41.1222856,0
+          16.8781809,41.1227907,0
+          16.8770732,41.1233423,0
+          16.8754666,41.1242374,0
+          16.8744178,41.1248213,0
+          16.8726449,41.125785,0
+          16.8725483,41.1262093,0
+          16.8724625,41.1270862,0
+          16.8725763,41.1274303,0
+          16.8731255,41.1277435,0
+          16.8739469,41.1280707,0
+          16.8741159,41.1282101,0
+          16.8741555,41.128285,0
+          16.873898,41.1285314,0
+          16.8729753,41.1289759,0
+          16.8722886,41.1293396,0
+          16.8719426,41.1295295,0
+          16.871551,41.1298669,0
+          16.8712667,41.130382,0
+          16.8712184,41.1307174,0
+          16.8712319,41.1310992,0
+          16.8714625,41.131774,0
+          16.8715323,41.1319821,0
+          16.8716363,41.132429,0
+          16.8716229,41.1327279,0
+          16.8714733,41.1330084,0
+          16.871307,41.1331861,0
+          16.8710977,41.1332791,0
+          16.8706203,41.1333518,0
+          16.8703682,41.1333477,0
+          16.8702206,41.1333375,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA N. 2026/01401
+DIVIETO DI SOSTA PER LAVORI DI POTATURA IN VIA ZARA – BARI –
+
+CARBONARA, 26 MARZO 2026.
+
+Il giorno 26 marzo 2026, dalle ore 06.00 alle ore 17.00 e, comunque, fino al termine delle
+esigenze, è istituito il “DIVIETO DI FERMATA” sulla via Zara in Bari – Carbonara, ambo i lati del
+tratto compreso tra il civ. 7 ed il civico 15 (prospiciente il muro perimetrale della proprietà con
+accesso al civ. 11).
+TERMINE E DURATA: 26/03/2026 DALLE 06:00 - 17:00
+
+https://drive.google.com/file/d/1BclpLJvJiXdWwFmYtlWE7lZEGJZT1lZw/view
+</name>
+      <description><![CDATA[ORDINANZA N. 2026/01401<br>DIVIETO DI SOSTA PER LAVORI DI POTATURA IN VIA ZARA – BARI –<br><br>CARBONARA, 26 MARZO 2026.<br><br>Il giorno 26 marzo 2026, dalle ore 06.00 alle ore 17.00 e, comunque, fino al termine delle<br>esigenze, è istituito il “DIVIETO DI FERMATA” sulla via Zara in Bari – Carbonara, ambo i lati del<br>tratto compreso tra il civ. 7 ed il civico 15 (prospiciente il muro perimetrale della proprietà con<br>accesso al civ. 11).<br>TERMINE E DURATA: 26/03/2026 DALLE 06:00 - 17:00<br><br>https://drive.google.com/file/d/1BclpLJvJiXdWwFmYtlWE7lZEGJZT1lZw/view]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8778413,41.121939,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA N. 2026/01392
+DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI SU CORSO ITALIA DA
+ANGOLO VIA QUINTINO SELLA AD ANGOLO VIA BEATA CLEMENTE ; VIA
+BEATA CLEMENTE DAL CIV .236 AD ANGOLO VIA SCIPIONE CRISANZIO ; VIA
+VITO FORNARI DAL CIV . 19 AD ANGOLO VIA BEATA CLEMENTE ; VIA
+SCIPIONE CRISANZIO DAL CIV . 29 AD ANGOLO VIA QUINTINO SELLA ; - VIA
+QUINTINO SELLA DAL CIV . 204 AL CIV . 230 ; VIA SCIPIONE CRISANZIO DAL
+CIV . 50 AD ANGOLO VIA GIUSEPPE SUPPA PER LAVORI DI SCAVO PER
+POSA IMPIANTI SU SEDE STRADALE DAL GIORNO 25/03/2026 AL GIORNO
+31/12/ 2026 DALLE ORE 07:30 ALLE ORE 19:00.
+Corso Italia da Angolo Via Quintino Sella ad Angolo Via Beata Clemente ;
+ Via Beata Clemente dal civ .236 ad Angolo Via Scipione Crisanzio ;
+ Via Vito Fornari dal civ . 19 ad Angolo Via Beata Clemente ;
+ Via Scipione Crisanzio dal civ . 29 ad Angolo Via Quintino Sella ;
+ Via Quintino Sella dal civ . 204 al civ . 230 ;
+ Via Scipione Crisanzio dal civ . 50 ad Angolo Via Giuseppe Suppa.
+IMPRESA: PATANO IMPIANTI & COSTRUZIONI S.R.L.
+termine e durata: DAL 23/03/2026 AL 31/12/2026 DALLE ORE 07:30 ALLE ORE 19:00.
+
+https://drive.google.com/file/d/1qtTaaH-YK5pmkIF12zsof4gdAucvSara/view
+]]></name>
+      <description><![CDATA[ORDINANZA N. 2026/01392<br>DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI SU CORSO ITALIA DA<br>ANGOLO VIA QUINTINO SELLA AD ANGOLO VIA BEATA CLEMENTE ; VIA<br>BEATA CLEMENTE DAL CIV .236 AD ANGOLO VIA SCIPIONE CRISANZIO ; VIA<br>VITO FORNARI DAL CIV . 19 AD ANGOLO VIA BEATA CLEMENTE ; VIA<br>SCIPIONE CRISANZIO DAL CIV . 29 AD ANGOLO VIA QUINTINO SELLA ; - VIA<br>QUINTINO SELLA DAL CIV . 204 AL CIV . 230 ; VIA SCIPIONE CRISANZIO DAL<br>CIV . 50 AD ANGOLO VIA GIUSEPPE SUPPA PER LAVORI DI SCAVO PER<br>POSA IMPIANTI SU SEDE STRADALE DAL GIORNO 25/03/2026 AL GIORNO<br>31/12/ 2026 DALLE ORE 07:30 ALLE ORE 19:00.<br>Corso Italia da Angolo Via Quintino Sella ad Angolo Via Beata Clemente ;<br> Via Beata Clemente dal civ .236 ad Angolo Via Scipione Crisanzio ;<br> Via Vito Fornari dal civ . 19 ad Angolo Via Beata Clemente ;<br> Via Scipione Crisanzio dal civ . 29 ad Angolo Via Quintino Sella ;<br> Via Quintino Sella dal civ . 204 al civ . 230 ;<br> Via Scipione Crisanzio dal civ . 50 ad Angolo Via Giuseppe Suppa.<br>https://drive.google.com/file/d/1qtTaaH-YK5pmkIF12zsof4gdAucvSara/view<br>termine e durata: DAL 23/03/2026 AL 31/12/2026 DALLE ORE 07:30 ALLE ORE 19:00.]]></description>
+      <styleUrl>#line-E65100-2938</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8648004,41.1183784,0
+          16.8658519,41.1184552,0
+          16.8657821,41.1191382,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[ORDINANZA N. 2026/01392
+DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI SU CORSO ITALIA DA
+ANGOLO VIA QUINTINO SELLA AD ANGOLO VIA BEATA CLEMENTE ; VIA
+BEATA CLEMENTE DAL CIV .236 AD ANGOLO VIA SCIPIONE CRISANZIO ; VIA
+VITO FORNARI DAL CIV . 19 AD ANGOLO VIA BEATA CLEMENTE ; VIA
+SCIPIONE CRISANZIO DAL CIV . 29 AD ANGOLO VIA QUINTINO SELLA ; - VIA
+QUINTINO SELLA DAL CIV . 204 AL CIV . 230 ; VIA SCIPIONE CRISANZIO DAL
+CIV . 50 AD ANGOLO VIA GIUSEPPE SUPPA PER LAVORI DI SCAVO PER
+POSA IMPIANTI SU SEDE STRADALE DAL GIORNO 25/03/2026 AL GIORNO
+31/12/ 2026 DALLE ORE 07:30 ALLE ORE 19:00.
+Corso Italia da Angolo Via Quintino Sella ad Angolo Via Beata Clemente ;
+ Via Beata Clemente dal civ .236 ad Angolo Via Scipione Crisanzio ;
+ Via Vito Fornari dal civ . 19 ad Angolo Via Beata Clemente ;
+ Via Scipione Crisanzio dal civ . 29 ad Angolo Via Quintino Sella ;
+ Via Quintino Sella dal civ . 204 al civ . 230 ;
+ Via Scipione Crisanzio dal civ . 50 ad Angolo Via Giuseppe Suppa.
+IMPRESA: PATANO IMPIANTI & COSTRUZIONI S.R.L.
+termine e durata: DAL 23/03/2026 AL 31/12/2026 DALLE ORE 07:30 ALLE ORE 19:00.
+
+https://drive.google.com/file/d/1qtTaaH-YK5pmkIF12zsof4gdAucvSara/view
+
+]]></name>
+      <description><![CDATA[ORDINANZA N. 2026/01392<br>DIVIETO DI SOSTA CON RIMOZIONE FORZATA AMBO I LATI SU CORSO ITALIA DA<br>ANGOLO VIA QUINTINO SELLA AD ANGOLO VIA BEATA CLEMENTE ; VIA<br>BEATA CLEMENTE DAL CIV .236 AD ANGOLO VIA SCIPIONE CRISANZIO ; VIA<br>VITO FORNARI DAL CIV . 19 AD ANGOLO VIA BEATA CLEMENTE ; VIA<br>SCIPIONE CRISANZIO DAL CIV . 29 AD ANGOLO VIA QUINTINO SELLA ; - VIA<br>QUINTINO SELLA DAL CIV . 204 AL CIV . 230 ; VIA SCIPIONE CRISANZIO DAL<br>CIV . 50 AD ANGOLO VIA GIUSEPPE SUPPA PER LAVORI DI SCAVO PER<br>POSA IMPIANTI SU SEDE STRADALE DAL GIORNO 25/03/2026 AL GIORNO<br>31/12/ 2026 DALLE ORE 07:30 ALLE ORE 19:00.<br>Corso Italia da Angolo Via Quintino Sella ad Angolo Via Beata Clemente ;<br> Via Beata Clemente dal civ .236 ad Angolo Via Scipione Crisanzio ;<br> Via Vito Fornari dal civ . 19 ad Angolo Via Beata Clemente ;<br> Via Scipione Crisanzio dal civ . 29 ad Angolo Via Quintino Sella ;<br> Via Quintino Sella dal civ . 204 al civ . 230 ;<br> Via Scipione Crisanzio dal civ . 50 ad Angolo Via Giuseppe Suppa.<br>https://drive.google.com/file/d/1qtTaaH-YK5pmkIF12zsof4gdAucvSara/view<br>termine e durata: DAL 23/03/2026 AL 31/12/2026 DALLE ORE 07:30 ALLE ORE 19:00.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8658358,41.1190856,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA N. 2026/01390
+AUTORIZZAZIONE TEMPORANEA AL TRANSITO DEI MEZZI SUPERIORI AI 35
+
+Q.LI, IN DEROGA ALL’ORDINANZA SINDACALE N. 2322 DEL 20.3.1991
+ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA,
+SENSO UNICO ALTERNATO E DEROGA AL DIVIETO DI SOSTA SU VIA VIA
+CRISPI 47-55, TRATTO COMPRESO TRA VIA RAVANAS E VIA TREVISANI E
+PER UN’ESTENSIONE DI CIRCA 15 M,PER IL POSIZIONAMENTO DI
+AUTOMEZZI PER IL GIORNO 24/03/2026 DALLE ORE 07.00 ALLE ORE 13.00
+RICHIEDENTE:SIG.RA PANARO PAOLA
+TERMINE E DURATA: DAL 24/03/2026 DALLE ORE 07.00 ALLE ORE 13.00
+
+
+https://drive.google.com/file/d/1AGX9OaV7fjablKghgYFUra9h_DdOXa4Z/view
+
+</name>
+      <description><![CDATA[ORDINANZA N. 2026/01390<br>AUTORIZZAZIONE TEMPORANEA AL TRANSITO DEI MEZZI SUPERIORI AI 35<br><br>Q.LI, IN DEROGA ALL’ORDINANZA SINDACALE N. 2322 DEL 20.3.1991<br>ISTITUZIONE TEMPORANEA DEL RESTRINGIMENTO DI CARREGGIATA,<br>SENSO UNICO ALTERNATO E DEROGA AL DIVIETO DI SOSTA SU VIA VIA<br>CRISPI 47-55, TRATTO COMPRESO TRA VIA RAVANAS E VIA TREVISANI E<br>PER UN’ESTENSIONE DI CIRCA 15 M,PER IL POSIZIONAMENTO DI<br>AUTOMEZZI PER IL GIORNO 24/03/2026 DALLE ORE 07.00 ALLE ORE 13.00<br>RICHIEDENTE:SIG.RA PANARO PAOLA<br>TERMINE E DURATA: DAL 24/03/2026 DALLE ORE 07.00 ALLE ORE 13.00<br><br><br>https://drive.google.com/file/d/1AGX9OaV7fjablKghgYFUra9h_DdOXa4Z/view<br>per il giorno 24/03/2026 dalle ore 07.00 alle ore 13.00,e’ istituito:<br><br> In deroga all’Ordinanza Sindacale n. 2322 del 20.3.1991, E’ CONSENTITO IL TRANSITO all’ interno del perimetro individuato dalla stessa: via<br>B. Regina – via B. Bari – via Capruzzi – via Oberdan – via Di Vagno – lungomare Nazario Sauro – lungomare A. Di Crollalanza – p.zza<br>IV Novembre – c.so V. Emanuele, ai veicoli al servizio del Sig.ra PANARO PAOLA;<br> Restringimento di carreggiata con senso unico alternato su via VIA CRISPI 47-55 tratto compreso tra via Ravanas e via Trevisani e per<br>un’estensione di circa 15 m,,<br> divieto di sosta con rimozione forzata ad esclusione dei mezzi al servizio della Sig.ra PANARO PAOLA su VIA CRISPI 47-55, tratto compreso<br>tra via Ravanas e via Trevisani e per un’estensione di circa 15 m,.<br> Spostamento temporaneo stallo riservato alla fermata dei Bus Amtab tra i civ. 47 e 55 ai civici 59 e 65 ;<br><br>E’ istituita la graduazione della velocità in avvicinamento alla zona interessata dalle limitazioni suddette, così come definito al punto 4.1 del D.M.<br>Infrastrutture e Trasporti 10 luglio 2002, pubblicato sulla G.U. n. 226 del 26 settembre 2002, con limite massimo pari a trenta chilometri orari.<br>I restringimenti della carreggiata dovranno essere attuati lasciando percorribile una corsia, di larghezza non inferiore a m 3.50.<br>I veicoli al servizio dell’impresa esecutrice dei lavori potranno transitare e sostare sulla porzione di carreggiata interessata dagli scavi esclusivamente<br>durante le ore di lavoro.<br>Tutte le ordinanze sindacali in contrasto con la presente sono provvisoriamente sospese e divengono nuovamente efficaci al raggiungimento dei termini<br>previsti dal presente disposto.<br>La segnaletica di proprietà dell’Amministrazione non potrà essere in alcun caso rimossa o modificata per adattarla alle esigenze di cantiere o per eseguire il<br>disposto della presente ordinanza, ma dovrà essere opportunamente oscurata con dispositivi appropriati e omologati, in modo da evitare che si crei<br>insicurezza e incertezza nella lettura dei divieti e prescrizioni imposti dal piano di segnalamento temporaneo per lavori in ambito stradale.]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8593248,41.126404,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA N. 2026/01389
+
+DIVIETO DI SOSTA
+AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA
+SU CORSO ITALIA, DA VIA SAGARRIGA VISCONTI A VIA TREVISANI, VIA
+TREVISANI DA CORSO ITALIA A VIA CRISANZIO, VIA CRISANZIO DAL CIVICO
+169/A A VIA TREVISANI, VIA CRISANZIO DA VIA TREVISANI AL CIVICO 202 DI
+VIA CRISANZIO DAL 23 MARZO 2026 AL 30 APRILE 2026 DALLE ORE 07.00
+ALLE ORE 17.00
+IMPRESA: DMF COSTRUZIONI S.R.L.
+ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF
+COSTRUZIONI S.R.L.)
+L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento
+carreggiata su:
+1. Corso Italia: Da via Sagarriga Visconti a Via Trevisani
+2. Via Trevisani: Da Corso Italia a Via Crisanzio
+3. Via Crisanzio: Da dal civico 169/A a via Trevisani
+4. Via Crisanzio: Da Via Trevisani al civico 202 di via Crisanzio
+5. Al fine della sicurezza pedonale e veicolare, verranno utilizzati i movieri per la gestione della mobilità e
+l’utilizzo di transenne metalliche modulari (di dimensioni 3,00 x 2,00) per la delimitazione diurna e
+notturna del cantiere;
+3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e
+
+divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;
+termine e durata: 23/03/206 al 30/04/2026 DALLE ORE 07.00
+ALLE ORE 17.00
+
+https://drive.google.com/file/d/1wmF81ytOYFkGp_zY_GZ-docSXdCMibxZ/view</name>
+      <description><![CDATA[ORDINANZA N. 2026/01389<br><br>DIVIETO DI SOSTA<br>AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA<br>SU CORSO ITALIA, DA VIA SAGARRIGA VISCONTI A VIA TREVISANI, VIA<br>TREVISANI DA CORSO ITALIA A VIA CRISANZIO, VIA CRISANZIO DAL CIVICO<br>169/A A VIA TREVISANI, VIA CRISANZIO DA VIA TREVISANI AL CIVICO 202 DI<br>VIA CRISANZIO DAL 23 MARZO 2026 AL 30 APRILE 2026 DALLE ORE 07.00<br>ALLE ORE 17.00<br>IMPRESA: DMF COSTRUZIONI S.R.L.<br>ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF<br>COSTRUZIONI S.R.L.)<br>L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento<br>carreggiata su:<br>1. Corso Italia: Da via Sagarriga Visconti a Via Trevisani<br>2. Via Trevisani: Da Corso Italia a Via Crisanzio<br>3. Via Crisanzio: Da dal civico 169/A a via Trevisani<br>4. Via Crisanzio: Da Via Trevisani al civico 202 di via Crisanzio<br>5. Al fine della sicurezza pedonale e veicolare, verranno utilizzati i movieri per la gestione della mobilità e<br>l’utilizzo di transenne metalliche modulari (di dimensioni 3,00 x 2,00) per la delimitazione diurna e<br>notturna del cantiere;<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br><br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>termine e durata: 23/03/206 al 30/04/2026 DALLE ORE 07.00<br>ALLE ORE 17.00<br><br>https://drive.google.com/file/d/1wmF81ytOYFkGp_zY_GZ-docSXdCMibxZ/view]]></description>
+      <styleUrl>#line-E65100-3325</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8599722,41.122129,0
+          16.8631997,41.1223214,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA N. 2026/01389
+
+DIVIETO DI SOSTA
+AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA
+SU CORSO ITALIA, DA VIA SAGARRIGA VISCONTI A VIA TREVISANI, VIA
+TREVISANI DA CORSO ITALIA A VIA CRISANZIO, VIA CRISANZIO DAL CIVICO
+169/A A VIA TREVISANI, VIA CRISANZIO DA VIA TREVISANI AL CIVICO 202 DI
+VIA CRISANZIO DAL 23 MARZO 2026 AL 30 APRILE 2026 DALLE ORE 07.00
+ALLE ORE 17.00
+IMPRESA: DMF COSTRUZIONI S.R.L.
+ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF
+COSTRUZIONI S.R.L.)
+L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento
+carreggiata su:
+1. Corso Italia: Da via Sagarriga Visconti a Via Trevisani
+2. Via Trevisani: Da Corso Italia a Via Crisanzio
+3. Via Crisanzio: Da dal civico 169/A a via Trevisani
+4. Via Crisanzio: Da Via Trevisani al civico 202 di via Crisanzio
+5. Al fine della sicurezza pedonale e veicolare, verranno utilizzati i movieri per la gestione della mobilità e
+l’utilizzo di transenne metalliche modulari (di dimensioni 3,00 x 2,00) per la delimitazione diurna e
+notturna del cantiere;
+3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e
+
+divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;
+termine e durata: 23/03/206 al 30/04/2026 DALLE ORE 07.00
+ALLE ORE 17.00
+
+https://drive.google.com/file/d/1wmF81ytOYFkGp_zY_GZ-docSXdCMibxZ/view</name>
+      <description><![CDATA[ORDINANZA N. 2026/01389<br><br>DIVIETO DI SOSTA<br>AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA<br>SU CORSO ITALIA, DA VIA SAGARRIGA VISCONTI A VIA TREVISANI, VIA<br>TREVISANI DA CORSO ITALIA A VIA CRISANZIO, VIA CRISANZIO DAL CIVICO<br>169/A A VIA TREVISANI, VIA CRISANZIO DA VIA TREVISANI AL CIVICO 202 DI<br>VIA CRISANZIO DAL 23 MARZO 2026 AL 30 APRILE 2026 DALLE ORE 07.00<br>ALLE ORE 17.00<br>IMPRESA: DMF COSTRUZIONI S.R.L.<br>ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF<br>COSTRUZIONI S.R.L.)<br>L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento<br>carreggiata su:<br>1. Corso Italia: Da via Sagarriga Visconti a Via Trevisani<br>2. Via Trevisani: Da Corso Italia a Via Crisanzio<br>3. Via Crisanzio: Da dal civico 169/A a via Trevisani<br>4. Via Crisanzio: Da Via Trevisani al civico 202 di via Crisanzio<br>5. Al fine della sicurezza pedonale e veicolare, verranno utilizzati i movieri per la gestione della mobilità e<br>l’utilizzo di transenne metalliche modulari (di dimensioni 3,00 x 2,00) per la delimitazione diurna e<br>notturna del cantiere;<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br><br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>termine e durata: 23/03/206 al 30/04/2026 DALLE ORE 07.00<br>ALLE ORE 17.00<br><br>https://drive.google.com/file/d/1wmF81ytOYFkGp_zY_GZ-docSXdCMibxZ/view]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8615172,41.1222414,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA N. 2026/01389
+
+DIVIETO DI SOSTA
+AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA
+SU CORSO ITALIA, DA VIA SAGARRIGA VISCONTI A VIA TREVISANI, VIA
+TREVISANI DA CORSO ITALIA A VIA CRISANZIO, VIA CRISANZIO DAL CIVICO
+169/A A VIA TREVISANI, VIA CRISANZIO DA VIA TREVISANI AL CIVICO 202 DI
+VIA CRISANZIO DAL 23 MARZO 2026 AL 30 APRILE 2026 DALLE ORE 07.00
+ALLE ORE 17.00
+IMPRESA: DMF COSTRUZIONI S.R.L.
+ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF
+COSTRUZIONI S.R.L.)
+L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento
+carreggiata su:
+1. Corso Italia: Da via Sagarriga Visconti a Via Trevisani
+2. Via Trevisani: Da Corso Italia a Via Crisanzio
+3. Via Crisanzio: Da dal civico 169/A a via Trevisani
+4. Via Crisanzio: Da Via Trevisani al civico 202 di via Crisanzio
+5. Al fine della sicurezza pedonale e veicolare, verranno utilizzati i movieri per la gestione della mobilità e
+l’utilizzo di transenne metalliche modulari (di dimensioni 3,00 x 2,00) per la delimitazione diurna e
+notturna del cantiere;
+3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e
+
+divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;
+termine e durata: 23/03/206 al 30/04/2026 DALLE ORE 07.00
+ALLE ORE 17.00
+
+https://drive.google.com/file/d/1wmF81ytOYFkGp_zY_GZ-docSXdCMibxZ/view</name>
+      <description><![CDATA[ORDINANZA N. 2026/01389<br><br>DIVIETO DI SOSTA<br>AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA<br>SU CORSO ITALIA, DA VIA SAGARRIGA VISCONTI A VIA TREVISANI, VIA<br>TREVISANI DA CORSO ITALIA A VIA CRISANZIO, VIA CRISANZIO DAL CIVICO<br>169/A A VIA TREVISANI, VIA CRISANZIO DA VIA TREVISANI AL CIVICO 202 DI<br>VIA CRISANZIO DAL 23 MARZO 2026 AL 30 APRILE 2026 DALLE ORE 07.00<br>ALLE ORE 17.00<br>IMPRESA: DMF COSTRUZIONI S.R.L.<br>ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF<br>COSTRUZIONI S.R.L.)<br>L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento<br>carreggiata su:<br>1. Corso Italia: Da via Sagarriga Visconti a Via Trevisani<br>2. Via Trevisani: Da Corso Italia a Via Crisanzio<br>3. Via Crisanzio: Da dal civico 169/A a via Trevisani<br>4. Via Crisanzio: Da Via Trevisani al civico 202 di via Crisanzio<br>5. Al fine della sicurezza pedonale e veicolare, verranno utilizzati i movieri per la gestione della mobilità e<br>l’utilizzo di transenne metalliche modulari (di dimensioni 3,00 x 2,00) per la delimitazione diurna e<br>notturna del cantiere;<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br><br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>termine e durata: 23/03/206 al 30/04/2026 DALLE ORE 07.00<br>ALLE ORE 17.00<br><br>https://drive.google.com/file/d/1wmF81ytOYFkGp_zY_GZ-docSXdCMibxZ/view]]></description>
+      <styleUrl>#line-F57C00-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8601761,41.1193237,0
+          16.8602512,41.118079,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA N. 2026/01389
+
+DIVIETO DI SOSTA
+AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA
+SU CORSO ITALIA, DA VIA SAGARRIGA VISCONTI A VIA TREVISANI, VIA
+TREVISANI DA CORSO ITALIA A VIA CRISANZIO, VIA CRISANZIO DAL CIVICO
+169/A A VIA TREVISANI, VIA CRISANZIO DA VIA TREVISANI AL CIVICO 202 DI
+VIA CRISANZIO DAL 23 MARZO 2026 AL 30 APRILE 2026 DALLE ORE 07.00
+ALLE ORE 17.00
+IMPRESA: DMF COSTRUZIONI S.R.L.
+ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF
+COSTRUZIONI S.R.L.)
+L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento
+carreggiata su:
+1. Corso Italia: Da via Sagarriga Visconti a Via Trevisani
+2. Via Trevisani: Da Corso Italia a Via Crisanzio
+3. Via Crisanzio: Da dal civico 169/A a via Trevisani
+4. Via Crisanzio: Da Via Trevisani al civico 202 di via Crisanzio
+5. Al fine della sicurezza pedonale e veicolare, verranno utilizzati i movieri per la gestione della mobilità e
+l’utilizzo di transenne metalliche modulari (di dimensioni 3,00 x 2,00) per la delimitazione diurna e
+notturna del cantiere;
+3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e
+
+divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;
+termine e durata: 23/03/206 al 30/04/2026 DALLE ORE 07.00
+ALLE ORE 17.00
+
+https://drive.google.com/file/d/1wmF81ytOYFkGp_zY_GZ-docSXdCMibxZ/view</name>
+      <description><![CDATA[ORDINANZA N. 2026/01389<br><br>DIVIETO DI SOSTA<br>AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA<br>SU CORSO ITALIA, DA VIA SAGARRIGA VISCONTI A VIA TREVISANI, VIA<br>TREVISANI DA CORSO ITALIA A VIA CRISANZIO, VIA CRISANZIO DAL CIVICO<br>169/A A VIA TREVISANI, VIA CRISANZIO DA VIA TREVISANI AL CIVICO 202 DI<br>VIA CRISANZIO DAL 23 MARZO 2026 AL 30 APRILE 2026 DALLE ORE 07.00<br>ALLE ORE 17.00<br>IMPRESA: DMF COSTRUZIONI S.R.L.<br>ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF<br>COSTRUZIONI S.R.L.)<br>L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento<br>carreggiata su:<br>1. Corso Italia: Da via Sagarriga Visconti a Via Trevisani<br>2. Via Trevisani: Da Corso Italia a Via Crisanzio<br>3. Via Crisanzio: Da dal civico 169/A a via Trevisani<br>4. Via Crisanzio: Da Via Trevisani al civico 202 di via Crisanzio<br>5. Al fine della sicurezza pedonale e veicolare, verranno utilizzati i movieri per la gestione della mobilità e<br>l’utilizzo di transenne metalliche modulari (di dimensioni 3,00 x 2,00) per la delimitazione diurna e<br>notturna del cantiere;<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br><br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>termine e durata: 23/03/206 al 30/04/2026 DALLE ORE 07.00<br>ALLE ORE 17.00<br><br>https://drive.google.com/file/d/1wmF81ytOYFkGp_zY_GZ-docSXdCMibxZ/view]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8601439,41.1186852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA N. 2026/01389
+
+DIVIETO DI SOSTA
+AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA
+SU CORSO ITALIA, DA VIA SAGARRIGA VISCONTI A VIA TREVISANI, VIA
+TREVISANI DA CORSO ITALIA A VIA CRISANZIO, VIA CRISANZIO DAL CIVICO
+169/A A VIA TREVISANI, VIA CRISANZIO DA VIA TREVISANI AL CIVICO 202 DI
+VIA CRISANZIO DAL 23 MARZO 2026 AL 30 APRILE 2026 DALLE ORE 07.00
+ALLE ORE 17.00
+IMPRESA: DMF COSTRUZIONI S.R.L.
+ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF
+COSTRUZIONI S.R.L.)
+L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento
+carreggiata su:
+1. Corso Italia: Da via Sagarriga Visconti a Via Trevisani
+2. Via Trevisani: Da Corso Italia a Via Crisanzio
+3. Via Crisanzio: Da dal civico 169/A a via Trevisani
+4. Via Crisanzio: Da Via Trevisani al civico 202 di via Crisanzio
+5. Al fine della sicurezza pedonale e veicolare, verranno utilizzati i movieri per la gestione della mobilità e
+l’utilizzo di transenne metalliche modulari (di dimensioni 3,00 x 2,00) per la delimitazione diurna e
+notturna del cantiere;
+3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e
+
+divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;
+termine e durata: 23/03/206 al 30/04/2026 DALLE ORE 07.00
+ALLE ORE 17.00
+
+https://drive.google.com/file/d/1wmF81ytOYFkGp_zY_GZ-docSXdCMibxZ/view</name>
+      <description><![CDATA[ORDINANZA N. 2026/01389<br><br>DIVIETO DI SOSTA<br>AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA<br>SU CORSO ITALIA, DA VIA SAGARRIGA VISCONTI A VIA TREVISANI, VIA<br>TREVISANI DA CORSO ITALIA A VIA CRISANZIO, VIA CRISANZIO DAL CIVICO<br>169/A A VIA TREVISANI, VIA CRISANZIO DA VIA TREVISANI AL CIVICO 202 DI<br>VIA CRISANZIO DAL 23 MARZO 2026 AL 30 APRILE 2026 DALLE ORE 07.00<br>ALLE ORE 17.00<br>IMPRESA: DMF COSTRUZIONI S.R.L.<br>ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF<br>COSTRUZIONI S.R.L.)<br>L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento<br>carreggiata su:<br>1. Corso Italia: Da via Sagarriga Visconti a Via Trevisani<br>2. Via Trevisani: Da Corso Italia a Via Crisanzio<br>3. Via Crisanzio: Da dal civico 169/A a via Trevisani<br>4. Via Crisanzio: Da Via Trevisani al civico 202 di via Crisanzio<br>5. Al fine della sicurezza pedonale e veicolare, verranno utilizzati i movieri per la gestione della mobilità e<br>l’utilizzo di transenne metalliche modulari (di dimensioni 3,00 x 2,00) per la delimitazione diurna e<br>notturna del cantiere;<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br><br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>termine e durata: 23/03/206 al 30/04/2026 DALLE ORE 07.00<br>ALLE ORE 17.00<br><br>https://drive.google.com/file/d/1wmF81ytOYFkGp_zY_GZ-docSXdCMibxZ/view]]></description>
+      <styleUrl>#line-E65100-3906</styleUrl>
+      <LineString>
+        <tessellate>1</tessellate>
+        <coordinates>
+          16.8608712,41.1193883,0
+          16.8601738,41.119356,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA N. 2026/01389
+
+DIVIETO DI SOSTA
+AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA
+SU CORSO ITALIA, DA VIA SAGARRIGA VISCONTI A VIA TREVISANI, VIA
+TREVISANI DA CORSO ITALIA A VIA CRISANZIO, VIA CRISANZIO DAL CIVICO
+169/A A VIA TREVISANI, VIA CRISANZIO DA VIA TREVISANI AL CIVICO 202 DI
+VIA CRISANZIO DAL 23 MARZO 2026 AL 30 APRILE 2026 DALLE ORE 07.00
+ALLE ORE 17.00
+IMPRESA: DMF COSTRUZIONI S.R.L.
+ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF
+COSTRUZIONI S.R.L.)
+L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento
+carreggiata su:
+1. Corso Italia: Da via Sagarriga Visconti a Via Trevisani
+2. Via Trevisani: Da Corso Italia a Via Crisanzio
+3. Via Crisanzio: Da dal civico 169/A a via Trevisani
+4. Via Crisanzio: Da Via Trevisani al civico 202 di via Crisanzio
+5. Al fine della sicurezza pedonale e veicolare, verranno utilizzati i movieri per la gestione della mobilità e
+l’utilizzo di transenne metalliche modulari (di dimensioni 3,00 x 2,00) per la delimitazione diurna e
+notturna del cantiere;
+3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e
+
+divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;
+termine e durata: 23/03/206 al 30/04/2026 DALLE ORE 07.00
+ALLE ORE 17.00
+
+https://drive.google.com/file/d/1wmF81ytOYFkGp_zY_GZ-docSXdCMibxZ/view</name>
+      <description><![CDATA[ORDINANZA N. 2026/01389<br><br>DIVIETO DI SOSTA<br>AMBO I LATI DELLA CARREGGIATA CON RESTRINGIMENTO CARREGGIATA<br>SU CORSO ITALIA, DA VIA SAGARRIGA VISCONTI A VIA TREVISANI, VIA<br>TREVISANI DA CORSO ITALIA A VIA CRISANZIO, VIA CRISANZIO DAL CIVICO<br>169/A A VIA TREVISANI, VIA CRISANZIO DA VIA TREVISANI AL CIVICO 202 DI<br>VIA CRISANZIO DAL 23 MARZO 2026 AL 30 APRILE 2026 DALLE ORE 07.00<br>ALLE ORE 17.00<br>IMPRESA: DMF COSTRUZIONI S.R.L.<br>ISTANTE: LOSACCO LUIGI (LEGALE RAPPRESENTANTE DELLA DMF<br>COSTRUZIONI S.R.L.)<br>L’istituzione temporanea del divieto di sosta ambo i lati della carreggiata con restringimento<br>carreggiata su:<br>1. Corso Italia: Da via Sagarriga Visconti a Via Trevisani<br>2. Via Trevisani: Da Corso Italia a Via Crisanzio<br>3. Via Crisanzio: Da dal civico 169/A a via Trevisani<br>4. Via Crisanzio: Da Via Trevisani al civico 202 di via Crisanzio<br>5. Al fine della sicurezza pedonale e veicolare, verranno utilizzati i movieri per la gestione della mobilità e<br>l’utilizzo di transenne metalliche modulari (di dimensioni 3,00 x 2,00) per la delimitazione diurna e<br>notturna del cantiere;<br>3. Tutti i provvedimenti in contrasto con la presente sono momentaneamente e provvisoriamente sospesi e<br><br>divengono nuovamente efficaci all’esaurimento dei termini previsti dal presente disposto;<br>termine e durata: 23/03/206 al 30/04/2026 DALLE ORE 07.00<br>ALLE ORE 17.00<br><br>https://drive.google.com/file/d/1wmF81ytOYFkGp_zY_GZ-docSXdCMibxZ/view]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.860442,41.1193883,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>ORDINANZA N. 2026/01388
+DIVIETO DI SOSTA CON RIMOZIONE
+
+FORZATA SU VIALE G.FALCONE E P. BORSELLINO
+ALL’ALTEZZA DEL CIVICO N.1-3 PER UNA SUPERFICIE PARI A MQ 6,10
+PER IL PERIODO DAL 30/03/2026 AL 04/04/2026 PER L’ALLACCIAMENTO DEL
+NUOVO EDIFICIO ALLA CONDOTTA DI FOGNA BIANCA COMUNALE
+ESISTENTE.
+RICHIEDENTE: STUDIO DI INGEGNERIA ING. MARCO PELLEGRINI
+1) divieto di sosta con rimozione forzata su viale G.Falcone e P. Borsellino all’altezza del civico n.1-3
+per una superficie pari a mq 6,10
+TERMINE E DURATA: DAL 30/03/2026 - 04/04/2026
+
+
+https://drive.google.com/file/d/1Er7aqSx41W3Q36w0uOxBCuX54bWnt39e/view</name>
+      <description><![CDATA[ORDINANZA N. 2026/01388<br>DIVIETO DI SOSTA CON RIMOZIONE<br><br>FORZATA SU VIALE G.FALCONE E P. BORSELLINO<br>ALL’ALTEZZA DEL CIVICO N.1-3 PER UNA SUPERFICIE PARI A MQ 6,10<br>PER IL PERIODO DAL 30/03/2026 AL 04/04/2026 PER L’ALLACCIAMENTO DEL<br>NUOVO EDIFICIO ALLA CONDOTTA DI FOGNA BIANCA COMUNALE<br>ESISTENTE.<br>RICHIEDENTE: STUDIO DI INGEGNERIA ING. MARCO PELLEGRINI<br>1) divieto di sosta con rimozione forzata su viale G.Falcone e P. Borsellino all’altezza del civico n.1-3<br>per una superficie pari a mq 6,10<br>TERMINE E DURATA: DAL 30/03/2026 - 04/04/2026<br><br><br>https://drive.google.com/file/d/1Er7aqSx41W3Q36w0uOxBCuX54bWnt39e/view]]></description>
+      <styleUrl>#icon-1541-E65100</styleUrl>
+      <Point>
+        <coordinates>
+          16.8733281,41.1004869,0
         </coordinates>
       </Point>
     </Placemark>
