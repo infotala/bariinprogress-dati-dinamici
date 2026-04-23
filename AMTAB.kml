@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>AMTAB, BUS E TRENI</name>
+    <Style id="icon-1532-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1532-558B2F-normal">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-558B2F-highlight">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1532-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1532-FBC02D-normal">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1532-FBC02D-highlight">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1532-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1532-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1532-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1716-0F9D58-normal">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1716-0F9D58-highlight">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1716-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1716-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1716-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1716-F9A825-normal">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1716-F9A825-highlight">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1716-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1716-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1716-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>NAVETTA A - VARIAZIONE PERCORSO OGNI LUNEDì
+
+</name>
+      <description><![CDATA[L’AMTAB S.p.A. informa che in riferimento all’Ordinanza n. 2026/01275-2026/185/00491 dell’11/02/2026 e conseguente disposizione prot. n. 06/03/2026.0088038.U, entrambe emanate dalla Ripartizione IVOP del Comune di Bari ed ai relativi provvedimenti adottati al fine di permettere il regolare svolgimento del mercato di merci varie del lunedì, a partire dal 16/03/2026 dalle ore 00:00 alle ore 17:00 il mercato del lunedì sarà delocalizzato presso il park and ride “Vittorio Veneto lato terra”. Pertanto, negli stessi orari di cui sopra, sarà vietato l’accesso a tutti gli autoveicoli, mentre a partire dalle ore 18,00 potrà essere ripresa l'ordinaria attività dell'area. Contestualmente, nelle giornate del lunedì sarà attivata straodinariamente l’area di sosta “Verdi” sita in via Giuseppe Verdi, nelle aree prospicienti la Fiera del Levante, ordinariamente utilizzate in occasione di eventi di rilievo.<br><br>La navetta “A” prolungherà il proprio percorso come di seguito indicato: i bus giunti su corso Vittorio Veneto, proseguiranno per lungomare Starita, via Adriatico, via Pinto, via Giordano, via Verdi, via Accettura (capolinea), via Mascagni, via Portoghese, viale Orlando, corso Vittorio Veneto con ripresa del percorso ordinario. In considerazione dell’allungamento del percorso, al fine di garantire le attuali frequenze della navetta “A” sarà potenziato il servizio.<br><br>Saranno effettuate tutte le fermate presenti lungo il predetto percorso.<br><br>Modalità di fruizione area di sosta- “Verdi”: la corresponsione della quota di € 1,00 per il conducente dell’autovettura avverrà all’ingresso dell’area di sosta mediante un preposto in loco, mentre la quota di € 0,30 per ciascun passeggero diverso dal conducente, avverrà prima della salita sul bus navetta.<br><br>Modalità di fruizione navetta “A”: la navetta sarà garantita dalle ore 05:30 (prima partenza) alle ore 23:00 (ultima partenza). L’accesso ai mezzi avverrà esclusivamente dalla porta anteriore, così da consentire il controllo preventivo dei titoli di viaggio per ogni singolo utente, da parte degli Addetti previsti.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8536556,41.1277486,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[VIA MARATONA
+
+L’AMTAB S.p.A. informa che in riferimento all'Ordinanza emanata dalla Ripartizione IVOP del Comune di Bari dal 07 luglio 2025 e sino a nuove disposizioni sarà disposto il differimento del capolinea dalle Piscine Comunali a via di Maratona, nella zona adiacente alle piscine comunali/stadio della Vittoria, dove i bus si attesteranno presso il capolinea provvisorio ubicato sul lato dx della via.
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444
+]]></name>
+      <description><![CDATA[https://www.amtab.it/it/140-news-chatbot/3140-capolinea-piscine-comunali-lavori-di-riqualificazione-e-ristrutturazione-regolamentazione-temporanea-della-circolazione-linee-2-2-6-22-27-42-variazioni-di-percorso-e-differimento-capolinea<br><br>Durata e tempistiche: dal 07 luglio 2025 e sino a nuove disposizioni<br><br>L’AMTAB S.p.A. informa che in riferimento all'Ordinaza emanata dalla Ripartizione Infrastrutture-Viabilità e Opere Pubbliche del Comune di Bari n. 2025/02110-2025/185/00946, in merito alla cantierizzazione dell’area del capolinea TPL ubicata tra via Verdi e via di Maratona, per l’avvio dei lavori di ristrutturazione e riqualificazione, dal 07 luglio 2025 e sino a nuove disposizioni, si prevede una regolamentazione temporanea della circolazione nelle aree di cui sopra. In pari data, sarà disposto il differimento del capolinea dalle Piscine Comunali a via di Maratona, nella zona adiacente alle piscine comunali/stadio della Vittoria, dove i bus si attesteranno presso il capolinea provvisorio ubicato sul lato dx della via. Contestualmente, le linee che fruiscono del predetto capolinea effettueranno alcune variazioni di percorso.<br><br> linea 2<br>in partenza da via di Maratona – Piscine Comunali: i bus in partenza dal capolinea provvisorio svolteranno a sx per via Verdi, a sx per via Accettura, a sx per via Mascagni, a destra per via di Maratona con ripresa del percorso ordinario;<br>in partenza dal C.S. Polivalente - Japigia: i bus effettueranno il percorso ordinario sino a via di Maratona dove effettueranno il capolinea provvisorio;<br>linea 2/<br>in partenza da via di Maratona – Piscine Comunali: i bus in partenza dal capolinea provvisorio svolteranno a sx per via Verdi con ripresa del percorso ordinario;<br>in partenza da via Conenna (S.Anna): i bus giunti in via Verdi, svolteranno a destra per via Vito Accettura, a sinistra per via Vito Mascagni, a sinistra per via di Maratona dove effettueranno il capolinea provvisorio;<br>linea 6<br>in partenza da via di Maratona – Piscine Comunali: i bus in partenza dal capolinea provvisorio svolteranno a sx per via Verdi, a sx per via Accettura, a sx per via Mascagni, a destra per via di Maratona con ripresa del percorso ordinario;<br>in partenza dal Parco Domingo: i bus effettueranno il percorso ordinario sino a via di Maratona dove effettueranno il capolinea provvisorio;<br>linea 22<br>in partenza dalle Piscine Comunali: i bus in partenza dal capolinea provvisorio svolteranno a sx per via Verdi con ripresa del percorso ordinario;<br>in partenza da Via Torre di Pizzo: i bus giunti in via Verdi, svolteranno a destra per via Vito Accettura, a sinistra per via Vito Mascagni, a sinistra per via di Maratona dove effettueranno il capolinea provvisorio;<br>linea 27<br>in partenza dalle Piscine Comunali: i bus in partenza dal capolinea provvisorio svolteranno a sx per via Verdi con ripresa del percorso ordinario;<br>in partenza da Via C. Rosalba: i bus giunti in via Verdi, svolteranno a destra per via Vito Accettura, a sinistra per via Vito Mascagni, a sinistra per via di Maratona dove effettueranno il capolinea provvisorio;<br>linea 42<br>in partenza dalle Piscine Comunali: i bus in partenza dal capolinea provvisorio svolteranno a sx per via Verdi con ripresa del percorso ordinario;<br>in partenza da Park & Ride “Pane e Pomodoro”: i bus giunti in via Verdi, svolteranno a destra per via Vito Accettura, a sinistra per via Vito Mascagni, a sinistra per via di Maratona dove effettueranno il capolinea provvisorio;<br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento dell’evento in oggetto.<br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8376749,41.1333044,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PIAZZA MORO
+
+L’AMTAB S.p.A. informa che in riferimento all’Ordinanza della Ripartizione IVOP del Comune di Bari ed ai relativi provvedimenti di circolazione, dal 22 aprile 2025 e sino a nuove disposizioni, si dispone la soppressione di due fermate in direzione piazza Umberto denominate “Bari Centrale” e “De Cesare” e contestualmente viene istituita una fermata provvisoria su via De Cesare tra il civico 16 ed il civico 18 in prossimità dell’incrocio con via Crisanzio.
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
+</name>
+      <description><![CDATA[08/04/2026<br>https://www.amtab.it/it/140-news-chatbot/3349-differimento-capolinea-e-fermate-lavori-di-riqualificazione-della-stazione-bari-centrale<br><br>https://www.amtab.it/it/140-news-chatbot/3071-lavori-di-riqualificazione-della-stazione-bari-centrale-regolamentazione-temporanea-della-circolazione-fermate-soppresse<br><br>Durata e tempistiche: dal 22 aprile 2025 e sino a nuove disposizioni<br>Viabilità: soppressione di due fermate in direzione piazza Umberto denominate “Bari Centrale” e “De Cesare” e contestualmente viene istituita una fermata provvisoria su via De Cesare tra il civico 16 ed il civico 18 in prossimità dell’incrocio con via Crisanzio.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8700863,41.1187791,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA CAPOSCARDICCHIO (QUARTIERE SAN PAOLO)
+L’AMTAB S.p.A. informa che a seguito dell’installazione della recinzione di cantiere in prossimità delle fermate ubicate in via Caposcardicchio (di fronte all’ingresso dell’Ospedale e di fronte al Pronto Soccorso) dal 17 ottobre 2023 e fino al termine dei lavori si dispone la soppressione provvisoria delle predette fermate.
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</name>
+      <description><![CDATA[https://www.amtab.it/it/109-notizie/2636-fermate-soppresse-in-via-caposcardicchio-quartiere-san-paolo<br><br>L’AMTAB S.p.A. informa che a seguito dell’installazione della recinzione di cantiere in prossimità delle fermate ubicate in via Caposcardicchio, rispettivamente di fronte all’ingresso dell’Ospedale e di fronte al Pronto Soccorso, che non consente più la fermata bus in sicurezza per gli utenti, dal 17 ottobre 2023 e fino al termine dei lavori si dispone la soppressione provvisoria delle predette fermate.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.7821523,41.1182997,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>PONTE GARIBALDI
+L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari n. 2026/185/00614 del 26/03/2026 che prevede la revoca delle limitazioni al transito sul ponte Garibaldi, dal 27/03/2026, i bus delle linee 2, 2/, 10, 14 e 25 riprenderanno i percorsi ordinari. Contestualmente viene soppressa la circolare “M” e ripristinato il percorso ordinario della linea 12; entrambe le misure erano state adottate al fine di limitare il disagio dei cittadini residenti al quartiere Madonnella, generato dai problemi di limitazione al transito dei bus sul ponte Garibaldi.
+
+L’Azienda ha predisposto un servizio di coordinamento esterno a supporto degli Operatori di Esercizio per le opportune esigenze che si renderanno necessarie durante la verifica dei percorsi ripristinati in oggetto.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</name>
+      <description><![CDATA[L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari n. 2026/185/00614 del 26/03/2026 che prevede la revoca delle limitazioni al transito sul ponte Garibaldi, dal 27/03/2026, i bus delle linee 2, 2/, 10, 14 e 25 riprenderanno i percorsi ordinari. Contestualmente viene soppressa la circolare “M” e ripristinato il percorso ordinario della linea 12; entrambe le misure erano state adottate al fine di limitare il disagio dei cittadini residenti al quartiere Madonnella, generato dai problemi di limitazione al transito dei bus sul ponte Garibaldi.<br><br>L’Azienda ha predisposto un servizio di coordinamento esterno a supporto degli Operatori di Esercizio per le opportune esigenze che si renderanno necessarie durante la verifica dei percorsi ripristinati in oggetto.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.<br><br>https://www.amtab.it/it/140-news-chatbot/3216-linee-2-2-10-14-e-25-variazioni-di-percorso-lavori-ponte-garibaldi<br><br><br>LINEE 2, 2/, 10, 14 e 25: VARIAZIONI DI PERCORSO - LAVORI PONTE GARIBALDI<br>L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari n. 2025/03413 che prevede provvedimenti temporanei di circolazione con l’istituzione del divieto di transito sul ponte Garibaldi con effetto immediato, i bus delle linee 2, 2/, 10, 14 e 25 effettueranno alcune variazioni di percorso.<br>LINEA 2<br>in direzione Piscine Comunali: i bus giunti in via Peucetia svolteranno a destra per via Masaniello, a sx per via Oberdan, via Capruzzi, sottopasso di Duca degli Abruzzi, piazza Luigi di Savoia, via Carulli con ripresa percorso ordinario;<br>in direzione C.S. Polivalente: i bus giunti in via Carulli svolteranno a dx per piazza Luigi di Savoia, sottopasso Duca degli Abruzzi, a sx per via Oberdan, a dx per via Masaniello, via Peucetia con ripresa del percorso ordinario;<br>LINEA 2/<br>in direzione Piscine Comunali: i bus giunti in via Peucetia svolteranno a destra per via Masaniello, a sx per via Oberdan, via Capruzzi, sottopasso di Duca degli Abruzzi, piazza Luigi di Savoia, via De Giosa con ripresa percorso ordinario;<br>in direzione Via Conenna: i bus giunti su corso Vittorio Emanuele svolteranno a dx per corso Cavour, a sx per via Carulli, a dx per piazza Luigi di Savoia, sottopasso Duca degli Abruzzi, a sx per via Oberdan, a dx per via Masaniello, via Peucetia con ripresa del percorso ordinario;<br>LINEA 10 <br>in direzione p.co Domingo:i bus giunti in via Peucetia svolteranno a destra per via Masaniello, a sx per via Oberdan, via Capruzzi, a sx per via Lattanzio con ripresa percorso ordinario;<br>in direzione C.S. Polivalente: i bus giunti in via dei Mille svolteranno a destra per via Capruzzi,via Oberdan, a dx per via Masaniello, via Peucetia con ripresa del percorso ordinario;<br>LINEA 14 <br>in direzione C.S. Polivalente Japigia: i bus giunti in via Carulli svolteranno a dx per piazza Luigi di Savoia, sottopasso Duca degli Abruzzi, a sx per via Oberdan, a dx per via Masaniello, via Peucetia con ripresa del percorso ordinario;<br>in partenza dal C.S. Polivalente Japigia: i bus giunti in via Peucetia svolteranno a destra per via Masaniello, a sx per via Oberdan, via Capruzzi, sottopasso di Duca degli Abruzzi, piazza Luigi di Savoia, via Carulli con ripresa percorso ordinario;<br>LINEA 25<br>in partenza da Degli Oleandri Z.I.: i bus giunti in via Peucetia svolteranno a destra per via Masaniello, a sx per via Oberdan, via Capruzzi, sottopasso di Duca degli Abruzzi, piazza Luigi di Savoia<br>in partenza da Piazza Luigi di Savoia: i bus effettueranno il percorso ordinario.<br>Saranno effettuate tutte le fermate esistenti lungo le variazioni di percorso sopra indicate.<br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento della manifesta]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8883162,41.1169874,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CORSO SONNINO
+
+L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione IVOP del Comune di Bari, i bus delle linee 2, 2/, 10, 14 e 25 effettueranno alcune variazioni di percorso.
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
+</name>
+      <description><![CDATA[https://www.amtab.it/it/140-news-chatbot/3214-linee-2-2-10-14-e-25-variazioni-di-percorso-lavori-stradali-in-corso-sonnino<br>LINEE 2, 2/, 10, 14 e 25: VARIAZIONI DI PERCORSO - LAVORI STRADALI IN CORSO SONNINO<br>L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari n. 2025/03413 che prevede provvedimenti temporanei di circolazione con l’istituzione del divieto di transito sulponte Garibaldi con effetto immediato, i bus delle linee 2, 2/, 10, 14 e 25, effettueranno alcune variazioni di percorso.<br>Saranno effettuate tutte le fermate esistenti lungo le variazioni di percorso sopra indicate.<br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento della manifestazione in oggetto.<br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8824313,41.1193458,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA CANNONE
+
+L’AMTAB S.p.A. informa che conseguentemente ai provvedimenti adottati dalla Ripartizione IVOP dal 29 ottobre 2025 e sino a nuove disposizioni, da inizio servizio e sino alle ore 18:00, i bus delle linee 2/ e 9 effettueranno alcune variazioni di percorso.
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
+</name>
+      <description><![CDATA[https://www.amtab.it/it/140-news-chatbot/3208-linee-2-e-9-variazioni-di-percorso-lavori-in-via-cannone-bari<br>LINEE 2/ e 9: VARIAZIONI DI PERCORSO - “LAVORI IN VIA CANNONE - BARI”<br>L’AMTAB S.p.A. informa che conseguentemente ai provvedimenti adottati dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche con ordinanza n. 2025/02607, per consentire il regolare svolgimento dei lavori in via Cannone, dal 29 ottobre 2025 e sino a nuove disposizioni, da inizio servizio e sino alle ore 18:00, i bus delle linee 2/ e 9 effettueranno alcune variazioni di percorso.<br>linea 2/<br>in direzione via Conenna (S. Anna): i bus giunti in via Quasimodo svolteranno a dx per via Maldacea, a dx per via Alpini d’Italia, a sx per via Quasimodo, a sx per via Gentile con ripresa del percorso ordinario;<br>in direzione Piscine Comunali: i bus giunti in via Gentile svolteranno a dx per via Quasimodo, a dx per via Alpini d’Italia, a sx per via Maldacea, a sx per via Quasimodo, a dx per via Gentile con ripresa del percorso ordinario;<br>linea 9<br>in direzione p.zza Giulio Cesare (Policlinico): i bus giunti in via Gentile svolteranno a sx per via Quasimodo, a dx per via Alpini d’Italia, a sx per via Maldacea, a sx per via Quasimodo, a dx per via Gentile con ripresa del percorso ordinario;<br>in direzione Polivalente: i bus giunti in via Gentile svolteranno a sx per via Quasimodo, a dx per via Maldacea, a dx per via Alpini d’Italia, a sx per via Quasimodo, a dx per via Gentile con ripresa del percorso ordinario;<br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento dell’evento in oggetto.<br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.9259969,41.1066976,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA MORELLI E SILVATI (TORRE A MARE)
+
+L’AMTAB S.p.A. informa che conseguentemente ai provvedimenti adottati dalla Ripartizione IVOP, per consentire il regolare svolgimento dei lavori in via Morelli e Silvati tra via Raffaele Resta e via Coppa di Bari, dal 28 ottobre 2025 e sino a nuove disposizioni, i bus delle linee 12 e 12/ effettueranno alcune variazioni di percorso.
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
+</name>
+      <description><![CDATA[https://www.amtab.it/it/140-news-chatbot/3207-linee-12-e-12-variazioni-di-percorso-lavori-a-torre-a-mare<br>LINEE 12 e 12/: VARIAZIONI DI PERCORSO - “LAVORI IN TORRE A MARE”<br>L’AMTAB S.p.A. informa che conseguentemente ai provvedimenti adottati dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche con ordinanza n. 2025/02639, per consentire il regolare svolgimento dei lavori in Torre a Mare e precisamente in via Morelli e Silvati tra via Raffaele Resta e via Coppa di Bari, dal 28 ottobre 2025 e sino a nuove disposizioni, i bus delle linee 12 e 12/ effettueranno alcune variazioni di percorso.<br>linea 12<br>in direzione via Fenicia (Torre a Mare): i bus giunti in via Coppa di Bari svolteranno a dx per lo svincolo della SS.16 in direzione Bari, raggiungeranno e impegneranno l’uscita “Noicattaro”, via Dogali, a dx per via Morelli e Silvati, a dx per via Fenicia con ripresa del percorso ordinario;<br>in direzione piazza Moro: i bus effettueranno il percorso ordinario.<br>linea 12/<br>in direzione via Fenicia (Torre a Mare): i bus giunti in via Morelli e Silvati, svolteranno a sx per via Raffaele Resta, a sx per via Paolo Gargano, a dx per via Lama di Giotta, a dx per via Trulli, a sx per via Fontana Nuova con ripresa del percorso ordinario;<br>in direzione piazza Moro: i bus effettueranno il percorso ordinario.<br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento dell’evento in oggetto.<br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          17.009568,41.0839328,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA PAPALIA
+
+Dal prossimo 19 gennaio Amtab ripristinerà il transito dei bus e le fermate della linea 2/ in via Papalia, al quartiere Japigia. Il provvedimento è stato adottato a seguito della richiesta avanzata dal sindaco di Bari, Vito Leccese, recependo le istanze emerse durante l’incontro con i cittadini svoltosi la scorsa settimana presso il comando della Polizia Locale.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</name>
+      <description><![CDATA[1401/2026 <br>Dal prossimo 19 gennaio Amtab ripristinerà il transito dei bus e le fermate della linea 2/ in via Papalia, al quartiere Japigia. Il provvedimento è stato adottato a seguito della richiesta avanzata dal sindaco di Bari, Vito Leccese, recependo le istanze emerse durante l’incontro con i cittadini svoltosi la scorsa settimana presso il comando della Polizia Locale.<br><br>La modifica del percorso della linea 2/ era stata introdotta lo scorso settembre in concomitanza con l’apertura di alcune aree di cantiere. Prima di tale periodo, l’area di via Papalia veniva utilizzata per le manovre di inversione di marcia dei mezzi della linea 2/, sia in andata sia in ritorno. A causa degli interventi, non era possibile effettuare le manovre, con la conseguente soppressione delle due fermate per ciascun senso di marcia.<br><br>Il ripristino del servizio ha richiesto una rimodulazione del tracciato della linea, sia in direzione Sant’Anna sia nel percorso di ritorno verso le Piscine comunali.<br><br>Nella giornata odierna la ripartizione Infrastrutture, Viabilità e Opere Pubbliche del Comune di Bari ha effettuato un sopralluogo congiunto con Amtab, alla presenza dell’assessore alla Cura del territorio, Domenico Scaramuzzi.<br><br>“Il dialogo con i cittadini è alla base dell’azione di questa amministrazione – ha dichiarato il sindaco di Bari, Vito Leccese –. Nel corso dell’incontro organizzato a Japigia è emersa la criticità legata alla soppressione temporanea delle fermate dei bus in via Papalia. A fronte delle richieste avanzate da numerosi residenti, in particolare persone anziane, ci siamo immediatamente attivati per ripristinare il servizio”.<br><br><br><br>LINEE 2/ e SERVIZIO SCOLASTICO: VARIAZIONI DI PERCORSO - “LAVORI IN VIA PAPALIA”<br>L’AMTAB S.p.A. informa che conseguentemente ai provvedimenti adottati dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche con ordinanza n. 2025/02812, per consentire il regolare svolgimento dei lavori in via Papalia, con effetto immediato e sino a nuove disposizioni, da inizio a fine servizio, i bus delle linee 2/ e del servizio scolastico effettueranno alcune variazioni di percorso.<br><br>linea 2/<br><br>- in direzione via Conenna (S. Anna): i bus giunti in via Carabellese proseguiranno sulla stessa, via D’Avanzo con ripresa del percorso ordinario;<br><br>- in direzione Piscine Comunali: i bus giunti in via Carabellese proseguiranno sulla stessa, via De Liguori con ripresa del percorso ordinario;<br><br><br>- corsa delle ore 07:00 da via Conenna: i bus giunti in via Caldarola proseguiranno sulla stessa, via Peucetia, via Caduti dei Partigiani con ripresa del percorso ordinario;<br><br><br>- corsa delle ore 13:30 da viale Bartolo: i bus giunti in via Caldarola proseguiranno sulla stessa, via Toscanini, con ripresa del percorso ordinario;<br><br><br>- corsa delle ore 14:30 da viale Bartolo: i bus giunti in via Caldarola proseguiranno sulla stessa, via Toscanini, con ripresa del percorso ordinario;<br><br>N.B. Viene istituita una fermata provvisoria, solo per il servizio scolastico, su via Caldarola in direzione via Pantaleo Carabellese.<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento dell’evento in oggetto.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1716-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.9055409,41.1061008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIALE EUROPA
+
+L’AMTAB S.p.A. informa che a seguito di Ordinanza pervenuta da parte della Ripartizione IVOP, al fine di consentire i lavori di realizzazione di ciclovie urbane, viene disposta con effetto immediato la soppressione provvisoria delle fermate ubicate su viale Europa, nel tratto compreso tra via B. Buozzi e Strada Provinciale 156 Bitonto-Palese Aeroporto/viale G. D’Annunzio, meglio identificate come: Europa/Ascianghi e Europa/Sopramarzo. 
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
+
+
+</name>
+      <description><![CDATA[SOPPRESSIONE FERMATE: VIALE EUROPA<br>L’AMTAB S.p.A. informa che a seguito di Ordinanza pervenuta da parte della Ripartizione IVOP n. 2025/03162, al fine di consentire i lavori di realizzazione di ciclovie urbane, viene disposta con effetto immediato la soppressione provvisoria delle fermate ubicate su viale Europa, nel tratto compreso tra via B. Buozzi e Strada Provinciale 156 Bitonto-Palese Aeroporto/viale G. D’Annunzio, meglio identificate come: Europa/Ascianghi e Europa/Sopramarzo. Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8378363,41.1217167,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CORSO VITTORIO VENETO
+
+L’AMTAB S.p.A. informa che a seguito di Ordinanza pervenuta da parte della Ripartizione IVOP al fine di consentire i lavori sulla sede stradale, viene disposta con effetto immediato e sino a nuove disposizioni, la soppressione provvisoria della fermata ubicata su corso Vittorio Veneto, meglio identificata come GdF/fronte. Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444</name>
+      <description>L’AMTAB S.p.A. informa che a seguito di Ordinanza pervenuta da parte della Ripartizione IVOP al fine di consentire i lavori sulla sede stradale, viene disposta con effetto immediato e sino a nuove disposizioni, la soppressione provvisoria della fermata ubicata su corso Vittorio Veneto, meglio identificata come GdF/fronte. Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8454124,41.1331535,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA TRULLI
+
+L’AMTAB S.p.A. informa che a seguito di ordinanza emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari, con la quale viene regolamentata temporaneamente la circolazione stradale su via Trulli in Torre a Mare, dal 20/01/2026 al 15/03/2026 da inizio a fine servizio, i bus della linea 12 osservando alcune variazioni di percorso.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
+
+</name>
+      <description><![CDATA[LINEA 12: VARIAZIONE DI PERCORSO - DIVIETO DI TRANSITO SU VIA TRULLI<br>L’AMTAB S.p.A. informa che a seguito di ordinanza emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari n. 2026/00208, con la quale viene regolamentata temporaneamente la circolazione stradale su via Trulli in Torre a Mare, dal 20/01/2026 al 15/03/2026 da inizio a fine servizio, i bus della linea 12 osservando alcune variazioni di percorso.<br><br>linea 12<br><br>in direzione via Fenicia: i bus giunti in via Morelli e Silvati svolteranno a dx per via Fenicia sino al raggiungimento del capolinea (il bus non transita da via Resta, via Lama di Giotta, via Trulli, via Fontana Nuova);<br><br>in direzione complanare ovest: i bus giunti in via Morelli e Silvati proseguiranno sulla stessa e svolteranno a dx per via Coppa di Bari con ripresa del percorso ordinario (il bus non transita da via Resta, via Lama di Giotta, via Trulli, via Fontana Nuova);<br><br>in direzione piazza Moro: i bus effettueranno il percorso ordinario.<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante la variazione proposta.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          17.0028057,41.0883903,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FAL: CORSO VITTORIO VENETO
+
+Si informa la gentile clientela che, per la realizzazione del sistema BRT (Bus Rapid Transit), un servizio di trasporto pubblico rapido su gomma con corsie preferenziali, il Comune di Bari ha disposto il divieto di fermata su entrambi i lati di corso Vittorio Veneto, nel tratto compreso tra via Brigata Regina e via Niccolò Pizzoli (Liceo Ginnasio “Orazio Flacco”) e Piazza Massari dal 21 gennaio 2026 al 21 febbraio 2026.</name>
+      <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6OU2v0gKNEvCGFglq1IsdoLv_su0JM5WHLWAgvx1yUz7HRwuQI7AlGKSoo-UfExe8pLkfztEj70kmHi66dQHp81ZsFFh0_ac2JMZ-oqk1iQEIHgSfe6ujtHHl4q5CSBcbTeR2qSO7R1BlyZ23m3RzEMSaL3O_5zSPJHGuP2Juk6jx6gSzJsHicreXfuEA2G4Ek0ciHdvDD11jqrPRxiyTteEouC-rfWwixXne8uMiPyi4c8YTtYj1naIE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>https://ferrovieappulolucane.it/comunic-di-servizio/soppressione-fermate-corso-vittorio-veneto-e-piazza-massari-bari_26012026_0959/<br><br>Riassunto<br>Soppressione fermate su corso Vittorio Veneto e piazza Massari, a Bari, dal 21 gennaio al 21 febbraio 2026.<br><br>Si informa la gentile clientela che, per la realizzazione del sistema BRT (Bus Rapid Transit), un servizio di trasporto pubblico rapido su gomma con corsie preferenziali, il Comune di Bari ha disposto il divieto di fermata su entrambi i lati di corso Vittorio Veneto, nel tratto compreso tra via Brigata Regina e via Niccolò Pizzoli (Liceo Ginnasio “Orazio Flacco”) e Piazza Massari dal 21 gennaio 2026 al 21 febbraio 2026.<br><br>Pertanto, nel periodo indicato le fermate presenti nel tratto interessato saranno temporaneamente soppresse.<br><br>BLU: DA BARI<br>VERDE: PER BARI<br><br>https://ferrovieappulolucane.it/wp-content/uploads/2026/01/MANIFESTO-ORARIO-CORSE-BUS-19-GEN-2026.pdf<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4O3ft8iLu_pLjuDTwlW62Q-m6BpZlSKgiLWjmVxpifoZki0g9-W4J8dRk9gshrlzEbRn2AkZM3NaFuhXLEN14xULTdvqCmuBo9cxrj5hfhB0bzSRSsjwXbIE21Wd0NJc2O8LlaDGu-frnstHnf5oA9lXD-fB0DUXA_hzupLTcr-F_0aR77Bu3_KNEHKK774tjZXnmkYFNC4xgroZqpIFtwwjFJSB2sXTYJKxyhQE20BN5aSvpCpurNGkk?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+      <styleUrl>#icon-1532-0F9D58</styleUrl>
+      <ExtendedData>
+        <Data name="gx_media_links">
+          <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6OU2v0gKNEvCGFglq1IsdoLv_su0JM5WHLWAgvx1yUz7HRwuQI7AlGKSoo-UfExe8pLkfztEj70kmHi66dQHp81ZsFFh0_ac2JMZ-oqk1iQEIHgSfe6ujtHHl4q5CSBcbTeR2qSO7R1BlyZ23m3RzEMSaL3O_5zSPJHGuP2Juk6jx6gSzJsHicreXfuEA2G4Ek0ciHdvDD11jqrPRxiyTteEouC-rfWwixXne8uMiPyi4c8YTtYj1naIE?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4O3ft8iLu_pLjuDTwlW62Q-m6BpZlSKgiLWjmVxpifoZki0g9-W4J8dRk9gshrlzEbRn2AkZM3NaFuhXLEN14xULTdvqCmuBo9cxrj5hfhB0bzSRSsjwXbIE21Wd0NJc2O8LlaDGu-frnstHnf5oA9lXD-fB0DUXA_hzupLTcr-F_0aR77Bu3_KNEHKK774tjZXnmkYFNC4xgroZqpIFtwwjFJSB2sXTYJKxyhQE20BN5aSvpCpurNGkk?authuser=0&fife=s16383]]></value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          16.8649038,41.1288646,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>FERROTRAMVIARIA: CORSO VITTORIO VENETO
+
+Si avvisano i Signori Viaggiatori che, in ottemperanza alla Ordinanza Dirigenziale emessa dalla Ripartizione Infrastrutture - Viabilità e Opere Pubbliche della Città di Bari, per consentire i lavori per la realizzazione del sistema BRT è istituito il divieto di fermata su ambedue i lati di Corso Vittorio Veneto in Bari (tratto compreso fra Via Niccolò Pizzoli e Via Brigata R</name>
+      <description><![CDATA[Ferrotramviaria SPA<br>Avvisi<br>AUTOLINEE - SOPPRESSIONE FERMATE IN BARI<br><br>Si avvisano i Signori Viaggiatori che, in ottemperanza alla Ordinanza Dirigenziale n° 2026/00289 del 20 gennaio 2026 emessa dalla Ripartizione Infrastrutture - Viabilità e Opere Pubbliche della Città di Bari, per consentire i lavori per la realizzazione del sistema BRT è istituito il divieto di fermata su ambedue i lati di Corso Vittorio Veneto in Bari (tratto compreso fra Via Niccolò Pizzoli e Via Brigata Regina).<br><br>Pertanto, nelle giornate dal 21 gennaio al 21 febbraio 2026, le fermate su Corso Vittorio Veneto saranno effettuate come segue:<br><br>LINEA BARI - BARLETTA<br>la fermata fronte caserma Macchi viene soppressa ed anticipata fronte Uffici Comunali;<br><br>LINEA BARLETTA - BARI<br>la fermata presso l’Istituto d’Arte viene soppressa ed anticipata in Via Brigata Regina fronte Carmelitani.]]></description>
+      <styleUrl>#icon-1532-558B2F</styleUrl>
+      <Point>
+        <coordinates>
+          16.8650909,41.128894,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA LOIACONO
+
+L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari che prevede provvedimenti temporanei di circolazione su via Loiacono, dal 10 febbraio al 09 marzo 2026 da inizio a fine servizio, i bus delle linee 2, 2/, 9, 10, 12/, 23, 25 e del Servizio Scolastico effettueranno alcune variazioni di percorso.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
+</name>
+      <description><![CDATA[L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari n. 2026/00621 che prevede provvedimenti temporanei di circolazione su via Loiacono, dal 10 febbraio al 09 marzo 2026 da inizio a fine servizio, i bus delle linee 2, 2/, 9, 10, 12/, 23, 25 e del Servizio Scolastico effettueranno alcune variazioni di percorso.<br><br>linee 2 e 10<br><br>in direzione C.S. Polivalente Japigia: i bus giunti in via Prezzolini svolteranno a dx per via Caldarola, a sx per via Toscanini con ripresa del percorso ordinario;<br><br>in partenza dal C.S. Polivalente Japigia: i bus effettueranno il percorso ordinario;<br><br>linea 2/<br><br>in direzione via Conenna: i bus giunti in via D’Avanzo svolteranno a dx per via Loiacono, a sx per via Caldarola, a sx per via Toscanini con ripresa del percorso ordinario;<br><br>in direzione piscine Comunali: i bus giunti al C.S. Polivalente effettueranno l’inversione di marcia, a sx per via Toscanini, a sx per via Gentile, a sx per via de Liguori, via Pantaleo Carabellese, via Papalia, inversione di marcia e ripresa del percorso ordinario;<br><br>linea 9<br><br>in direzione Policlinico: i bus effettueranno il percorso ordinario;<br><br>in direzione C.S. Polivalente Japigia: i bus giunti su via Prezzolini svolteranno a sx per via Caldarola, a dx per via Martiri di Marzabotto, via Papalia, a sx per via Pantaleo Carabellese con ripresa del percorso ordinario;<br><br>linea 12/<br><br>in direzione Torre a Mare: i bus effettueranno il percorso ordinario;<br><br>in direzione piazza Moro: i bus giunti su via Prezzolini svolteranno a sx per via Caldarola, a dx per via Martiri di Marzabotto, via Papalia, a sx per via Pantaleo Carabellese con ripresa del percorso ordinario;<br><br>linea 23<br><br>in partenza da piazza Moro: i bus giunti su via Prezzolini svolteranno a sx per via Caldarola, a dx per via Martiri di Marzabotto, via Papalia, a sx per via Pantaleo Carabellese, via de Liguori, a dx per via Gentile, adx per via Toscanini, a dx per via Caldarola con ripresa del percorso ordinario;<br><br>linea 25<br><br>in direzione via degli Oleandri Z.I.: i bus giunti su via Prezzolini svolteranno a sx per via Caldarola, a dx per via Martiri di Marzabotto, via Papalia, a sx per via Pantaleo Carabellese con ripresa del percorso ordinario;<br><br>in direzione piazza Luigi di Savoia: i bus effettueranno il percorso ordinario;<br><br>Servizio scolastico – DEDIZIONE<br><br>ore 07:10 in partenza dal C.S. Polivalente Japigia: i bus in partenza dal capolinea di via Candarola proseguiranno sulla stessa, a dx per via Caduti dei partigiani con ripresa del percorso ordinario;<br><br>Per il servizio scolastico richiamato verrà istituita una fermata provvisoria in via Caldarola in corrispondenza di quella ubicata su via Pantaleo Carabellese.<br><br>Saranno effettuate tutte le fermate esistenti lungo le variazioni di percorso sopra indicate.<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento dei lavori in oggetto.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.9105972,41.105938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CORSO V. VENETO/VIA D’ASSISI/P.ZZA MASSARI
+
+L’AMTAB S.p.A. informa che in riferimento ai provvedimenti adottati dalla Ripartizione IVOP con Ordinanza, con cui vengono istituiti provvedimenti temporanei alla circolazione nel tratto compreso tra corso Vittorio Veneto, via S. Francesco D’Assisi e piazza Massari, per permettere i lavori alla sede stradale, dal 12 febbraio al 09 aprile 2026, da inizio a fine servizio, si dispongono alcune variazioni di percorso.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
+</name>
+      <description><![CDATA[LINEE: 2/, 22, 27, 42, 50, NAVETTE A, B e AB: VARIAZIONI DI PERCORSO - “PROVVEDIMENTI TEMPORANEI DI CIRCOLAZIONE” VENETO/D’ASSISI/MASSARI<br>L’AMTAB S.p.A. informa che in riferimento ai provvedimenti adottati dalla Ripartizione IVOP con Ordinanza n° 2026/00620, con cui vengono istituiti provvedimenti temporanei alla circolazione nel tratto compreso tra corso Vittorio Veneto, via S. Francesco D’Assisi e piazza Massari, per permettere i lavori alla sede stradale, dal 12 febbraio al 09 aprile 2026, da inizio a fine servizio, si dispongono alcune variazioni di percorso.<br><br>linea 2/<br>in direzione Piscine Comunali: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>in direzione via Conenna (S. Anna): i bus effettueranno il percorso ordinario;<br><br>linea 22<br>in direzione Piscine Comunali: i bus giunti in via Cairoli, svolteranno a sx per corso Vittorio Emanuele, piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>in direzione via Torre di Mizzo: i bus effettueranno il percorso ordinario;<br><br>linea 27<br>in direzione Piscine Comunali: i bus giunti in via Cairoli, svolteranno a sx per corso Vittorio Emanuele, piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>in direzione parco Domingo: i bus effettueranno il percorso ordinario;<br><br>linea 42<br>in direzione Piscine Comunali: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>in direzione area di sosta Pane & Pomodoro: i bus effettueranno il percorso ordinario;<br><br>linea 50<br>in partenza da piazza Moro: i bus giunti in via Cairoli, svolteranno a sx per corso Vittorio Emanuele, piazza Garibaldi, via Bonazzi, a dx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>navetta “A”<br>in direzione Piscine Comunali: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>navetta “B”<br>in partenza da piazza Massari: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a dx per corso Vittorio Veneto, a dx per piazza Massari con ripresa del percorso ordinario;<br><br>navetta “AB”<br>in direzione Piscine Comunali: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>Saranno effettuate tutte le fermate esistenti lungo le predette variazioni di percorso.<br><br>Per tutto quanto sopra vengono soppresse le seguenti fermate:<br><br>Prefettura<br>Giardini d’Aragona<br>Massari (A)<br>N.B. Per tutta la durata dei lavori e sino ad ulteriori esigenze il capolinea della navetta “B” sarà differito presso l’area di sosta “Pane e Pomodoro”.<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento dei lavori di cui sopra.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8650435,41.1285507,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA TOSCANINI
+
+L’AMTAB S.p.A. informa che in riferimento alla disposizione emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari che prevede provvedimenti temporanei di circolazione su via Toscanini, dal 23 febbraio al 23 marzo 2026 da inizio a fine servizio, i bus delle linee 2, 2/, 9, 10, 12/, 14, 23, 25, CPJ e del Servizio Scolastico effettueranno alcune variazioni di percorso.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444</name>
+      <description><![CDATA[LINEE 2, 2/, 9, 10, 12/, 14, 23, 25, CPJ, SERVIZIO SCOLASTICO: VARIAZIONI DI PERCORSO - LAVORI STRADALI IN VIA TOSCANINI<br>L’AMTAB S.p.A. informa che in riferimento alla disposizione emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari che prevede provvedimenti temporanei di circolazione su via Toscanini, dal 23 febbraio al 23 marzo 2026 da inizio a fine servizio, i bus delle linee 2, 2/, 9, 10, 12/, 14, 23, 25, CPJ e del Servizio Scolastico effettueranno alcune variazioni di percorso.<br><br>linee 2, 10, 14<br><br>in direzione C.S. Polivalente Japigia: i bus giunti in via Prezzolini svolteranno a dx per via Caldarola, a sx per via Toscanini, via Suglia, a dx per via Toscanini, a sx per via Gentile, a sx per via Loiacono, a sx per via Caldarola, capolinea;<br><br>in partenza dal C.S. Polivalente Japigia: i bus effettueranno il percorso ordinario;<br><br>linea 2/<br><br>in direzione via Conenna: i bus giunti in via D’Avanzo svolteranno a dx per via Loiacono, a sx per via Caldarola, a sx per via Toscanini con ripresa del percorso ordinario;<br><br>in direzione piscine Comunali: i bus giunti in via Gentile proseguiranno sulla stessa sino a svoltare a sx per via Loiacono a sx per via Caldarola, inversione di marcia, via Caldarola, a dx per via Martiri di Marzabotto, a dx per via Papalia con ripresa del percorso ordinario;<br><br>linea 9<br><br>in direzione Policlinico: i bus effettueranno il percorso ordinario;<br><br>in direzione C.S. Polivalente Japigia: i bus giunti su via Prezzolini svolteranno a sx per via Caldarola, a dx per via Martiri di Marzabotto, via Papalia, a sx per via Pantaleo Carabellese, a dx per via Gentile, a sx per via Quasimodo, via Palasciano, via Gentile, a sx per via Loiacono, a sx per via Caldarola, capolinea;<br><br>linea 12/ (corse transitanti dal C.S. Polivalente)<br><br>in direzione Torre a Mare: i bus effettueranno il percorso ordinario;<br><br>in direzione piazza Moro: i bus giunti su via Gentile, a sx per via Loiacono, a sx per via Caldarola, a sx per via Toscanini, a sx per via Gentile con ripresa del percorso ordinario;<br><br>linea 23<br><br>in partenza da piazza Moro: i bus giunti in via Prezzolini svolteranno a dx per via Caldarola, a sx per via Toscanini, a sx per via Gentile, a sx per via Loiacono, a sx per via Caldarola, inversione all’incrocio semaforico con ripresa del percorso ordinario;<br><br>linea 25<br><br>in direzione via degli Oleandri Z.I.: i bus giunti su via Prezzolini svolteranno a sx per via Caldarola, a dx per via Martiri di Marzabotto, via Papalia, a sx per via Pantaleo Carabellese con ripresa del percorso ordinario;<br><br>in direzione piazza Luigi di Savoia: i bus effettueranno il percorso ordinario;<br><br>CPJ - circolare<br><br>in partenza dal C.S. Polivalente: i bus giunti in via Gentile, svolteranno a dx per via Loiacono, a sx per via Caldarola, inversione all’incrocio semaforico con ripresa del percorso ordinario;<br><br>Servizio scolastico – DEDIZIONE<br><br>ore 07:00 in partenza da via Conenna: i bus giunti su via Gentile, a sx per via Loiacono, a sx per via Caldarola, inversione all’incrocio semaforico, capolinea per effettuare le ore 07:10 dal C.S. Polivalente, via Caldarola, via caduti Partigiani con ripresa del percorso ordinario;<br><br>Per il servizio scolastico su richiamato verrà istituita una fermata provvisoria in via Caldarola in corrispondenza di quella ubicata su via Pantaleo Carabellese.<br><br>Servizio scolastico – UMILTA’<br><br>ore 13:30 in partenza dall’Ist. Marco Polo: i bus dopo aver transitato all’interno del quartiere S. Anna e giunti su via Gentile, a sx per via Loiacono, a sx per via Caldarola, capolinea.<br><br>Saranno effettuate tutte le fermate esistenti lungo le variazioni di percorso sopra indicate.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.9129652,41.1044711,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>STAZIONE CENTRALE
+
+Dal 5 all’8 marzo la stazione di Bari Centrale sarà interessata da interventi di potenziamento tecnologico e infrastrutturale a cura di Rete Ferroviaria Italiana (Gruppo FS) che comporteranno una rimodulazione dell’offerta ferroviaria nel nodo di Bari.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800892021
+</name>
+      <description><![CDATA[https://www.rfi.it/it/news-e-media/comunicati-stampa-e-news/2026/2/25/rfi---bari-centrale--modifiche-alla-circolazione-per-il-completa.html<br><br>https://www.pugliapress.org/2026/02/26/modifiche-bari-centrale-5-8-marzo/<br><br>RFI - Bari Centrale: Modifiche alla circolazione per il completamento del raddoppio della linea Bari-Taranto e per lavori di potenziamento tecnologico<br>dal 5 all’8 marzo<br>oltre 100 i tecnici al lavoro per un investimento complessivo di circa 120 milioni di euro<br>Bari, 25 febbraio 2026 – Dal 5 all’8 marzo la stazione di Bari Centrale sarà interessata da interventi di potenziamento tecnologico e infrastrutturale a cura di Rete Ferroviaria Italiana (Gruppo FS) che comporteranno una rimodulazione dell’offerta ferroviaria nel nodo di Bari.<br><br>Gli interventi<br><br>Gli interventi prevedono il completamento del raddoppio della linea Taranto – Bari in ingresso a Bari Centrale e le modifiche al piano del ferro della stazione per consentire l'interscambio tra i diversi gestori afferenti alla stazione. Contestualmente verrà attivato il nuovo Apparato Centrale Computerizzato (ACC), sistema all’avanguardia per la gestione della circolazione ferroviaria in sicurezza che garantirà una maggiore regolarità dei treni all’interno del nodo di Bari.<br>  <br>Cosa cambia per chi viaggia e dove trovare gli aggiornamenti<br>Per chi si sposta nei giorni interessati, la differenza la faranno le fermate alternative e gli interscambi, soprattutto tra il 5 e il 6 marzo e durante il weekend. Il programma di dettaglio dei treni coinvolti e delle fermate alternative nel nodo di Bari è disponibile sui canali di vendita delle imprese ferroviarie.<br><br>In caso di rinuncia al viaggio è previsto il rimborso integrale del titolo acquistato. È possibile consultare la sezione “Infomobilità” su sito e app Trenitalia, chiamare il call center gratuito 800 89 20 21 e rivolgersi al personale di stazione, che sarà presente con un presidio rafforzato. I viaggiatori saranno informati anche tramite sms, e-mail e notifiche in app.]]></description>
+      <styleUrl>#icon-1716-0F9D58</styleUrl>
+      <Point>
+        <coordinates>
+          16.8700441,41.1182092,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA DEL MONASTERO (QUARTIERE S.RITA)
+
+L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione IVOP del Comune di Bari ed ai relativi provvedimenti di circolazione adottati al fine di permettere il regolare svolgimento dei lavori all’impianto fognario e idrico in via Monastero angolo via Roccaporena nel quartiere S. Rita, dal 02 al 14 marzo 2026 da inizio a fine servizio, i bus delle linee 11 e 11/ effettueranno alcune variazioni di percorso.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444</name>
+      <description><![CDATA[LINEE 11 e 11/: VARIAZIONI DI PERCORSO - VIA DEL MONASTERO (QUARTIERE S.RITA)<br>L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione IVOP del Comune di Bari n. 2026/00869 ed ai relativi provvedimenti di circolazione adottati al fine di permettere il regolare svolgimento dei lavori all’impianto fognario e idrico in via Monastero angolo via Roccaporena nel quartiere S. Rita, dal 02 al 14 marzo 2026 da inizio a fine servizio, i bus delle linee 11 e 11/ effettueranno alcune variazioni di percorso.<br><br>linea 11<br><br>in direzione Loseto: i bus effettueranno il percorso ordinario;<br><br>in direzione piazza Moro: i bus giunti in via Cascia proseguiranno per via Lama del Duca con ripresa del percorso ordinario (non transiteranno da via Roccaporena e via Monastero);<br><br> <br><br>in direzione Loseto: i bus giunti in via Lama del Duca proseguiranno per via Cascia con ripresa del percorso ordinario (non transiteranno da via Roccaporena e via Monastero);<br><br>in direzione piazza Moro i bus effettueranno il percorso ordinario;<br><br> <br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento dei lavori in oggetto.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8594652,41.069598,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CORSO VITTORIO EMANUELE II
+ 
+L’AMTAB S.p.A. informa che in riferimento all’avanzamento dei lavori di scavo per interramento di cavi su corso Vittorio Emanuele II nel tratto compreso tra via Cairoli e via De Rossi, dal 03 al 13 marzo 2026, da inizio a fine servizio, le linee 2/, 22, 27, 42, 50, navette A, B e AB effettueranno alcune variazioni di percorso.
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
+</name>
+      <description><![CDATA[LINEE: 2/, 22, 27, 42, 50, NAVETTE A, B e AB: VARIAZIONI DI PERCORSO - LAVORI IN CORSO VITTORIO EMANUELE II<br>L’AMTAB S.p.A. informa che in riferimento all’avanzamento dei lavori di scavo per interramento di cavi su corso Vittorio Emanuele II nel tratto compreso tra via Cairoli e via De Rossi, dal 03 al 13 marzo 2026, da inizio a fine servizio, le linee 2/, 22, 27, 42, 50, navette A, B e AB effettueranno alcune variazioni di percorso.<br><br>linea 2/<br>in direzione Piscine Comunali: i bus giunti in via Peucetia, svolterà a dx per via Apulia, a sx per via Oberdan, via G. Capruzzi, a dx per il sottopasso Duca degli Abruzzi piazza Luigi di Savoia, via De Giosa, via Cognetti, corso Cavour, corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>in direzione via Conenna (S. Anna): i bus giunti in piazza Massari svolteranno a dx per corso Vittorio Emanuele, a sx per via Quintino Sella, a sx per via Piccinni, a dx per corso Cavour, a sx per via Carulli, a dx per piazza Luigi di Savoia, sottopasso Duca degli Abruzzi, a sx per via G. Capruzzi, via Oberdan, a dx per via Masaniello, a sx per via Peucetia con ripresa del percorso ordinario;<br><br>linea 22<br>in direzione Piscine Comunali: i bus giunti in via Piccinni, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>in direzione via Torre di Mizzo: i bus effettueranno il percorso ordinario;<br><br>linea 27<br>in direzione Piscine Comunali: i bus giunti in via Piccinni, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>in direzione parco Domingo: i bus effettueranno il percorso ordinario;<br><br>linea 42<br>in direzione Piscine Comunali: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br>in direzione area di sosta Pane & Pomodoro: i bus giunti in piazza Massari svolteranno a dx per corso Vittorio Emanuele, a sx per via Quintino Sella, a sx per via Piccinni, a dx per corso Cavour, lungomare di Crollalanza con ripresa del percorso ordinario;<br><br>linea 50<br>in partenza da piazza Moro: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a dx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>navetta “A”<br>in partenza dall’area di sosta ”Vittorio Veneto-lato terra”: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br><br>navetta “B”<br>in partenza da piazza Massari: i bus giunti in corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a dx per corso Vittorio Veneto, a dx per piazza Massari, a dx per corso Vittorio Emanuele, a sx per via Quintino Sella, a sx per via Piccinni, a dx per corso Cavour, lungomare di Crollalanza con ripresa del percorso ordinario;<br><br>navetta “AB”<br>in partenza dall’area di sosta ”Vittorio Veneto-lato terra”: i bus giunti in piazza Massari, svolteranno a dx per corso Vittorio Emanuele, a sx per via Quintino Sella, a sx per via Piccinni, a dx per corso Cavour, lungomare di Crollalanza, lungomare Nazario Sauro, lungomare Perotti, corso Trieste, via Ballestrero, corso Trieste (area di sosta Pane Pomodoro); lungomare Nazario Sauro, corso Vittorio Emanuele, proseguiranno per piazza Garibaldi, via Bonazzi, a sx per corso Vittorio Veneto con ripresa del percorso ordinario;<br>in direzione area di sosta Pane & Pomodoro: i bus giunti in piazza Massari svolteranno a dx per corso Vittorio Emanuele, a sx per via Quintino Sella, a sx per via Piccinni,<br><br>Saranno effettuate tutte le fermate esistenti lungo le predette variazioni di percorso.<br><br>Per tutto quanto sopra vengono soppresse le seguenti fermate:<br><br> Prefettura<br><br> Giardini d’Aragona<br><br> Anagrafe fronte<br><br> Emanuele/Sparano<br><br> Emanuele/Melo<br><br> Le fermate utili sono via Piccinni/Roberto da Bari]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8684878,41.1260212,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA TOSCANA 
+
+L’AMTAB SpA informa che in riferimento ai provvedimenti adottati dalla Ripartizione IVOP con Ordinanza n° 2026/00739, con cui viene disposta la chiusura al transito veicolare di via Toscana nel tratto compreso tra l’intersezione con largo Toscana e via Lazio, dal 09 al 17 marzo 2026, i bus delle linee 3, PERDONO, PAZIENZA, FIDUCIA, GENTILEZZA, LEGALITA’, CRESCITA, effettueranno alcune variazioni di percorso.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</name>
+      <description><![CDATA[linea 3<br><br>in direzione Ospedale S. Paolo: i bus effettueranno il percorso ordinario;<br><br>in direzione piazza Moro: i bus giunti in via Piemonte svolteranno a sx per via Alessandria, a dx per viale Lazio con ripresa del percorso ordinario;<br><br>PERDONO, PAZIENZA, FIDUCIA, GENTILEZZA, LEGALITA’, CRESCITA<br><br>in direzione istituti scolastici i bus giunti in via Piemonte svolteranno a sx per via Alessandria, a dx per viale Lazio con ripresa del percorso ordinario;<br><br>in partenza dagli istituti scolastici: i bus effettueranno il percorso ordinario;<br><br>Saranno effettuate tutte le fermate esistenti lungo le predette variazioni di percorso.<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento dei lavori di cui sopra.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.7947484,41.1186731,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA QUINTINO SELLA 
+
+L’AMTAB S.p.A. informa che in riferimento all’ordinanza pervenuta dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari n° 2026/00786, dal 23 febbraio al 23 marzo 2026, vengono istituiti provvedimenti temporanei alla circolazione che prevedono in particolare il restringimento di careggiata. Se nel tratto interessato dai lavori ricadesse una fermata bus AMTAB, si provvederà a sopprimere quella ordinaria e ove fosse possibile, differirla nelle zone limitrofe libere dal cantiere.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</name>
+      <description><![CDATA[L’AMTAB S.p.A. informa che in riferimento all’ordinanza pervenuta dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari n° 2026/00786, dal 23 febbraio al 23 marzo 2026, vengono istituiti provvedimenti temporanei alla circolazione che prevedono in particolare il restringimento di careggiata sulla via Quintino Sella per permettere l’esecuzione dei lavori propedeutici alla realizzazione del progetto “BRT”. Considerato che l’avanzamento del cantiere stradale avverrà per isolati interessandoli uno per volta, se nel tratto interessato dai lavori ricadesse una fermata bus AMTAB, si provvederà a sopprimere quella ordinaria e ove fosse possibile, differirla nelle zone limitrofe libere dal cantiere, segnalandola con una palina di fermata provvisoria e cercando di informare adeguatamente l’utenza.<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento dei lavori in oggetto.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8647402,41.1225682,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA AMEDEO DI SAVOIA DUCA D’AOSTA
+
+L’AMTAB SpA informa che in riferimento ai provvedimenti adottati dalla Ripartizione IVOP con Ordinanza n° 2026/00929, con cui viene disposta la chiusura al transito veicolare di via Amedeo di Savoia Duca d’Aosta nel tratto compreso tra l’intersezione con via Nisio/via Amedeo di Savoia Duca d’Aosta, dal 06 marzo 2026 al 05 marzo 2027 da inizio a fine servizio, i bus delle linee 1, 33, 61, EMPATIA – TENACIA – ONESTA’ effettueranno alcune variazioni di percorso
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</name>
+      <description><![CDATA[L’AMTAB SpA informa che in riferimento ai provvedimenti adottati dalla Ripartizione IVOP con Ordinanza n° 2026/00929, con cui viene disposta la chiusura al transito veicolare di via Amedeo di Savoia Duca d’Aosta nel tratto compreso tra l’intersezione con via Nisio/via Amedeo di Savoia Duca d’Aosta, dal 06 marzo 2026 al 05 marzo 2027 da inizio a fine servizio, i bus delle linee 1, 33, 61, EMPATIA – TENACIA – ONESTA’ effettueranno alcune variazioni di percorso.<br><br>linea 1<br><br>in direzione Santo Spirito: i bus effettueranno il percorso ordinario;<br><br>in direzione Bari: i bus giunti in via Armando Diaz, proseguiranno per via Nisio, svolteranno a sinistra per la traversa al n.10 di via Nazionale, a destra per via Nazionale con ripresa del percorso ordinario;<br><br>linea 33<br><br>in direzione Santo Spirito: i bus effettueranno il percorso ordinario;<br><br>in direzione Bari: i bus giunti in via Armando Diaz proseguiranno per via Nisio, svolteranno a sinistra per la traversa al n.10 di via Nazionale, a destra per via Nazionale con ripresa del percorso ordinario;<br><br>linea 61<br><br>in direzione Zona Industriale: i bus effettueranno il percorso ordinario;<br><br>in direzione Santo Spirito: i bus giunti in via D’Annunzio proseguiranno diritto per la traversa al n.10 di via Nazionale, a sinistra per via Nazionale con ripresa del percorso ordinario;<br><br>EMPATIA – TENACIA – ONESTA’<br><br>in direzione istituti scolastici: i bus giunti in via Armando Diaz, proseguiranno per via Nisio, svolteranno a sinistra per la traversa al n.10 di via Nazionale, a destra per via Nazionale con ripresa del percorso ordinario;<br><br>in partenza dagli istituti scolastici: i bus effettueranno il percorso ordinario;<br><br>Saranno effettuate tutte le fermate esistenti lungo le predette variazioni di percorso.<br><br>Per tutto quanto sopra vengono soppresse le seguenti fermate:<br><br> Duca d’Aosta/Guelfi<br><br> Duca d’Aosta/Capitano<br><br> Nazionale/Park Hotel<br><br> Le fermate utili sono Diaz/Duca d’Aosta e Nisio/Diaz<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento dei lavori di cui sopra.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.7682904,41.1537337,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NAVETTA A - VARIAZIONE PERCORSO OGNI LUNEDì</name>
+      <description><![CDATA[L’AMTAB S.p.A. informa che in riferimento all’Ordinanza n. 2026/01275-2026/185/00491 dell’11/02/2026 e conseguente disposizione prot. n. 06/03/2026.0088038.U, entrambe emanate dalla Ripartizione IVOP del Comune di Bari ed ai relativi provvedimenti adottati al fine di permettere il regolare svolgimento del mercato di merci varie del lunedì, a partire dal 16/03/2026 dalle ore 00:00 alle ore 17:00 il mercato del lunedì sarà delocalizzato presso il park and ride “Vittorio Veneto lato terra”. Pertanto, negli stessi orari di cui sopra, sarà vietato l’accesso a tutti gli autoveicoli, mentre a partire dalle ore 18,00 potrà essere ripresa l'ordinaria attività dell'area. Contestualmente, nelle giornate del lunedì sarà attivata straodinariamente l’area di sosta “Verdi” sita in via Giuseppe Verdi, nelle aree prospicienti la Fiera del Levante, ordinariamente utilizzate in occasione di eventi di rilievo.<br><br>La navetta “A” prolungherà il proprio percorso come di seguito indicato: i bus giunti su corso Vittorio Veneto, proseguiranno per lungomare Starita, via Adriatico, via Pinto, via Giordano, via Verdi, via Accettura (capolinea), via Mascagni, via Portoghese, viale Orlando, corso Vittorio Veneto con ripresa del percorso ordinario. In considerazione dell’allungamento del percorso, al fine di garantire le attuali frequenze della navetta “A” sarà potenziato il servizio.<br><br>Saranno effettuate tutte le fermate presenti lungo il predetto percorso.<br><br>Modalità di fruizione area di sosta- “Verdi”: la corresponsione della quota di € 1,00 per il conducente dell’autovettura avverrà all’ingresso dell’area di sosta mediante un preposto in loco, mentre la quota di € 0,30 per ciascun passeggero diverso dal conducente, avverrà prima della salita sul bus navetta.<br><br>Modalità di fruizione navetta “A”: la navetta sarà garantita dalle ore 05:30 (prima partenza) alle ore 23:00 (ultima partenza). L’accesso ai mezzi avverrà esclusivamente dalla porta anteriore, così da consentire il controllo preventivo dei titoli di viaggio per ogni singolo utente, da parte degli Addetti previsti.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-FBC02D</styleUrl>
+      <Point>
+        <coordinates>
+          16.8376029,41.1333866,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA CALDAROLA
+
+L’AMTAB S.p.A. informa che conseguentemente all’avanzamento dei lavori sulla corsia centrale di via Caldarola, nel tratto compreso tra via Prezzolini e via Toscanini, dal 18 marzo 2026 e sino a nuove disposizioni i bus del Servizio Scolastico effettueranno alcune variazioni al mattino nella fase di arrivo al Polivalente e nel pomeriggio nella fase di ripartenza dallo stesso centro scolastico.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
+</name>
+      <description><![CDATA[Arrivo al mattino: tutte le vetture del servizio scolastico, giunte al Polivalente, fermeranno sul marciapiede lato complanare del centro scolastico (corsia “A” - area di attestamento bus snodati) per permettere la discesa degli studenti; completata l’operazione i bus dovranno liberare l’area per permettere ai bus che arrivano successivamente di permettere la stessa operazione.<br><br>Ripartenza nel pomeriggio (ore 13:35): i bus delle linee Creatività, Legalità e Pazienza attenderanno gli studenti nella zona adiacente al capolinea (postazione AMTAB).<br><br>Ripartenza nel pomeriggio (ore 14:35): i bus delle linee Diligenza, Disciplina e Vitalità attenderanno gli studenti nella zona adiacente al capolinea (postazione AMTAB).<br><br>Al fine di limitare l’eventuale disagio agli studenti, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento dei lavori in oggetto.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.9091146,41.1020886,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LUNGOMARE NAZARIO SAURO
+
+L’AMTAB S.p.A. informa che a seguito di Ordinanza pervenuta da parte della Ripartizione IVOP, al fine di consentire l’esecuzione dei lavori propedeutici alla realizzazione del progetto “BRT”, dal 23 marzo 2026 e sino a nuove disposizioni, viene disposta la soppressione provvisoria della fermata ubicata sul lungomare Nazario Sauro, direzione centro città, meglio identificate come “Forestale Fronte”.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
+</name>
+      <description>L’AMTAB S.p.A. informa che a seguito di Ordinanza pervenuta da parte della Ripartizione IVOP, al fine di consentire l’esecuzione dei lavori propedeutici alla realizzazione del progetto “BRT”, dal 23 marzo 2026 e sino a nuove disposizioni, viene disposta la soppressione provvisoria della fermata ubicata sul lungomare Nazario Sauro, direzione centro città, meglio identificate come “Forestale Fronte”.</description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8883593,41.1196097,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[CORSO CAVOUR
+
+L’AMTAB S.p.A. informa che in riferimento all’Ordinanza della Ripartizione di Polizia Locale e Protezione Civile n. 2026/01335, relativa ai provvedimenti di circolazione adottati per il divieto di transito su corso Cavour, lungo l’isolato del Teatro Petruzzelli nel tratto compreso tra via Cognetti e via Alberto Sordi, in occasione della rassegna cinematografica “BIF&ST 2026 – Bari International Film & TV Festival”, dal 21 al 28 marzo 2026, i bus delle linee 2/, 4 e Navetta “C” effettueranno alcune variazioni di percorso.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.
+]]></name>
+      <description><![CDATA[dal 21 al 27 marzo 2026 dalle ore 19:30 alle ore 21:00 e dalle ore 23:00 alle ore 00:30<br><br>il 28 marzo 2025 dalle ore 18:30 alle ore 20:00 e dalle ore 21:30 alle ore 00:00<br><br>linea 2/<br><br>in direzione via Conenna - Japigia: i bus effettueranno il percorso ordinario;<br><br>in direzione Piscine Comunali: i bus giunti in piazza Luigi di Savoia, svolteranno a sx per via Carulli, via Prospero Petroni, a sx per via Melo, a dx per via Caduti di Via Fani, piazza Moro, a dx per via de Cesare, via Andrea da Bari, via Piccinni, via Cairoli con ripresa del percorso ordinario;<br><br>linea 4<br><br>in direzione Ist. Agronomico–Ceglie: i bus effettueranno il percorso ordinario;<br><br>in direzione piazza Moro: i bus giunti in via Cognetti, proseguiranno e svolteranno a sx per corso Cavour con ripresa del percorso ordinario;<br><br>navetta “C”<br><br>in partenza da largo 2 Giugno: i bus giunti in via Cognetti, proseguiranno e svolteranno a sx per corso Cavour con ripresa del percorso ordinario;<br><br>N.B. Saranno effettuate tutte le fermate esistenti lungo le predette variazioni di percorso.<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento della manifestazione in oggetto.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8726274,41.1235746,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>STP E FERROTRAMVIARIA
+ORDINANZA 2026/01458
+DEROGA DEL DIVIETO DI FERMATA 
+LUNGOMARE ARMANDO PEROTTI TRA VIA CANIO MUSACCHIO E VIA PIER DELFINO PESCE
+BRT
+IMPRESA ESECUTRICE:DMF COSTRUZIONI S.R.L.
+25/03/2026 - 31/03/2026
+</name>
+      <description><![CDATA[Ordinanza: 2026/01458<br><br>https://drive.google.com/file/d/1K-gT4XboqbFVS4WGVHG729mw2y3u7QA7/view<br><br>LAVORI DI REALIZZAZIONE DI UN SISTEMA BRT PER LA CITTÀ DI BARI -<br>FINANZIATO DALLA UNIONE EUROPEA NEXT GENERATION EU -<br>TRASPORTO RAPIDO DI MASSA - MISURA M2C2 - INV 4.2 DEL PNRR - CUP:<br>J91B21002850001<br>ISTITUZIONE TEMPORANEA DELLA DEROGA AL DIVIETO DI FERMATA<br>ESCLUSIVAMENTE PER GLI AUTOBUS DEL TRASPORTO PUBBLICO<br>EXTRAURBANO GESTITO DA STP S.P.A. E FERROTRAMVIARIA S.P.A. SU<br>LUNGOMARE ARMANDO PEROTTI<br><br>Durata e Tempistiche: 25/03/2026 - 31/03/2026]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8923593,41.1173705,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>QUARTIERE MADONNELLA
+CIRCOLARE “M”: ATTIVAZIONE STRAORDINARIA 
+L’AMTAB S.p.A. informa che al fine di limitare il disagio dei cittadini residenti al quartiere Madonnella, generato dai problemi di limitazione al transito dei bus sul ponte Garibaldi, dal 16 marzo 2026 e sino a nuove disposizioni sarà attivata straordinariamente una circolare denominata “M”.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</name>
+      <description><![CDATA[circolare “M”<br><br>Percorso: via Caduti del 28 luglio 1943 (chiesa S. Sabino-capolinea), dx per viale Imperatore Traiano, piazza Carlo Poerio, corso Sidney Sonnino, piazza Francesco Carabellese, dx per via Gian Domenico Petroni, dx per il lungomare Nazario Sauro, lungomare Armando Perotti, corso Trieste, dx via Caduti del 28 luglio 1943 (chiesa S. Sabino-capolinea).<br><br>Modalità di fruizione: dal lunedì alla domenica dalle ore 07:30 (prima partenza) alle ore 20:30 (ultima partenza). Per usufruire del servizio l’Utente dovrà munirsi di regolare titolo di viaggio.<br><br>Saranno effettuate tutte le fermate presenti lungo il predetto percorso<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento del servizio in oggetto.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8941667,41.1160686,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA GIULIO PETRONI
+LINEE 11 e 11/: FERMATA SOPPRESSA
+L’AMTAB S.p.A. informa che a seguito di Ordinanza pervenuta da parte della Ripartizione IVOP, al fine di consentire l’esecuzione dei lavori propedeutici alla realizzazione del progetto “BRT”, dal 30 marzo 2026 e sino a nuove disposizioni, viene disposta la soppressione provvisoria della fermata ubicata su via Giulio Petroni, direzione centro città, meglio identificata come “Petroni Lucarelli”.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444. 
+</name>
+      <description><![CDATA[LINEE 11 e 11/: FERMATA SOPPRESSA - VIA GIULIO PETRONI<br>L’AMTAB S.p.A. informa che a seguito di Ordinanza pervenuta da parte della Ripartizione IVOP, al fine di consentire l’esecuzione dei lavori propedeutici alla realizzazione del progetto “BRT”, dal 30 marzo 2026 e sino a nuove disposizioni, viene disposta la soppressione provvisoria della fermata ubicata su via Giulio Petroni, direzione centro città, meglio identificata come “Petroni Lucarelli”.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8666105,41.0934214,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA CARABELLESE
+LINEE 2, 2/, 9, 10 e 25: VARIAZIONI DI PERCORSO
+L’AMTAB S.p.A. informa che in riferimento alla disposizione emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari che prevede provvedimenti temporanei di circolazione su via Toscanini, dal 13 aprile 2026 e sino a nuove disposizioni, dalle ore 07:00 alle ore 17:00, i bus delle linee 2, 2/, 9, 10 e 25, effettueranno alcune variazioni di percorso.
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</name>
+      <description><![CDATA[L’AMTAB S.p.A. informa che in riferimento alla disposizione emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari che prevede provvedimenti temporanei di circolazione su via Toscanini, dal 13 aprile 2026 e sino a nuove disposizioni, dalle ore 07:00 alle ore 17:00, i bus delle linee 2, 2/, 9, 10 e 25, effettueranno alcune variazioni di percorso.<br><br>linea 2/<br><br>in direzione via Conenna: i bus giunti in via Gentile proseguiranno sulla stessa sino a svoltare a dx per via Loiacono, via D'Avanzo, via Carabellese, via Papalia, inversione di marcia con ripresa del percorso ordinario;<br><br>in direzione piscine Comunali: i bus giunti in via Gentile proseguiranno sulla stessa sino a svoltare a sx per via Loiacono, via D'Avanzo, via Carabellese, via Papalia, inversione di marcia, a dx per via Carabellese, via D'Avanzo, a sx per via Loiacono, a sx per via Gentile, con ripresa del percorso ordinario;<br><br>linea 9<br><br>in direzione Policlinico: i bus dopo aver percorso l'interno di Parco San Marco, via Gentile, a sx per via Loiacono, via D'Avanzo, via Carabellese, via Papalia, inversione di marcia, a dx per via Carabellese, via D'Avanzo, via Loiacono, via Prezzolini con ripresa del percorso ordinario;<br><br>in direzione C.S. Polivalente Japigia: i bus giunti in via Prezzolini, via Loiacono, via D'Avanzo, a sx per via Papalia, inversione di marcia, a dx per via Carabellese, via D'Avanzo, a sx per via Loiacono, a dx per via Gentile, con ripresa del percorso ordinario; dopo aver percorso l'interno di Parco San Marco, via Gentile, a sx per via Loiacono, via Caldarola. inversione di marcia per effettuare il capolinea;<br><br>linea 25<br><br>in direzione Z.I.: i bus giunti in via Crabellese svolteranno a sx per via Papalia, inversione di marcia, a dx per via Crabellese, a sx per via D'Avanzo, a sx per via Loiacono, a dx per via Gentile con ripresa del percorso ordinario.<br><br>linee 2, 2/, 9, 10<br><br>In entrambi i sensi di marcia le linee interessate non transiteranno per via Tenente Cesare Suglia <br><br>Saranno effettuate tutte le fermate esistenti lungo le variazioni di percorso sopra indicate.<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento dei lavori in oggetto.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.9067076,41.1076893,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>LUNGOMARE NAZARIO SAURO
+LINEE 42, NAVETTA A e AB: FERMATA SOPPRESSA
+L’AMTAB S.p.A. informa che a seguito di Ordinanza pervenuta da parte della Ripartizione IVOP, al fine di consentire l’esecuzione dei lavori propedeutici alla realizzazione del progetto “BRT”, dal 14 aprile 2026 e sino a nuove disposizioni, viene disposta la soppressione provvisoria della fermata ubicata sul lungomare Nazario Sauro, meglio identificate come “INPS Fronte” in direzione centro città.
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.</name>
+      <description><![CDATA[L’AMTAB S.p.A. informa che a seguito di Ordinanza pervenuta da parte della Ripartizione IVOP, al fine di consentire l’esecuzione dei lavori propedeutici alla realizzazione del progetto “BRT”, dal 14 aprile 2026 e sino a nuove disposizioni, viene disposta la soppressione provvisoria della fermata ubicata sul lungomare Nazario Sauro, meglio identificate come “INPS Fronte” in direzione centro città.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8852974,41.1206242,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[PONTE XX SETTEMBRE
+LINEE 4 e NAVETTA "C": VARIAZIONI DI PERCORSO "LAVORI RIFACIMENTO MANTO STRADALE
+L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari n. 2026/01860 che prevede provvedimenti temporanei di circolazione con l’istituzione del divieto di transito sul ponte XX Settembre dal 13 al 19 aprile 2026 dalle ore 23:30 alle ore 05:30, i bus delle linee 4 e navetta "C" effettueranno alcune variazioni di percorso.
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></name>
+      <description><![CDATA[L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari n. 2026/01860 che prevede provvedimenti temporanei di circolazione con l’istituzione del divieto di transito sul ponte XX Settembre dal 13 al 19 aprile 2026 dalle ore 23:30 alle ore 05:30, i bus delle linee 4 e navetta "C" effettueranno alcune variazioni di percorso.<br><br>LINEA 4<br><br>in direzione Ist. Agromico-Ceglie: i bus in partenza da piazza Eroi del Mare, percorreranno corso Cavour sino a svolatare a dx per via Carulli, a dx per piazza Luigi di Savoia, sottopass Duca degli Abruzzi, a dx per via G. Capruzzi, a sx per viale Unità d'Italia con ripresa del percorso ordinario;<br><br>in direzione piazza Eroi del Mare: i bus effettueranno il percorso ordinario; <br><br>NAVETTA "C"<br><br>in partenza dall'area di sosta di Largo 2 Giugno: i bus giunti in corso Cavour svolteranno a dx per via Carulli, a dx per piazza Luigi di Savoia, sottopass Duca degli Abruzzi, a dx per via G. Capruzzi, a sx per viale Unità d'Italia con ripresa del percorso ordinario.<br><br>Saranno effettuate tutte le fermate esistenti lungo le variazioni di percorso sopra indicate.<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento della manifestazione in oggetto.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8728871,41.118262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[PONTE GARIBALDI
+LINEE 2, 2/, 10, 14 e 25: VARIAZIONI DI PERCORSO "LAVORI RIFACIMENTO MANTO STRADALE
+L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari n. 2026/01662 che prevede provvedimenti temporanei di circolazione con l’istituzione del divieto di transito sul ponte Garibaldi, dal 13 al 16 aprile 2026 dalle ore 23:30 alle ore 05:30, i bus delle linee 2, 2/, 10, 14 e 25, effettueranno alcune variazioni di percorso.
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444]]></name>
+      <description><![CDATA[L’AMTAB S.p.A. informa che in riferimento all’Ordinanza emanata dalla Ripartizione Infrastrutture Viabilità e Opere Pubbliche del Comune di Bari n. 2026/01662 che prevede provvedimenti temporanei di circolazione con l’istituzione del divieto di transito sul ponte Garibaldi, dal 13 al 16 aprile 2026 dalle ore 23:30 alle ore 05:30, i bus delle linee 2, 2/, 10, 14 e 25, effettueranno alcune variazioni di percorso.<br><br>linea 2<br>in direzione Piscine Comunali: i bus giunti in via Peucetia svolteranno a destra per via Apulia, a sx per via Oberdan, via Capruzzi, sottopasso di Duca degli Abruzzi, piazza Luigi di Savoia, via Carulli con ripresa percorso ordinario;<br><br>in direzione C.S. Polivalente: i bus giunti in via Carulli svolteranno a dx per piazza Luigi di Savoia, sottopasso Duca degli Abruzzi, a sx per via Oberdan, a dx per via Masaniello, via Peucetia con ripresa del percorso ordinario;<br><br>linea 2/<br>in direzione Piscine Comunali: i bus giunti in via Peucetia svolteranno a destra per via Apulia, a sx per via Oberdan, via Capruzzi, sottopasso di Duca degli Abruzzi, piazza Luigi di Savoia, via De Giosa con ripresa percorso ordinario;<br><br>in direzione Via Conenna: i bus giunti su corso Vittorio Emanuele svolteranno a dx per corso Cavour, a sx per via Carulli, a dx per piazza Luigi di Savoia, sottopasso Duca degli Abruzzi, a sx per via Oberdan, a dx per via Masaniello, via Peucetia con ripresa del percorso ordinario;<br><br>linea 10<br>in direzione p.co Domingo: i bus giunti in via Peucetia svolteranno a destra per via Apulia, a sx per via Oberdan, via Capruzzi, a sx per via Lattanzio con ripresa percorso ordinario;<br><br>in direzione C.S. Polivalente: i bus giunti in via dei Mille svolteranno a destra per via Capruzzi, via Oberdan, a dx per via Masaniello, via Peucetia con ripresa del percorso ordinario;<br><br>linea 14<br>in direzione C.S. Polivalente Japigia: i bus giunti in via Carulli svolteranno a dx per piazza Luigi di Savoia, sottopasso Duca degli Abruzzi, a sx per via Oberdan, a dx per via Masaniello, via Peucetia con ripresa del percorso ordinario;<br><br>in partenza dal C.S. Polivalente Japigia: i bus giunti in via Peucetia svolteranno a destra per via Apulia, a sx per via Oberdan, via Capruzzi, sottopasso di Duca degli Abruzzi, piazza Luigi di Savoia, via Carulli con ripresa percorso ordinario;<br><br>linea 25<br>in partenza da Degli Oleandri Z.I.: i bus giunti in via Peucetia svolteranno a destra per via Apulia, a sx per via Oberdan, via Capruzzi, sottopasso di Duca degli Abruzzi, piazza Luigi di Savoia<br><br>in partenza da Piazza Luigi di Savoia: i bus effettueranno il percorso ordinario.<br><br>Saranno effettuate tutte le fermate esistenti lungo le variazioni di percorso sopra indicate.<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento della manifestazione in oggetto.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8883862,41.1170581,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>VIA NICOLAI
+LINEA 7: VARIAZIONI DI PERCORSO - “DIVIETO DI TRANSITO</name>
+      <description><![CDATA[L’AMTAB S.p.A. informa che in riferimento ai provvedimenti adottati dalla Ripartizione IVOP del Comune di Bari con Ordinanza n. 2026/01346, che prevede il divieto di transito su via Nicolai, dal 13 aprile 2026 e sino al termine delle esigenze, da inizio a fine servizio, i bus della linea 7 effettueranno alcune variazioni di percorso.<br><br>linea 7<br><br>in direzione Zona Ind.le: i bus in partenza dal capolinea di via Crisanzio, svolteranno a dx per via De Rossi, a sx per via Piccinni, piazza Garibaldi, via Crispi con ripresa del percorso ordinario;<br><br>in direzione via Crisanzio: i bus effettueranno il percorso ordinario;<br><br>Saranno effettuate tutte le fermate presenti lungo la predetta variazione di percorso.<br><br>Al fine di limitare l’eventuale disagio all’Utenza, l’Azienda ha predisposto un servizio di coordinamento esterno per le opportune esigenze che si renderanno necessarie durante lo svolgimento della manifestazione in oggetto.<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8560293,41.120531,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[VIA GIULIO PETRONI -LINEE 11 e 11/: FERMATE SOPPRESSE
+L’AMTAB S.p.A. informa che a seguito di Ordinanza pervenuta da parte della Ripartizione IVOP, al fine di consentire l’esecuzione dei lavori alla sede stradale, dal 16 aprile 2026 e sino a nuove disposizioni, viene disposta la soppressione provvisoria delle fermate ubicata su via Giulio Petroni, direzione centro città, meglio identificate come “Petroni/Osp. Mil.” e "Petroni/C. Rotto).
+
+Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></name>
+      <description><![CDATA[L’AMTAB S.p.A. informa che a seguito di Ordinanza pervenuta da parte della Ripartizione IVOP, al fine di consentire l’esecuzione dei lavori alla sede stradale, dal 16 aprile 2026 e sino a nuove disposizioni, viene disposta la soppressione provvisoria delle fermate ubicata su via Giulio Petroni, direzione centro città, meglio identificate come “Petroni/Osp. Mil.” e "Petroni/C. Rotto).<br><br>Ulteriori informazioni potranno essere richieste agli Operatori del Numero Verde 800450444.]]></description>
+      <styleUrl>#icon-1532-F9A825</styleUrl>
+      <Point>
+        <coordinates>
+          16.8674649,41.0976288,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
